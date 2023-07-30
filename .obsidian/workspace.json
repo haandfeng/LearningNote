@@ -69,8 +69,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -151,25 +150,25 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "ba6b4f22edd19ea3",
+  "active": "ab3df9bd0138c1ec",
   "lastOpenFiles": [
-    "MyNote",
-    "plugins",
-    "未命名文件夹",
+    "Obidian使用教程/9. DataView查询.pdf",
+    "Obidian使用教程/8. 搜索的技巧.pdf",
+    "Obidian使用教程/7. Obsidian插件（下）.pdf",
+    "Obidian使用教程/6. Obsidian插件（上）.pdf",
+    "Obidian使用教程/5. Obsidian使用技巧.pdf",
+    "Obidian使用教程/4. Obsidian中的链接.pdf",
+    "Obidian使用教程/3. 优雅的码字.pdf",
+    "Obidian使用教程/2. 使用Obsidian.pdf",
+    "Obidian使用教程/1. Obsidian简介.pdf",
+    "Obidian使用教程/10. 公开课总结.pdf",
+    "Obidian使用教程",
     "微信小程序.md",
     "算法笔记新手班.md",
     "李沐AI.md",
     "03-Oracle高级部分.md",
     "Users/ha/Library/Application.md",
     "Users/ha/Library/Containers/com.tencent.xinWeChat/Data/Library/Application.md",
-    "Users/ha/Library/Containers/com.tencent.xinWeChat/Data/Library",
-    "Users/ha/Library/Containers/com.tencent.xinWeChat/Data",
-    "Users/ha/Library/Containers/com.tencent.xinWeChat",
-    "Users/ha/Library/Containers",
-    "Users/ha/Library",
-    "Users/ha",
-    "Users",
-    "attachment",
     "test.md",
     "aaa.md",
     "pytorch.md",
