@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "4c2ab6348949ac36",
+    "type": "split",
+    "children": [
+      {
+        "id": "651c98a90d9333aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41d182c1f7d0d1d7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ab635de604a5016e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b080565a5bdc1ee0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab3df9bd0138c1ec",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aa677b3dd1721ac9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b3530f71fc66ad62",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "ba6b4f22edd19ea3",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "5a22bf979ae2ada9",
+    "type": "split",
+    "children": [
+      {
+        "id": "3615ad6956876181",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00fa95f1d3b9e16a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2f87866ceffc520a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "72b5f7755887e447",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8e0842b46de0cea8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "workspaces:管理工作区布局": false,
+      "audio-recorder:开始/结束录音": false,
+      "obsidian-memos:Memos": false
+    }
+  },
+  "active": "ba6b4f22edd19ea3",
+  "lastOpenFiles": [
+    "MyNote",
+    "plugins",
+    "未命名文件夹",
+    "微信小程序.md",
+    "算法笔记新手班.md",
+    "李沐AI.md",
+    "03-Oracle高级部分.md",
+    "Users/ha/Library/Application.md",
+    "Users/ha/Library/Containers/com.tencent.xinWeChat/Data/Library/Application.md",
+    "Users/ha/Library/Containers/com.tencent.xinWeChat/Data/Library",
+    "Users/ha/Library/Containers/com.tencent.xinWeChat/Data",
+    "Users/ha/Library/Containers/com.tencent.xinWeChat",
+    "Users/ha/Library/Containers",
+    "Users/ha/Library",
+    "Users/ha",
+    "Users",
+    "attachment",
+    "test.md",
+    "aaa.md",
+    "pytorch.md",
+    "Machine learning.md",
+    "JavaSE中级笔记.md",
+    "未命名.md",
+    "未命名.canvas"
+  ]
+}
