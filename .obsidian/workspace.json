@@ -147,12 +147,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 239.5,
-    "collapsed": true
+    "width": 239.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,7 +167,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "ab3df9bd0138c1ec",
+  "active": "8e0842b46de0cea8",
   "lastOpenFiles": [
     "Daily/2023-07-31.md",
     "算法笔记新手班.md",
