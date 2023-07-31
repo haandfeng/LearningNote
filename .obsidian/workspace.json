@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5a22bf979ae2ada9",
@@ -146,12 +147,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 239.5,
-    "collapsed": true
+    "width": 239.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,7 +167,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "fa9401785083d5f5",
+  "active": "8e0842b46de0cea8",
   "lastOpenFiles": [
     "Daily",
     "未命名文件夹",
