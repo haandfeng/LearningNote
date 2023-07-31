@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "43858eab3b98e316",
+        "id": "41733a6cf71319f1",
         "type": "tabs",
         "children": [
           {
-            "id": "5bc87b484f192856",
+            "id": "fa9401785083d5f5",
             "type": "leaf",
             "state": {
-              "type": "memos_view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "算法笔记新手班.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "算法笔记新手班.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "算法笔记新手班.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "算法笔记新手班.md"
+              }
             }
           },
           {
@@ -159,8 +167,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "f25abefced0eaffc",
+  "active": "fa9401785083d5f5",
   "lastOpenFiles": [
+    "Daily",
+    "未命名文件夹",
     "算法笔记新手班.md",
     "java基础.pdf",
     "Git.pdf",
@@ -171,7 +181,6 @@
     "Obidian使用教程/5. Obsidian使用技巧.pdf",
     "Obidian使用教程/4. Obsidian中的链接.pdf",
     "Obidian使用教程/3. 优雅的码字.pdf",
-    "Obidian使用教程/2. 使用Obsidian.pdf",
     "微信小程序.md",
     "李沐AI.md",
     "03-Oracle高级部分.md",
