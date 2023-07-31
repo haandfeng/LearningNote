@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "651c98a90d9333aa",
+        "id": "43858eab3b98e316",
         "type": "tabs",
         "children": [
           {
-            "id": "41d182c1f7d0d1d7",
+            "id": "5bc87b484f192856",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "memos_view",
               "state": {}
             }
           }
@@ -128,12 +128,21 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "f25abefced0eaffc",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 239.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -150,7 +159,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "ab3df9bd0138c1ec",
+  "active": "f25abefced0eaffc",
   "lastOpenFiles": [
     "算法笔记新手班.md",
     "java基础.pdf",
