@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "attachment/JavaSe.md",
+                "file": "java基础.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "attachment/JavaSe.md",
+                "file": "java基础.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "attachment/JavaSe.md"
+                "file": "java基础.pdf"
               }
             }
           },
@@ -167,11 +167,46 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "ab3df9bd0138c1ec",
+  "floating": {
+    "id": "1f44c3b9394e0bd7",
+    "type": "floating",
+    "children": [
+      {
+        "id": "57d501b62fe3ad42",
+        "type": "window",
+        "children": [
+          {
+            "id": "78df74013196faf1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "20bd98e30f8c925d",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "java基础.pdf"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 946,
+        "y": 38,
+        "width": 1016,
+        "height": 863,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "20bd98e30f8c925d",
   "lastOpenFiles": [
+    "attachment/JavaSe.md",
     "java基础.pdf",
     "Git.pdf",
-    "attachment/JavaSe.md",
     "算法笔记新手班.md",
     "JDBC.pdf",
     "JDBC.md",
