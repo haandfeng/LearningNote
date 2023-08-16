@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "算法笔记新手班",
+      "path": "算法笔记新手班.md"
+    },
+    {
+      "basename": "2023-07-31",
+      "path": "Daily/2023-07-31.md"
+    },
+    {
       "basename": "JavaSe",
       "path": "attachment/JavaSe.md"
     },
@@ -11,14 +19,6 @@
     {
       "basename": "Git",
       "path": "Git.pdf"
-    },
-    {
-      "basename": "算法笔记新手班",
-      "path": "算法笔记新手班.md"
-    },
-    {
-      "basename": "2023-07-31",
-      "path": "Daily/2023-07-31.md"
     }
   ],
   "omittedPaths": [],
