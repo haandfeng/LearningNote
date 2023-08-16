@@ -11,24 +11,11 @@
             "id": "dd5afca3b65b0de3",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "36f27f5036b8ee32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "算法笔记/算法体系笔记.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 203.5
   },
   "right": {
     "id": "5a22bf979ae2ada9",
@@ -102,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "算法笔记/算法体系笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "算法笔记/算法体系笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "算法笔记/算法体系笔记.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,8 +137,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -175,35 +157,54 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "ab3df9bd0138c1ec",
+  "active": "dd5afca3b65b0de3",
   "lastOpenFiles": [
-    "算法笔记",
+    "算法笔记/zuoAlgorithm/010. 代码模板/插入排序.md",
+    "算法笔记/zuoAlgorithm/000. 学习大纲/___算法数据结构新手班题目汇总.md",
+    "算法笔记/zuoAlgorithm/000. 学习大纲/___课程题目Summary.md",
+    "算法笔记/zuoAlgorithm/100. 算法课程/00. 新手班/02 前缀和数组、对数器和随机行为.md",
+    "算法笔记/zuoAlgorithm/000. 学习大纲/___算法数据结构新手班.md",
+    "算法笔记/zuoAlgorithm/100. 算法课程/00. 新手班/01 位运算、算法是什么、简单排序.md",
+    "算法笔记/zuoAlgorithm/000. 学习大纲/___★算法课笔记★.md",
+    "算法笔记/zuoAlgorithm/000. 学习大纲/_大厂刷题班题目汇总.md",
     "算法笔记/算法体系笔记.md",
-    "算法笔记/算法笔记新手班.md",
-    "判断是否平衡搜索二叉树.md",
-    "java基础.pdf",
-    "JDBC.pdf",
-    "Daily/2023-07-31.md",
-    "attachment/JavaSe.md",
-    "Git.pdf",
-    "JDBC.md",
-    "Daily",
-    "未命名文件夹",
-    "Obidian使用教程/9. DataView查询.pdf",
-    "Obidian使用教程/8. 搜索的技巧.pdf",
-    "Obidian使用教程/7. Obsidian插件（下）.pdf",
-    "Obidian使用教程/6. Obsidian插件（上）.pdf",
-    "Obidian使用教程/5. Obsidian使用技巧.pdf",
-    "微信小程序.md",
-    "李沐AI.md",
-    "03-Oracle高级部分.md",
-    "Users/ha/Library/Application.md",
-    "Users/ha/Library/Containers/com.tencent.xinWeChat/Data/Library/Application.md",
-    "test.md",
-    "aaa.md",
-    "pytorch.md",
-    "Machine learning.md",
-    "JavaSE中级笔记.md",
+    "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/黑色棋子的个数.md",
+    "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/黑洞的最大半径.md",
+    "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/黑名单中的随机数.md",
+    "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/鸡蛋数量从x到y的最小操作次数.md",
+    "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/魔法操作后的数组最大和.md",
+    "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/魔法操作下的数组最大累加和.md",
+    "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/骑士能见到公主的最少初始血量.md",
+    "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/验证回文串.md",
+    "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/验证二叉搜索树.md",
+    "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/餐厅安排的最大人数.md",
+    "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/飞地的数量.md",
+    "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/颜色分类.md",
+    "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/颠倒二进制位.md",
+    "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/题目组合的个数.md",
+    "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/项目规划问题.md",
+    "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/项目经理和程序员.md",
+    "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/面值数组组成面值的最少货币数.md",
+    "算法笔记/zuoAlgorithm/appendix/scanning.svg",
+    "算法笔记/zuoAlgorithm/appendix/prim.gif",
+    "算法笔记/zuoAlgorithm/appendix/Pasted image 27.png",
+    "算法笔记/zuoAlgorithm/appendix/Pasted image 26.png",
+    "算法笔记/zuoAlgorithm/appendix/Pasted image 25.png",
+    "算法笔记/zuoAlgorithm/appendix/Pasted image 24.png",
+    "算法笔记/zuoAlgorithm/appendix/Pasted image 23.png",
+    "算法笔记/zuoAlgorithm/appendix/Pasted image 22.png",
+    "算法笔记/zuoAlgorithm/appendix/Pasted image 21.png",
+    "算法笔记/zuoAlgorithm/appendix/Pasted image 20221010142905.png",
+    "算法笔记/zuoAlgorithm/appendix/DC3_Algorithm.pdf",
+    "算法笔记/zuoAlgorithm/300. 算法题目分类总结/系统设计相关",
+    "算法笔记/zuoAlgorithm/300. 算法题目分类总结/按题目系列分类",
+    "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/练习题",
+    "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/算法群面试题",
+    "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/智力_概率题目",
+    "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总",
+    "算法笔记/zuoAlgorithm/100. 算法课程/41. LeetCodeTop100Like",
+    "算法笔记/zuoAlgorithm/100. 算法课程/40. LeetCode高频题",
+    "算法笔记/zuoAlgorithm/100. 算法课程/33. 经典面试题讲解",
     "未命名.canvas"
   ]
 }
