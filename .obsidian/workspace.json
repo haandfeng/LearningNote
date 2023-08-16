@@ -11,9 +11,11 @@
             "id": "f1a487defe29ef1e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "java基础.pdf"
+                "file": "算法笔记新手班.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java基础.pdf",
+                "file": "算法笔记新手班.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java基础.pdf",
+                "file": "算法笔记新手班.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java基础.pdf"
+                "file": "算法笔记新手班.md"
               }
             }
           },
@@ -164,10 +166,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "ab3df9bd0138c1ec",
+  "active": "f1a487defe29ef1e",
   "lastOpenFiles": [
-    "JDBC.pdf",
     "java基础.pdf",
+    "JDBC.pdf",
     "算法笔记新手班.md",
     "Daily/2023-07-31.md",
     "attachment/JavaSe.md",
