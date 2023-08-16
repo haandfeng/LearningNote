@@ -1,6 +1,78 @@
 {
   "recentFiles": [
     {
+      "basename": "01 认识复杂度、对数器、二分法与异或运算",
+      "path": "算法笔记/zuoAlgorithm/100. 算法课程/10. 基础课/01 认识复杂度、对数器、二分法与异或运算.md"
+    },
+    {
+      "basename": "01 认识复杂度、对数器、二分法",
+      "path": "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/01 认识复杂度、对数器、二分法.md"
+    },
+    {
+      "basename": "01 位运算、算法是什么、简单排序",
+      "path": "算法笔记/zuoAlgorithm/100. 算法课程/00. 新手班/01 位运算、算法是什么、简单排序.md"
+    },
+    {
+      "basename": "_Python 语言速成+进阶",
+      "path": "算法笔记/zuoAlgorithm/002. 知识点总结/00. 编程语言相关/_Python 语言速成+进阶.md"
+    },
+    {
+      "basename": "_Java 语言速成+进阶",
+      "path": "算法笔记/zuoAlgorithm/002. 知识点总结/00. 编程语言相关/_Java 语言速成+进阶.md"
+    },
+    {
+      "basename": "_C++ 语言速成+进阶",
+      "path": "算法笔记/zuoAlgorithm/002. 知识点总结/00. 编程语言相关/_C++ 语言速成+进阶.md"
+    },
+    {
+      "basename": "二叉树的递归套路",
+      "path": "算法笔记/zuoAlgorithm/004. 刷题经验总结/二叉树的递归套路.md"
+    },
+    {
+      "basename": "并查集代码",
+      "path": "算法笔记/zuoAlgorithm/010. 代码模板/并查集代码.md"
+    },
+    {
+      "basename": "不使用加减乘除算符实现加减乘除(仅位运算)",
+      "path": "算法笔记/zuoAlgorithm/010. 代码模板/不使用加减乘除算符实现加减乘除(仅位运算).md"
+    },
+    {
+      "basename": "比较器",
+      "path": "算法笔记/zuoAlgorithm/010. 代码模板/比较器.md"
+    },
+    {
+      "basename": "贪心算法",
+      "path": "算法笔记/zuoAlgorithm/002. 知识点总结/20. 算法知识点/贪心算法.md"
+    },
+    {
+      "basename": "_贪心算法Memo",
+      "path": "算法笔记/zuoAlgorithm/001. 难点重点照顾/_贪心算法Memo.md"
+    },
+    {
+      "basename": "一句话背诵知识点",
+      "path": "算法笔记/zuoAlgorithm/001. 难点重点照顾/00. 需要熟记的知识点/一句话背诵知识点.md"
+    },
+    {
+      "basename": "基础知识点",
+      "path": "算法笔记/zuoAlgorithm/001. 难点重点照顾/00. 需要熟记的知识点/基础知识点.md"
+    },
+    {
+      "basename": "基础面试题",
+      "path": "算法笔记/zuoAlgorithm/001. 难点重点照顾/00. 需要熟记的知识点/基础面试题.md"
+    },
+    {
+      "basename": "高级知识点",
+      "path": "算法笔记/zuoAlgorithm/001. 难点重点照顾/00. 需要熟记的知识点/高级知识点.md"
+    },
+    {
+      "basename": "___★算法课笔记★",
+      "path": "算法笔记/zuoAlgorithm/000. 学习大纲/___★算法课笔记★.md"
+    },
+    {
+      "basename": "算法体系笔记",
+      "path": "算法笔记/算法体系笔记.md"
+    },
+    {
       "basename": "插入排序",
       "path": "算法笔记/zuoAlgorithm/010. 代码模板/插入排序.md"
     },
@@ -21,20 +93,8 @@
       "path": "算法笔记/zuoAlgorithm/000. 学习大纲/___算法数据结构新手班.md"
     },
     {
-      "basename": "01 位运算、算法是什么、简单排序",
-      "path": "算法笔记/zuoAlgorithm/100. 算法课程/00. 新手班/01 位运算、算法是什么、简单排序.md"
-    },
-    {
-      "basename": "___★算法课笔记★",
-      "path": "算法笔记/zuoAlgorithm/000. 学习大纲/___★算法课笔记★.md"
-    },
-    {
       "basename": "_大厂刷题班题目汇总",
       "path": "算法笔记/zuoAlgorithm/000. 学习大纲/_大厂刷题班题目汇总.md"
-    },
-    {
-      "basename": "算法体系笔记",
-      "path": "算法笔记/算法体系笔记.md"
     },
     {
       "basename": "算法笔记新手班",
