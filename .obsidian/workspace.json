@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "算法笔记/zuoAlgorithm/010. 代码模板/插入排序.md",
+                "file": "算法笔记/zuoAlgorithm/100. 算法课程/10. 基础课/01 认识复杂度、对数器、二分法与异或运算.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "算法笔记/zuoAlgorithm/010. 代码模板/插入排序.md",
+                "file": "算法笔记/zuoAlgorithm/100. 算法课程/10. 基础课/01 认识复杂度、对数器、二分法与异或运算.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "算法笔记/zuoAlgorithm/010. 代码模板/插入排序.md",
+                "file": "算法笔记/zuoAlgorithm/100. 算法课程/10. 基础课/01 认识复杂度、对数器、二分法与异或运算.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "算法笔记/zuoAlgorithm/010. 代码模板/插入排序.md"
+                "file": "算法笔记/zuoAlgorithm/100. 算法课程/10. 基础课/01 认识复杂度、对数器、二分法与异或运算.md"
               }
             }
           },
@@ -182,9 +182,9 @@
   },
   "active": "98259f9673820c31",
   "lastOpenFiles": [
+    "算法笔记/zuoAlgorithm/010. 代码模板/插入排序.md",
     "算法笔记/zuoAlgorithm/100. 算法课程/10. 基础课/01 认识复杂度、对数器、二分法与异或运算.md",
     "算法笔记/zuoAlgorithm/010. 代码模板/冒泡排序.md",
-    "算法笔记/zuoAlgorithm/010. 代码模板/插入排序.md",
     "算法笔记/zuoAlgorithm/010. 代码模板/选择排序.md",
     "算法笔记/算法体系笔记.md",
     "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/01 认识复杂度、对数器、二分法.md",
