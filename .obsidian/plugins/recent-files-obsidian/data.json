@@ -5,6 +5,38 @@
       "path": "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/01 认识复杂度、对数器、二分法.md"
     },
     {
+      "basename": "Markdown语法相关",
+      "path": "算法笔记/zuoAlgorithm/1000.Misc/Markdown语法相关.md"
+    },
+    {
+      "basename": "XXXX.pdf",
+      "path": "XXXX.pdf.md"
+    },
+    {
+      "basename": "Links",
+      "path": "算法笔记/zuoAlgorithm/1000.Misc/Links.md"
+    },
+    {
+      "basename": "CodeForce",
+      "path": "算法笔记/zuoAlgorithm/1000.Misc/CodeForce.md"
+    },
+    {
+      "basename": "Atcoder",
+      "path": "算法笔记/zuoAlgorithm/1000.Misc/Atcoder.md"
+    },
+    {
+      "basename": "缩略语",
+      "path": "算法笔记/zuoAlgorithm/1000.Misc/缩略语.md"
+    },
+    {
+      "basename": "算法学习相关网站",
+      "path": "算法笔记/zuoAlgorithm/1000.Misc/算法学习相关网站.md"
+    },
+    {
+      "basename": "竞赛及思维训练",
+      "path": "算法笔记/zuoAlgorithm/1000.Misc/竞赛及思维训练.md"
+    },
+    {
       "basename": "01 认识复杂度、对数器、二分法与异或运算",
       "path": "算法笔记/zuoAlgorithm/100. 算法课程/10. 基础课/01 认识复杂度、对数器、二分法与异或运算.md"
     },
