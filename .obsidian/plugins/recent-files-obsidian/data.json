@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "__算法数据结构体系学习班",
+      "path": "算法笔记/zuoAlgorithm/000. 学习大纲/__算法数据结构体系学习班.md"
+    },
+    {
       "basename": "01 认识复杂度、对数器、二分法",
       "path": "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/01 认识复杂度、对数器、二分法.md"
+    },
+    {
+      "basename": "08 trie、桶排序、排序总结",
+      "path": "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/08 trie、桶排序、排序总结.md"
     },
     {
       "basename": "Markdown语法相关",
