@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gre/刷题笔记.md",
+                "file": "Gre/主旨题.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gre/刷题笔记.md",
+                "file": "Gre/主旨题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gre/刷题笔记.md",
+                "file": "Gre/主旨题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gre/刷题笔记.md"
+                "file": "Gre/主旨题.md"
               }
             }
           },
@@ -171,8 +170,8 @@
   },
   "active": "188007f9bff0ea47",
   "lastOpenFiles": [
-    "Gre/主旨题.md",
     "Gre/刷题笔记.md",
+    "Gre/主旨题.md",
     "Gre/阅读题型.md",
     "Gre/错误选项特征.md",
     "Obidian使用教程/4. Obsidian中的链接.pdf",
