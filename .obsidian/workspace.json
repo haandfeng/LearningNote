@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5a22bf979ae2ada9",
@@ -183,6 +182,7 @@
   },
   "active": "98259f9673820c31",
   "lastOpenFiles": [
+    "attachment/截屏2023-08-18 15.33.30.png",
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/局部最小值问题.md",
     "阅读题型.md",
     "Gre/阅读题型.md",
@@ -214,7 +214,6 @@
     "算法笔记/zuoAlgorithm/1000.Misc/竞赛及思维训练.md",
     "算法笔记/zuoAlgorithm/100. 算法课程/00. 新手班/01 位运算、算法是什么、简单排序.md",
     "算法笔记/zuoAlgorithm/002. 知识点总结/00. 编程语言相关/_Python 语言速成+进阶.md",
-    "算法笔记/zuoAlgorithm/002. 知识点总结/00. 编程语言相关/_Java 语言速成+进阶.md",
     "算法笔记/zuoAlgorithm/appendix/scanning.svg",
     "算法笔记/zuoAlgorithm/appendix/prim.gif",
     "算法笔记/zuoAlgorithm/appendix/Pasted image 27.png",
