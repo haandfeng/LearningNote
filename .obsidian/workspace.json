@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gre/刷题笔记.md",
+                "file": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/局部最小值问题.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#主旨目的题",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gre/刷题笔记.md",
+                "file": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/局部最小值问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gre/刷题笔记.md",
+                "file": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/局部最小值问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gre/刷题笔记.md"
+                "file": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/局部最小值问题.md"
               }
             }
           },
@@ -172,8 +171,9 @@
   },
   "active": "188007f9bff0ea47",
   "lastOpenFiles": [
-    "Gre/错误选项特征.md",
+    "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/01 认识复杂度、对数器、二分法.md",
     "Gre/刷题笔记.md",
+    "Gre/错误选项特征.md",
     "Gre/阅读题型.md",
     "Gre/主旨题.md",
     "Obidian使用教程/4. Obsidian中的链接.pdf",
@@ -203,7 +203,6 @@
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/在一个有序数组中，找小于等于某个数最右侧的位置.md",
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/在一个有序数组中，找大于等于某个数最左侧的位置.md",
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/在一个有序数组中，找某个数是否存在.md",
-    "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/01 认识复杂度、对数器、二分法.md",
     "算法笔记/zuoAlgorithm/010. 代码模板/插入排序.md",
     "算法笔记/zuoAlgorithm/010. 代码模板/冒泡排序.md",
     "算法笔记/zuoAlgorithm/010. 代码模板/选择排序.md",
