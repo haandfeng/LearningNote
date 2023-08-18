@@ -11,12 +11,8 @@
             "id": "188007f9bff0ea47",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/提取整形数最右侧的1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "memos_view",
+              "state": {}
             }
           }
         ]
@@ -77,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5a22bf979ae2ada9",
@@ -94,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/提取整形数最右侧的1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/提取整形数最右侧的1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/提取整形数最右侧的1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -171,6 +162,8 @@
   },
   "active": "188007f9bff0ea47",
   "lastOpenFiles": [
+    "Daily/2023-08-18.md",
+    "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/提取整形数最右侧的1.md",
     "算法笔记/zuoAlgorithm/100. 算法课程/10. 基础课/01 认识复杂度、对数器、二分法与异或运算.md",
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/一个数组中出现了奇数次的数.md",
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/如何不用额外变量交换两个数.md",
@@ -210,8 +203,6 @@
     "算法笔记/zuoAlgorithm/010. 代码模板/冒泡排序.md",
     "算法笔记/zuoAlgorithm/010. 代码模板/选择排序.md",
     "算法笔记/zuoAlgorithm/000. 学习大纲/__算法数据结构体系学习班.md",
-    "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/08 trie、桶排序、排序总结.md",
-    "算法笔记/zuoAlgorithm/1000.Misc/Markdown语法相关.md",
     "算法笔记/zuoAlgorithm/appendix/scanning.svg",
     "算法笔记/zuoAlgorithm/appendix/prim.gif",
     "算法笔记/zuoAlgorithm/appendix/Pasted image 27.png",
