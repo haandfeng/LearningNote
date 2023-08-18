@@ -57,10 +57,6 @@
       "path": "算法笔记/zuoAlgorithm/1000.Misc/Markdown语法相关.md"
     },
     {
-      "basename": "XXXX.pdf",
-      "path": "XXXX.pdf.md"
-    },
-    {
       "basename": "Links",
       "path": "算法笔记/zuoAlgorithm/1000.Misc/Links.md"
     },
@@ -169,24 +165,12 @@
       "path": "算法笔记/算法笔记新手班.md"
     },
     {
-      "basename": "java基础",
-      "path": "java基础.pdf"
-    },
-    {
-      "basename": "JDBC",
-      "path": "JDBC.pdf"
-    },
-    {
       "basename": "2023-07-31",
       "path": "Daily/2023-07-31.md"
     },
     {
       "basename": "JavaSe",
       "path": "attachment/JavaSe.md"
-    },
-    {
-      "basename": "Git",
-      "path": "Git.pdf"
     }
   ],
   "omittedPaths": [],
