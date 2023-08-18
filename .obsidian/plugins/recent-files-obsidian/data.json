@@ -1,8 +1,64 @@
 {
   "recentFiles": [
     {
+      "basename": "阅读刷题模版",
+      "path": "Template/阅读刷题模版.md"
+    },
+    {
+      "basename": "5. Obsidian使用技巧",
+      "path": "Obidian使用教程/5. Obsidian使用技巧.pdf"
+    },
+    {
+      "basename": "6. Obsidian插件（上）",
+      "path": "Obidian使用教程/6. Obsidian插件（上）.pdf"
+    },
+    {
+      "basename": "8. 搜索的技巧",
+      "path": "Obidian使用教程/8. 搜索的技巧.pdf"
+    },
+    {
+      "basename": "7. Obsidian插件（下）",
+      "path": "Obidian使用教程/7. Obsidian插件（下）.pdf"
+    },
+    {
       "basename": "阅读题型",
       "path": "Gre/阅读题型.md"
+    },
+    {
+      "basename": "主旨题",
+      "path": "Gre/主旨题.md"
+    },
+    {
+      "basename": "4. Obsidian中的链接",
+      "path": "Obidian使用教程/4. Obsidian中的链接.pdf"
+    },
+    {
+      "basename": "2. 使用Obsidian",
+      "path": "Obidian使用教程/2. 使用Obsidian.pdf"
+    },
+    {
+      "basename": "1. Obsidian简介",
+      "path": "Obidian使用教程/1. Obsidian简介.pdf"
+    },
+    {
+      "basename": "刷题笔记",
+      "path": "Gre/刷题笔记.md"
+    },
+    {
+      "basename": "错误选项特征",
+      "path": "Gre/错误选项特征.md"
+    },
+    {
+      "basename": "JavaSe",
+      "path": "算法笔记/JavaSe.md"
+    },
+    {
+      "basename": "算法体系笔记",
+      "path": "算法笔记/算法体系笔记.md"
+    },
+    {
+      "basename": "Waterfall Streams",
+      "path": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/Waterfall Streams.md"
     },
     {
       "basename": "局部最小值问题",
@@ -19,10 +75,6 @@
     {
       "basename": "在一个有序数组中，找大于等于某个数最左侧的位置",
       "path": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/在一个有序数组中，找大于等于某个数最左侧的位置.md"
-    },
-    {
-      "basename": "算法体系笔记",
-      "path": "算法笔记/算法体系笔记.md"
     },
     {
       "basename": "在一个有序数组中，找某个数是否存在",
@@ -135,42 +187,6 @@
     {
       "basename": "高级知识点",
       "path": "算法笔记/zuoAlgorithm/001. 难点重点照顾/00. 需要熟记的知识点/高级知识点.md"
-    },
-    {
-      "basename": "___★算法课笔记★",
-      "path": "算法笔记/zuoAlgorithm/000. 学习大纲/___★算法课笔记★.md"
-    },
-    {
-      "basename": "___算法数据结构新手班题目汇总",
-      "path": "算法笔记/zuoAlgorithm/000. 学习大纲/___算法数据结构新手班题目汇总.md"
-    },
-    {
-      "basename": "___课程题目Summary",
-      "path": "算法笔记/zuoAlgorithm/000. 学习大纲/___课程题目Summary.md"
-    },
-    {
-      "basename": "02 前缀和数组、对数器和随机行为",
-      "path": "算法笔记/zuoAlgorithm/100. 算法课程/00. 新手班/02 前缀和数组、对数器和随机行为.md"
-    },
-    {
-      "basename": "___算法数据结构新手班",
-      "path": "算法笔记/zuoAlgorithm/000. 学习大纲/___算法数据结构新手班.md"
-    },
-    {
-      "basename": "_大厂刷题班题目汇总",
-      "path": "算法笔记/zuoAlgorithm/000. 学习大纲/_大厂刷题班题目汇总.md"
-    },
-    {
-      "basename": "算法笔记新手班",
-      "path": "算法笔记/算法笔记新手班.md"
-    },
-    {
-      "basename": "2023-07-31",
-      "path": "Daily/2023-07-31.md"
-    },
-    {
-      "basename": "JavaSe",
-      "path": "attachment/JavaSe.md"
     }
   ],
   "omittedPaths": [],

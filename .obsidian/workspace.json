@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3f27270396358970",
+            "id": "188007f9bff0ea47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "算法笔记/算法体系笔记.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "98259f9673820c31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gre/阅读题型.md",
+                "file": "Template/阅读刷题模版.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 350.5
   },
   "right": {
     "id": "5a22bf979ae2ada9",
@@ -107,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gre/阅读题型.md",
+                "file": "Template/阅读刷题模版.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gre/阅读题型.md",
+                "file": "Template/阅读刷题模版.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gre/阅读题型.md"
+                "file": "Template/阅读刷题模版.md"
               }
             }
           },
@@ -178,26 +164,41 @@
       "markdown-importer:打开 Markdown 格式转换器": false,
       "workspaces:管理工作区布局": false,
       "audio-recorder:开始/结束录音": false,
-      "obsidian-memos:Memos": false
+      "obsidian-memos:Memos": false,
+      "publish:发布更改": false
     }
   },
-  "active": "98259f9673820c31",
+  "active": "188007f9bff0ea47",
   "lastOpenFiles": [
-    "attachment/截屏2023-08-18 15.33.30.png",
-    "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/局部最小值问题.md",
-    "阅读题型.md",
+    "Template/阅读刷题模版.md",
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "Obidian使用教程/5. Obsidian使用技巧.pdf",
+    "Template",
+    "Obidian使用教程/6. Obsidian插件（上）.pdf",
+    "Obidian使用教程/8. 搜索的技巧.pdf",
+    "Obidian使用教程/7. Obsidian插件（下）.pdf",
     "Gre/阅读题型.md",
+    "Gre/主旨题.md",
+    "Obidian使用教程/4. Obsidian中的链接.pdf",
+    "Obidian使用教程/2. 使用Obsidian.pdf",
+    "Obidian使用教程/1. Obsidian简介.pdf",
+    "Gre/刷题笔记.md",
+    "Gre/错误选项特征.md",
+    "算法笔记/JavaSe.md",
+    "未命名 3.canvas",
+    "算法笔记/算法体系笔记.md",
+    "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/Waterfall Streams.md",
+    "未命名 2.canvas",
+    "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/局部最小值问题.md",
+    "attachment/截屏2023-08-18 15.33.30.png",
+    "阅读题型.md",
     "Gre",
     "未命名文件夹",
     "pdf/XXXX.pdf.md",
-    "pdf/JDBC.pdf",
-    "pdf/java基础.pdf",
-    "pdf/Git.pdf",
-    "pdf",
     "算法笔记/zuoAlgorithm/100. 算法课程/10. 基础课/01 认识复杂度、对数器、二分法与异或运算.md",
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/在一个有序数组中，找小于等于某个数最右侧的位置.md",
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/在一个有序数组中，找大于等于某个数最左侧的位置.md",
-    "算法笔记/算法体系笔记.md",
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/在一个有序数组中，找某个数是否存在.md",
     "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/01 认识复杂度、对数器、二分法.md",
     "算法笔记/zuoAlgorithm/010. 代码模板/插入排序.md",
@@ -210,11 +211,6 @@
     "算法笔记/zuoAlgorithm/1000.Misc/Links.md",
     "算法笔记/zuoAlgorithm/1000.Misc/CodeForce.md",
     "算法笔记/zuoAlgorithm/1000.Misc/Atcoder.md",
-    "算法笔记/zuoAlgorithm/1000.Misc/缩略语.md",
-    "算法笔记/zuoAlgorithm/1000.Misc/算法学习相关网站.md",
-    "算法笔记/zuoAlgorithm/1000.Misc/竞赛及思维训练.md",
-    "算法笔记/zuoAlgorithm/100. 算法课程/00. 新手班/01 位运算、算法是什么、简单排序.md",
-    "算法笔记/zuoAlgorithm/002. 知识点总结/00. 编程语言相关/_Python 语言速成+进阶.md",
     "算法笔记/zuoAlgorithm/appendix/scanning.svg",
     "算法笔记/zuoAlgorithm/appendix/prim.gif",
     "算法笔记/zuoAlgorithm/appendix/Pasted image 27.png",
@@ -223,12 +219,6 @@
     "算法笔记/zuoAlgorithm/appendix/Pasted image 24.png",
     "算法笔记/zuoAlgorithm/appendix/Pasted image 23.png",
     "算法笔记/zuoAlgorithm/appendix/Pasted image 22.png",
-    "算法笔记/zuoAlgorithm/appendix/Pasted image 21.png",
-    "算法笔记/zuoAlgorithm/appendix/Pasted image 20221010142905.png",
-    "算法笔记/zuoAlgorithm/appendix/DC3_Algorithm.pdf",
-    "算法笔记/zuoAlgorithm/300. 算法题目分类总结/系统设计相关",
-    "算法笔记/zuoAlgorithm/300. 算法题目分类总结/按题目系列分类",
-    "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/练习题",
-    "未命名.canvas"
+    "算法笔记/zuoAlgorithm/appendix/Pasted image 21.png"
   ]
 }
