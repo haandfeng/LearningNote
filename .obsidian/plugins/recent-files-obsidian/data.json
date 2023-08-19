@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "算法笔记新手班",
+      "path": "算法笔记/算法笔记新手班.md"
+    },
+    {
+      "basename": "JavaSe",
+      "path": "算法笔记/JavaSe.md"
+    },
+    {
+      "basename": "算法体系笔记",
+      "path": "算法笔记/算法体系笔记.md"
+    },
+    {
       "basename": "2023-08-18",
       "path": "Daily/2023-08-18.md"
     },
@@ -87,14 +103,6 @@
     {
       "basename": "1. Obsidian简介",
       "path": "Obidian使用教程/1. Obsidian简介.pdf"
-    },
-    {
-      "basename": "JavaSe",
-      "path": "算法笔记/JavaSe.md"
-    },
-    {
-      "basename": "算法体系笔记",
-      "path": "算法笔记/算法体系笔记.md"
     },
     {
       "basename": "Waterfall Streams",
@@ -191,14 +199,6 @@
     {
       "basename": "比较器",
       "path": "算法笔记/zuoAlgorithm/010. 代码模板/比较器.md"
-    },
-    {
-      "basename": "贪心算法",
-      "path": "算法笔记/zuoAlgorithm/002. 知识点总结/20. 算法知识点/贪心算法.md"
-    },
-    {
-      "basename": "_贪心算法Memo",
-      "path": "算法笔记/zuoAlgorithm/001. 难点重点照顾/_贪心算法Memo.md"
     }
   ],
   "omittedPaths": [],
