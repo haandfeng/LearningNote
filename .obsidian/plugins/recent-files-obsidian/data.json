@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "事实信息题",
+      "path": "Gre/事实信息题.md"
+    },
+    {
+      "basename": "主旨题",
+      "path": "Gre/主旨题.md"
+    },
+    {
+      "basename": "阅读题型",
+      "path": "Gre/阅读题型.md"
+    },
+    {
       "basename": "README",
       "path": "README.md"
     },
@@ -59,14 +71,6 @@
     {
       "basename": "错误选项特征",
       "path": "Gre/错误选项特征.md"
-    },
-    {
-      "basename": "阅读题型",
-      "path": "Gre/阅读题型.md"
-    },
-    {
-      "basename": "主旨题",
-      "path": "Gre/主旨题.md"
     },
     {
       "basename": "4. Obsidian中的链接",
@@ -195,10 +199,6 @@
     {
       "basename": "不使用加减乘除算符实现加减乘除(仅位运算)",
       "path": "算法笔记/zuoAlgorithm/010. 代码模板/不使用加减乘除算符实现加减乘除(仅位运算).md"
-    },
-    {
-      "basename": "比较器",
-      "path": "算法笔记/zuoAlgorithm/010. 代码模板/比较器.md"
     }
   ],
   "omittedPaths": [],
