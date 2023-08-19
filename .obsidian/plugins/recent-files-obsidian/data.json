@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "刷题笔记",
+      "path": "Gre/刷题笔记.md"
+    },
+    {
       "basename": "事实信息题",
       "path": "Gre/事实信息题.md"
     },
     {
-      "basename": "主旨题",
-      "path": "Gre/主旨题.md"
-    },
-    {
       "basename": "阅读题型",
       "path": "Gre/阅读题型.md"
+    },
+    {
+      "basename": "阅读刷题模版",
+      "path": "Template/阅读刷题模版.md"
+    },
+    {
+      "basename": "主旨题",
+      "path": "Gre/主旨题.md"
     },
     {
       "basename": "README",
@@ -61,10 +69,6 @@
       "path": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/如何不用额外变量交换两个数.md"
     },
     {
-      "basename": "刷题笔记",
-      "path": "Gre/刷题笔记.md"
-    },
-    {
       "basename": "局部最小值问题",
       "path": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/局部最小值问题.md"
     },
@@ -83,10 +87,6 @@
     {
       "basename": "2023-07-31",
       "path": "Daily/2023-07-31.md"
-    },
-    {
-      "basename": "阅读刷题模版",
-      "path": "Template/阅读刷题模版.md"
     },
     {
       "basename": "5. Obsidian使用技巧",
