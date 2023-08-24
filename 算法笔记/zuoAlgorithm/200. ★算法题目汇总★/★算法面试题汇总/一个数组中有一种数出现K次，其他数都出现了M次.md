@@ -30,6 +30,7 @@ M > 1,  K < M
 				continue;
 			}
 			if (t[i] % m == k) {
+			// 把1弄进去答案里
 				ans |= (1 << i);
 			} else {
 				return -1;
