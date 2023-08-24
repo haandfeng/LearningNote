@@ -18,6 +18,7 @@ M > 1,  K < M
 		// t[i] i位置的1出现了几个
 		for (int num : arr) {
 			for (int i = 0; i <= 31; i++) {
+			// 提取了每个数的32wei
 				t[i] += (num >> i) & 1;
 			}
 		}
