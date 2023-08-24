@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gre/推断题.md",
+                "file": "Gre/事实信息题.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gre/推断题.md",
+                "file": "Gre/事实信息题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gre/推断题.md",
+                "file": "Gre/事实信息题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gre/推断题.md"
+                "file": "Gre/事实信息题.md"
               }
             }
           },
@@ -171,9 +171,9 @@
   },
   "active": "826369e5e045b68b",
   "lastOpenFiles": [
-    "!事实信息题.md",
-    "Gre/推断题.md",
     "Obidian使用教程/4. Obsidian中的链接.pdf",
+    "Gre/推断题.md",
+    "!事实信息题.md",
     "Gre/刷题笔记.md",
     "Gre/阅读题型.md",
     "Gre/主旨题.md",
@@ -210,7 +210,6 @@
     "未命名 3.canvas",
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/Waterfall Streams.md",
     "未命名 2.canvas",
-    "阅读题型.md",
     "Gre",
     "未命名文件夹",
     "算法笔记/zuoAlgorithm/appendix/scanning.svg",
