@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "推断题",
+      "path": "Gre/推断题.md"
+    },
+    {
+      "basename": "4. Obsidian中的链接",
+      "path": "Obidian使用教程/4. Obsidian中的链接.pdf"
+    },
+    {
       "basename": "刷题笔记",
       "path": "Gre/刷题笔记.md"
+    },
+    {
+      "basename": "阅读题型",
+      "path": "Gre/阅读题型.md"
     },
     {
       "basename": "主旨题",
@@ -11,10 +23,6 @@
     {
       "basename": "事实信息题",
       "path": "Gre/事实信息题.md"
-    },
-    {
-      "basename": "阅读题型",
-      "path": "Gre/阅读题型.md"
     },
     {
       "basename": "错误选项特征",
@@ -83,10 +91,6 @@
     {
       "basename": "局部最小值问题",
       "path": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/局部最小值问题.md"
-    },
-    {
-      "basename": "4. Obsidian中的链接",
-      "path": "Obidian使用教程/4. Obsidian中的链接.pdf"
     },
     {
       "basename": "截屏2023-08-18 15.33.30",
@@ -195,10 +199,6 @@
     {
       "basename": "_C++ 语言速成+进阶",
       "path": "算法笔记/zuoAlgorithm/002. 知识点总结/00. 编程语言相关/_C++ 语言速成+进阶.md"
-    },
-    {
-      "basename": "二叉树的递归套路",
-      "path": "算法笔记/zuoAlgorithm/004. 刷题经验总结/二叉树的递归套路.md"
     }
   ],
   "omittedPaths": [],
