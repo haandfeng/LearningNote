@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "双向链表实现栈和队列",
+      "path": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/双向链表实现栈和队列.md"
+    },
+    {
       "basename": "02 链表结构、栈、队列、递归行为、哈希表和有序表",
       "path": "算法笔记/zuoAlgorithm/100. 算法课程/10. 基础课/02 链表结构、栈、队列、递归行为、哈希表和有序表.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "缩略语",
       "path": "算法笔记/zuoAlgorithm/1000.Misc/缩略语.md"
-    },
-    {
-      "basename": "算法学习相关网站",
-      "path": "算法笔记/zuoAlgorithm/1000.Misc/算法学习相关网站.md"
     }
   ],
   "omittedPaths": [],
