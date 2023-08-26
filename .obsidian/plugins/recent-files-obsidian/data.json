@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "推断题",
-      "path": "Gre/推断题.md"
+      "basename": "句子作用题",
+      "path": "Gre/句子作用题.md"
+    },
+    {
+      "basename": "GRE阅读题型",
+      "path": "Gre/GRE阅读题型.md"
     },
     {
       "basename": "事实信息题",
       "path": "Gre/事实信息题.md"
     },
     {
-      "basename": "主旨题",
-      "path": "Gre/主旨题.md"
+      "basename": "刷题笔记",
+      "path": "Gre/刷题笔记.md"
     },
     {
-      "basename": "阅读题型",
-      "path": "Gre/阅读题型.md"
+      "basename": "推断题",
+      "path": "Gre/推断题.md"
+    },
+    {
+      "basename": "主旨题",
+      "path": "Gre/主旨题.md"
     },
     {
       "basename": "错误选项特征",
@@ -99,10 +107,6 @@
     {
       "basename": "4. Obsidian中的链接",
       "path": "Obidian使用教程/4. Obsidian中的链接.pdf"
-    },
-    {
-      "basename": "刷题笔记",
-      "path": "Gre/刷题笔记.md"
     },
     {
       "basename": "提取整形数最右侧的1",
@@ -195,10 +199,6 @@
     {
       "basename": "在一个有序数组中，找某个数是否存在",
       "path": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/在一个有序数组中，找某个数是否存在.md"
-    },
-    {
-      "basename": "插入排序",
-      "path": "算法笔记/zuoAlgorithm/010. 代码模板/插入排序.md"
     }
   ],
   "omittedPaths": [],
