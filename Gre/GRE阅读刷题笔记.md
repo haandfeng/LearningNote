@@ -68,10 +68,20 @@ E:
 题干标志：primary purpose
 题型：[[主旨题#主旨目的题 |主旨目的题]] 
 所需公式：5文章结构（两段用不上）+3种主旨目的题错误特征+4gre阅读错误
-文章结构：现象解释
-判断依据： The revival of mural 
-A:以偏概全
-B:
-C:
+文章结构：观点点评
+判断依据：观点开头
+A:动词是summarize不是支持观点
+B:没有支持观点
+C:没有支持观点
 D:正确
-E:
+E: 只有一个观点，不能用argue
+##### 题号：139-2 #句子作用题  #错
+题干标志：function of highlighted sentence 
+题型：[[句子作用题]] 
+所需公式：
+判断依据： The revival of mural 
+A:动词是summarize不是解释
+B:动词是present不是解释
+C:动词是分析xxxx不是解释xxxx
+D:正确
+E:排除没有提供
