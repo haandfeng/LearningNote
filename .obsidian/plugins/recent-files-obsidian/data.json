@@ -1,12 +1,56 @@
 {
   "recentFiles": [
     {
+      "basename": "主旨题",
+      "path": "Gre/主旨题.md"
+    },
+    {
+      "basename": "如何用栈结构实现队列结构",
+      "path": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/如何用栈结构实现队列结构.md"
+    },
+    {
+      "basename": "03 链表结构、栈、队列、递归行为、哈希表和有序表",
+      "path": "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/03 链表结构、栈、队列、递归行为、哈希表和有序表.md"
+    },
+    {
       "basename": "实现最小栈",
       "path": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/实现最小栈.md"
     },
     {
+      "basename": "如何用队列结构实现栈结构",
+      "path": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/如何用队列结构实现栈结构.md"
+    },
+    {
       "basename": "02 链表结构、栈、队列、递归行为、哈希表和有序表",
       "path": "算法笔记/zuoAlgorithm/100. 算法课程/10. 基础课/02 链表结构、栈、队列、递归行为、哈希表和有序表.md"
+    },
+    {
+      "basename": "区间和达标的子数组数量",
+      "path": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/区间和达标的子数组数量.md"
+    },
+    {
+      "basename": "04 归并排序",
+      "path": "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/04 归并排序.md"
+    },
+    {
+      "basename": "05 归并改写解决的面试题(续)、快速排序",
+      "path": "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/05 归并改写解决的面试题(续)、快速排序.md"
+    },
+    {
+      "basename": "归并排序代码",
+      "path": "算法笔记/zuoAlgorithm/010. 代码模板/归并排序代码.md"
+    },
+    {
+      "basename": "01 认识复杂度、对数器、二分法与异或运算",
+      "path": "算法笔记/zuoAlgorithm/100. 算法课程/10. 基础课/01 认识复杂度、对数器、二分法与异或运算.md"
+    },
+    {
+      "basename": "一个数组中有一种数出现K次，其他数都出现了M次",
+      "path": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/一个数组中有一种数出现K次，其他数都出现了M次.md"
+    },
+    {
+      "basename": "用递归方法求数组中的最大值",
+      "path": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/用递归方法求数组中的最大值.md"
     },
     {
       "basename": "数组实现栈和队列",
@@ -25,18 +69,6 @@
       "path": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/单链表和双链表如何反转.md"
     },
     {
-      "basename": "03 链表结构、栈、队列、递归行为、哈希表和有序表",
-      "path": "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/03 链表结构、栈、队列、递归行为、哈希表和有序表.md"
-    },
-    {
-      "basename": "一个数组中有一种数出现K次，其他数都出现了M次",
-      "path": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/一个数组中有一种数出现K次，其他数都出现了M次.md"
-    },
-    {
-      "basename": "01 认识复杂度、对数器、二分法与异或运算",
-      "path": "算法笔记/zuoAlgorithm/100. 算法课程/10. 基础课/01 认识复杂度、对数器、二分法与异或运算.md"
-    },
-    {
       "basename": "01 认识复杂度、对数器、二分法",
       "path": "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/01 认识复杂度、对数器、二分法.md"
     },
@@ -51,10 +83,6 @@
     {
       "basename": "一个数组中出现奇数次的两个数",
       "path": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/一个数组中出现奇数次的两个数.md"
-    },
-    {
-      "basename": "主旨题",
-      "path": "Gre/主旨题.md"
     },
     {
       "basename": "阅读题型",
@@ -171,34 +199,6 @@
     {
       "basename": "插入排序",
       "path": "算法笔记/zuoAlgorithm/010. 代码模板/插入排序.md"
-    },
-    {
-      "basename": "冒泡排序",
-      "path": "算法笔记/zuoAlgorithm/010. 代码模板/冒泡排序.md"
-    },
-    {
-      "basename": "选择排序",
-      "path": "算法笔记/zuoAlgorithm/010. 代码模板/选择排序.md"
-    },
-    {
-      "basename": "__算法数据结构体系学习班",
-      "path": "算法笔记/zuoAlgorithm/000. 学习大纲/__算法数据结构体系学习班.md"
-    },
-    {
-      "basename": "08 trie、桶排序、排序总结",
-      "path": "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/08 trie、桶排序、排序总结.md"
-    },
-    {
-      "basename": "Markdown语法相关",
-      "path": "算法笔记/zuoAlgorithm/1000.Misc/Markdown语法相关.md"
-    },
-    {
-      "basename": "Links",
-      "path": "算法笔记/zuoAlgorithm/1000.Misc/Links.md"
-    },
-    {
-      "basename": "CodeForce",
-      "path": "算法笔记/zuoAlgorithm/1000.Misc/CodeForce.md"
     }
   ],
   "omittedPaths": [],
