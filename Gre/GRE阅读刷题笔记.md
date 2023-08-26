@@ -85,10 +85,10 @@ B:undermine 反向错误
 C:正确
 D:没有差异（总分无差异）无中生有
 E:排除没有实施
-##### 题号：139-3 #事实信息题   #错
+##### 题号：139-3 #推断题   #错
 题干标志：The passage suggest which of the following regarding 
-题型：[[事实信息题|事实信息题]]
-所需公式：定位+4错
+题型：[[推断题]]
+所需公式：七种推断逻辑-
 定位词：access to managerial position
 定位到文章第：
 A: 逻辑错误

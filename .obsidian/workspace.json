@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#错",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5a22bf979ae2ada9",
@@ -171,11 +172,11 @@
   },
   "active": "c298b05fae79efde",
   "lastOpenFiles": [
-    "Gre/主旨题.md",
-    "Gre/事实信息题.md",
+    "Gre/推断题.md",
     "Gre/GRE阅读刷题笔记.md",
     "Gre/GRE阅读题型.md",
-    "Gre/推断题.md",
+    "Gre/事实信息题.md",
+    "Gre/主旨题.md",
     "未命名.canvas",
     "Gre/句子作用题.md",
     "attachment/截屏2023-08-26 13.34.35.png",
