@@ -78,10 +78,21 @@ E: 只有一个观点，不能用argue
 ##### 题号：139-2 #句子作用题  #错
 题干标志：function of highlighted sentence 
 题型：[[句子作用题]] 
-所需公式：
-判断依据： The revival of mural 
-A:动词是summarize不是解释
-B:动词是present不是解释
-C:动词是分析xxxx不是解释xxxx
-D:正确
-E:排除没有提供
+所需公式：三步走
+是否有转折：无
+A:不是支持前一句的观点
+B:不是evidence
+C:正确
+D:没有差异
+E:排除没有实施
+##### 题号：139-3 #事实信息题   #错
+题干标志：The passage suggest which of the following regarding 
+题型：[[事实信息题|事实信息题]]
+所需公式：定位+4错
+定位词：access to managerial position
+定位到文章第：5 6 7
+A: 无中生有（比较关系）
+B: 正确
+C: 逻辑错误
+D: 无中生有（比较关系）
+E: 无中生有（比较关系）
