@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gre/主旨题.md",
+                "file": "Gre/推断题.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5a22bf979ae2ada9",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gre/主旨题.md",
+                "file": "Gre/推断题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gre/主旨题.md",
+                "file": "Gre/推断题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gre/主旨题.md"
+                "file": "Gre/推断题.md"
               }
             }
           },
@@ -171,6 +170,12 @@
   },
   "active": "826369e5e045b68b",
   "lastOpenFiles": [
+    "Gre/事实信息题.md",
+    "Gre/主旨题.md",
+    "Gre/推断题.md",
+    "Gre/阅读题型.md",
+    "attachment/截屏2023-08-26 11.24.32.png",
+    "Gre/错误选项特征.md",
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/如何用栈结构实现队列结构.md",
     "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/03 链表结构、栈、队列、递归行为、哈希表和有序表.md",
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/实现最小栈.md",
@@ -189,15 +194,9 @@
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/单链表和双链表如何反转.md",
     "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/01 认识复杂度、对数器、二分法.md",
     "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/02 异或运算和几个经典题目解析.md",
-    "Gre/事实信息题.md",
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/一个数组中出现奇数次的两个数.md",
-    "Gre/主旨题.md",
-    "Gre/阅读题型.md",
     "Obidian使用教程/4. Obsidian中的链接.pdf",
-    "Gre/推断题.md",
     "!事实信息题.md",
-    "Gre/刷题笔记.md",
-    "Gre/错误选项特征.md",
     "attachment/截屏2023-08-19 16.35.51.png",
     "attachment/截屏2023-08-18 15.33.30.png",
     "未命名 1.canvas",
@@ -219,7 +218,6 @@
     "算法笔记/zuoAlgorithm/appendix/Pasted image 26.png",
     "算法笔记/zuoAlgorithm/appendix/Pasted image 25.png",
     "算法笔记/zuoAlgorithm/appendix/Pasted image 24.png",
-    "算法笔记/zuoAlgorithm/appendix/Pasted image 23.png",
-    "算法笔记/zuoAlgorithm/appendix/Pasted image 22.png"
+    "算法笔记/zuoAlgorithm/appendix/Pasted image 23.png"
   ]
 }
