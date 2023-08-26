@@ -88,7 +88,7 @@ E:排除没有实施
 ##### 题号：139-3 #推断题   #错
 题干标志：The passage suggest which of the following regarding 
 题型：[[推断题]]
-所需公式：七种推断逻辑-
+所需公式：七种推断逻辑-> 原文原词 
 定位词：access to managerial position
 定位到文章第：
 A: 逻辑错误
