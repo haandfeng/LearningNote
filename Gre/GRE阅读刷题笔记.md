@@ -91,8 +91,8 @@ E:排除没有实施
 所需公式：七种推断逻辑-> 原文原词 
 定位词：access to managerial position
 定位到文章第：
-A: 逻辑错误
-B: largely
-C: 没读懂
+A: 无中生有（only 也有可能缩小范围）
+B: largely（无中生有）有因果关系 要关注逻辑错误 错了
+C: 没读懂！！！ 不可取不能排除 应该是正确的
 D: 正确
 E: extent
