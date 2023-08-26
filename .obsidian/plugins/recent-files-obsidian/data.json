@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "主旨题",
+      "path": "Gre/主旨题.md"
+    },
+    {
+      "basename": "刷题笔记",
+      "path": "Gre/刷题笔记.md"
+    },
+    {
+      "basename": "GRE阅读题型",
+      "path": "Gre/GRE阅读题型.md"
+    },
+    {
       "basename": "句子作用题",
       "path": "Gre/句子作用题.md"
     },
@@ -13,20 +25,8 @@
       "path": "Gre/事实信息题.md"
     },
     {
-      "basename": "GRE阅读题型",
-      "path": "Gre/GRE阅读题型.md"
-    },
-    {
-      "basename": "刷题笔记",
-      "path": "Gre/刷题笔记.md"
-    },
-    {
       "basename": "推断题",
       "path": "Gre/推断题.md"
-    },
-    {
-      "basename": "主旨题",
-      "path": "Gre/主旨题.md"
     },
     {
       "basename": "如何用栈结构实现队列结构",

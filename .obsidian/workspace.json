@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gre/句子作用题.md",
+                "file": "Gre/主旨题.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gre/句子作用题.md",
+                "file": "Gre/主旨题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gre/句子作用题.md",
+                "file": "Gre/主旨题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gre/句子作用题.md"
+                "file": "Gre/主旨题.md"
               }
             }
           },
@@ -170,15 +170,15 @@
   },
   "active": "826369e5e045b68b",
   "lastOpenFiles": [
+    "Gre/刷题笔记.md",
+    "Gre/GRE阅读题型.md",
+    "Gre/句子作用题.md",
     "attachment/截屏2023-08-26 13.34.35.png",
     "Gre/错误选项特征.md",
     "Gre/事实信息题.md",
-    "Gre/GRE阅读题型.md",
-    "Gre/句子作用题.md",
     "attachment/截屏2023-08-26 11.41.13.png",
     "attachment/截屏2023-08-26 11.39.16.png",
     "attachment/截屏2023-08-26 11.38.52.png",
-    "Gre/刷题笔记.md",
     "Gre/推断题.md",
     "Gre/主旨题.md",
     "attachment/截屏2023-08-26 11.24.32.png",
@@ -218,7 +218,6 @@
     "未命名文件夹",
     "算法笔记/zuoAlgorithm/appendix/scanning.svg",
     "算法笔记/zuoAlgorithm/appendix/prim.gif",
-    "算法笔记/zuoAlgorithm/appendix/Pasted image 27.png",
-    "算法笔记/zuoAlgorithm/appendix/Pasted image 26.png"
+    "算法笔记/zuoAlgorithm/appendix/Pasted image 27.png"
   ]
 }
