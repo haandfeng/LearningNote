@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "可多选题",
+      "path": "Gre/可多选题.md"
+    },
+    {
+      "basename": "GRE阅读题型",
+      "path": "Gre/GRE阅读题型.md"
+    },
+    {
+      "basename": "主旨题",
+      "path": "Gre/主旨题.md"
+    },
+    {
       "basename": "归并排序代码",
       "path": "算法笔记/zuoAlgorithm/010. 代码模板/归并排序代码.md"
     },
@@ -19,10 +31,6 @@
     {
       "basename": "态度题",
       "path": "Gre/态度题.md"
-    },
-    {
-      "basename": "GRE阅读题型",
-      "path": "Gre/GRE阅读题型.md"
     },
     {
       "basename": "用递归方法求数组中的最大值",
@@ -51,10 +59,6 @@
     {
       "basename": "事实信息题",
       "path": "Gre/事实信息题.md"
-    },
-    {
-      "basename": "主旨题",
-      "path": "Gre/主旨题.md"
     },
     {
       "basename": "未命名",
@@ -195,10 +199,6 @@
     {
       "basename": "Waterfall Streams",
       "path": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/Waterfall Streams.md"
-    },
-    {
-      "basename": "在一个有序数组中，找小于等于某个数最右侧的位置",
-      "path": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/在一个有序数组中，找小于等于某个数最右侧的位置.md"
     }
   ],
   "omittedPaths": [],
