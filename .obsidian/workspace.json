@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gre/GRE阅读刷题笔记.md",
+                "file": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/如何用栈结构实现队列结构.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gre/GRE阅读刷题笔记.md",
+                "file": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/如何用栈结构实现队列结构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gre/GRE阅读刷题笔记.md",
+                "file": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/如何用栈结构实现队列结构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gre/GRE阅读刷题笔记.md"
+                "file": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/如何用栈结构实现队列结构.md"
               }
             }
           },
@@ -172,8 +171,12 @@
   },
   "active": "c298b05fae79efde",
   "lastOpenFiles": [
-    "Gre/推断题.md",
+    "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/03 链表结构、栈、队列、递归行为、哈希表和有序表.md",
+    "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/如何用队列结构实现栈结构.md",
+    "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/02 异或运算和几个经典题目解析.md",
+    "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/01 认识复杂度、对数器、二分法.md",
     "Gre/GRE阅读刷题笔记.md",
+    "Gre/推断题.md",
     "Gre/GRE阅读题型.md",
     "Gre/事实信息题.md",
     "Gre/主旨题.md",
@@ -186,9 +189,7 @@
     "attachment/截屏2023-08-26 11.38.52.png",
     "attachment/截屏2023-08-26 11.24.32.png",
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/如何用栈结构实现队列结构.md",
-    "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/03 链表结构、栈、队列、递归行为、哈希表和有序表.md",
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/实现最小栈.md",
-    "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/如何用队列结构实现栈结构.md",
     "算法笔记/zuoAlgorithm/100. 算法课程/10. 基础课/02 链表结构、栈、队列、递归行为、哈希表和有序表.md",
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/区间和达标的子数组数量.md",
     "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/04 归并排序.md",
@@ -201,8 +202,6 @@
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/双向链表实现栈和队列.md",
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/把链表中的给定值都删除.md",
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/单链表和双链表如何反转.md",
-    "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/01 认识复杂度、对数器、二分法.md",
-    "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/02 异或运算和几个经典题目解析.md",
     "Obidian使用教程/4. Obsidian中的链接.pdf",
     "attachment/截屏2023-08-19 16.35.51.png",
     "attachment/截屏2023-08-18 15.33.30.png",
