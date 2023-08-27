@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/用递归方法求数组中的最大值.md",
+                "file": "Gre/态度题.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5a22bf979ae2ada9",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/用递归方法求数组中的最大值.md",
+                "file": "Gre/态度题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/用递归方法求数组中的最大值.md",
+                "file": "Gre/态度题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/用递归方法求数组中的最大值.md"
+                "file": "Gre/态度题.md"
               }
             }
           },
@@ -171,6 +170,12 @@
   },
   "active": "c298b05fae79efde",
   "lastOpenFiles": [
+    "attachment/截屏2023-08-27 15.32.37.png",
+    "attachment/截屏2023-08-27 15.32.01.png",
+    "attachment/截屏2023-08-27 15.30.57.png",
+    "Gre/GRE阅读题型.md",
+    "Gre/态度题.md",
+    "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/用递归方法求数组中的最大值.md",
     "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/03 链表结构、栈、队列、递归行为、哈希表和有序表.md",
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/如何用队列结构实现栈结构.md",
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/如何用栈结构实现队列结构.md",
@@ -178,7 +183,6 @@
     "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/01 认识复杂度、对数器、二分法.md",
     "Gre/GRE阅读刷题笔记.md",
     "Gre/推断题.md",
-    "Gre/GRE阅读题型.md",
     "Gre/事实信息题.md",
     "Gre/主旨题.md",
     "未命名.canvas",
@@ -197,11 +201,9 @@
     "算法笔记/zuoAlgorithm/010. 代码模板/归并排序代码.md",
     "算法笔记/zuoAlgorithm/100. 算法课程/10. 基础课/01 认识复杂度、对数器、二分法与异或运算.md",
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/一个数组中有一种数出现K次，其他数都出现了M次.md",
-    "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/用递归方法求数组中的最大值.md",
     "算法笔记/zuoAlgorithm/010. 代码模板/数组实现栈和队列.md",
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/双向链表实现栈和队列.md",
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/把链表中的给定值都删除.md",
-    "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/单链表和双链表如何反转.md",
     "Obidian使用教程/4. Obsidian中的链接.pdf",
     "attachment/截屏2023-08-19 16.35.51.png",
     "attachment/截屏2023-08-18 15.33.30.png",
@@ -217,8 +219,6 @@
     "未命名 2.canvas",
     "Gre",
     "未命名文件夹",
-    "算法笔记/zuoAlgorithm/appendix/scanning.svg",
-    "算法笔记/zuoAlgorithm/appendix/prim.gif",
-    "算法笔记/zuoAlgorithm/appendix/Pasted image 27.png"
+    "算法笔记/zuoAlgorithm/appendix/scanning.svg"
   ]
 }

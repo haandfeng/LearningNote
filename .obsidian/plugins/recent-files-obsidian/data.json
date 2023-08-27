@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "态度题",
+      "path": "Gre/态度题.md"
+    },
+    {
+      "basename": "GRE阅读题型",
+      "path": "Gre/GRE阅读题型.md"
+    },
+    {
       "basename": "用递归方法求数组中的最大值",
       "path": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/用递归方法求数组中的最大值.md"
     },
@@ -31,10 +39,6 @@
     {
       "basename": "推断题",
       "path": "Gre/推断题.md"
-    },
-    {
-      "basename": "GRE阅读题型",
-      "path": "Gre/GRE阅读题型.md"
     },
     {
       "basename": "事实信息题",
@@ -195,10 +199,6 @@
     {
       "basename": "在一个有序数组中，找小于等于某个数最右侧的位置",
       "path": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/在一个有序数组中，找小于等于某个数最右侧的位置.md"
-    },
-    {
-      "basename": "在一个有序数组中，找大于等于某个数最左侧的位置",
-      "path": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/在一个有序数组中，找大于等于某个数最左侧的位置.md"
     }
   ],
   "omittedPaths": [],
