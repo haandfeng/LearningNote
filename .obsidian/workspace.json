@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#事实信息题",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,11 +73,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 270.5,
+    "collapsed": true
   },
   "right": {
     "id": "5a22bf979ae2ada9",
@@ -168,7 +170,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "c298b05fae79efde",
+  "active": "aa677b3dd1721ac9",
   "lastOpenFiles": [
     "Gre/事实信息题.md",
     "Gre/主旨题.md",
