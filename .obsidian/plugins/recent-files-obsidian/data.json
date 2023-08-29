@@ -5,6 +5,10 @@
       "path": "Gre/GRE阅读刷题笔记.md"
     },
     {
+      "basename": "推断题",
+      "path": "Gre/推断题.md"
+    },
+    {
       "basename": "归并排序代码",
       "path": "算法笔记/zuoAlgorithm/010. 代码模板/归并排序代码.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "主旨题",
       "path": "Gre/主旨题.md"
-    },
-    {
-      "basename": "推断题",
-      "path": "Gre/推断题.md"
     },
     {
       "basename": "态度题",
