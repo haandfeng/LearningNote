@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "归并排序代码",
-      "path": "算法笔记/zuoAlgorithm/010. 代码模板/归并排序代码.md"
-    },
-    {
-      "basename": "04 归并排序",
-      "path": "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/04 归并排序.md"
-    },
-    {
       "basename": "GRE阅读刷题笔记",
       "path": "Gre/GRE阅读刷题笔记.md"
     },
     {
+      "basename": "归并排序代码",
+      "path": "算法笔记/zuoAlgorithm/010. 代码模板/归并排序代码.md"
+    },
+    {
+      "basename": "可多选题",
+      "path": "Gre/可多选题.md"
+    },
+    {
       "basename": "事实信息题",
       "path": "Gre/事实信息题.md"
+    },
+    {
+      "basename": "04 归并排序",
+      "path": "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/04 归并排序.md"
     },
     {
       "basename": "主旨题",
@@ -31,10 +35,6 @@
     {
       "basename": "05 归并改写解决的面试题(续)、快速排序",
       "path": "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/05 归并改写解决的面试题(续)、快速排序.md"
-    },
-    {
-      "basename": "可多选题",
-      "path": "Gre/可多选题.md"
     },
     {
       "basename": "GRE阅读题型",
