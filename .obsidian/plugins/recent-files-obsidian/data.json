@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "GRE阅读刷题笔记",
+      "path": "Gre/GRE阅读刷题笔记.md"
+    },
+    {
+      "basename": "事实信息题",
+      "path": "Gre/事实信息题.md"
+    },
+    {
+      "basename": "主旨题",
+      "path": "Gre/主旨题.md"
+    },
+    {
+      "basename": "推断题",
+      "path": "Gre/推断题.md"
+    },
+    {
+      "basename": "态度题",
+      "path": "Gre/态度题.md"
+    },
+    {
       "basename": "归并排序代码",
       "path": "算法笔记/zuoAlgorithm/010. 代码模板/归并排序代码.md"
     },
@@ -21,20 +41,12 @@
       "path": "Gre/GRE阅读题型.md"
     },
     {
-      "basename": "主旨题",
-      "path": "Gre/主旨题.md"
-    },
-    {
       "basename": "03 链表结构、栈、队列、递归行为、哈希表和有序表",
       "path": "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/03 链表结构、栈、队列、递归行为、哈希表和有序表.md"
     },
     {
       "basename": "02 异或运算和几个经典题目解析",
       "path": "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/02 异或运算和几个经典题目解析.md"
-    },
-    {
-      "basename": "态度题",
-      "path": "Gre/态度题.md"
     },
     {
       "basename": "用递归方法求数组中的最大值",
@@ -51,18 +63,6 @@
     {
       "basename": "01 认识复杂度、对数器、二分法",
       "path": "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/01 认识复杂度、对数器、二分法.md"
-    },
-    {
-      "basename": "GRE阅读刷题笔记",
-      "path": "Gre/GRE阅读刷题笔记.md"
-    },
-    {
-      "basename": "推断题",
-      "path": "Gre/推断题.md"
-    },
-    {
-      "basename": "事实信息题",
-      "path": "Gre/事实信息题.md"
     },
     {
       "basename": "未命名",
