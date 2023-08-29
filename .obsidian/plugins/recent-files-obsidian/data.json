@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "主旨题",
+      "path": "Gre/主旨题.md"
+    },
+    {
       "basename": "GRE阅读刷题笔记",
       "path": "Gre/GRE阅读刷题笔记.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "04 归并排序",
       "path": "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/04 归并排序.md"
-    },
-    {
-      "basename": "主旨题",
-      "path": "Gre/主旨题.md"
     },
     {
       "basename": "态度题",

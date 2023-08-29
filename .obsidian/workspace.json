@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gre/GRE阅读刷题笔记.md",
+                "file": "Gre/主旨题.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gre/GRE阅读刷题笔记.md",
+                "file": "Gre/主旨题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gre/GRE阅读刷题笔记.md",
+                "file": "Gre/主旨题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gre/GRE阅读刷题笔记.md"
+                "file": "Gre/主旨题.md"
               }
             }
           },
@@ -171,8 +171,8 @@
   },
   "active": "c298b05fae79efde",
   "lastOpenFiles": [
-    "Gre/推断题.md",
     "Gre/GRE阅读刷题笔记.md",
+    "Gre/推断题.md",
     "算法笔记/zuoAlgorithm/010. 代码模板/归并排序代码.md",
     "Gre/可多选题.md",
     "Gre/事实信息题.md",
