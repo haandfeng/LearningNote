@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "信息目的题",
+      "path": "Gre/信息目的题.md"
+    },
+    {
+      "basename": "可多选题",
+      "path": "Gre/可多选题.md"
+    },
+    {
+      "basename": "句子作用题",
+      "path": "Gre/句子作用题.md"
+    },
+    {
+      "basename": "GRE阅读题型",
+      "path": "Gre/GRE阅读题型.md"
+    },
+    {
       "basename": "java基础",
       "path": "pdf/java基础.pdf"
     },
@@ -21,10 +37,6 @@
       "path": "算法笔记/zuoAlgorithm/010. 代码模板/归并排序代码.md"
     },
     {
-      "basename": "可多选题",
-      "path": "Gre/可多选题.md"
-    },
-    {
       "basename": "事实信息题",
       "path": "Gre/事实信息题.md"
     },
@@ -39,10 +51,6 @@
     {
       "basename": "05 归并改写解决的面试题(续)、快速排序",
       "path": "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/05 归并改写解决的面试题(续)、快速排序.md"
-    },
-    {
-      "basename": "GRE阅读题型",
-      "path": "Gre/GRE阅读题型.md"
     },
     {
       "basename": "03 链表结构、栈、队列、递归行为、哈希表和有序表",
@@ -71,10 +79,6 @@
     {
       "basename": "未命名",
       "path": "未命名.canvas"
-    },
-    {
-      "basename": "句子作用题",
-      "path": "Gre/句子作用题.md"
     },
     {
       "basename": "错误选项特征",
@@ -195,10 +199,6 @@
     {
       "basename": "2. 使用Obsidian",
       "path": "Obidian使用教程/2. 使用Obsidian.pdf"
-    },
-    {
-      "basename": "1. Obsidian简介",
-      "path": "Obidian使用教程/1. Obsidian简介.pdf"
     }
   ],
   "omittedPaths": [],
