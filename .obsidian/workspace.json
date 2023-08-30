@@ -11,11 +11,9 @@
             "id": "c298b05fae79efde",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Gre/GRE阅读刷题笔记.md",
-                "mode": "source",
-                "source": false
+                "file": "pdf/java基础.pdf"
               }
             }
           }
@@ -77,8 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5,
-    "collapsed": true
+    "width": 270.5
   },
   "right": {
     "id": "5a22bf979ae2ada9",
@@ -94,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gre/GRE阅读刷题笔记.md",
+                "file": "pdf/java基础.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gre/GRE阅读刷题笔记.md",
+                "file": "pdf/java基础.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gre/GRE阅读刷题笔记.md"
+                "file": "pdf/java基础.pdf"
               }
             }
           },
@@ -171,8 +168,8 @@
   },
   "active": "c298b05fae79efde",
   "lastOpenFiles": [
-    "Gre/主旨题.md",
     "Gre/GRE阅读刷题笔记.md",
+    "Gre/主旨题.md",
     "Gre/推断题.md",
     "算法笔记/zuoAlgorithm/010. 代码模板/归并排序代码.md",
     "Gre/可多选题.md",

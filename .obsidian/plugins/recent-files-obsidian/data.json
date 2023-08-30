@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "java基础",
+      "path": "pdf/java基础.pdf"
+    },
+    {
       "basename": "GRE阅读刷题笔记",
       "path": "Gre/GRE阅读刷题笔记.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1. Obsidian简介",
       "path": "Obidian使用教程/1. Obsidian简介.pdf"
-    },
-    {
-      "basename": "Waterfall Streams",
-      "path": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/Waterfall Streams.md"
     }
   ],
   "omittedPaths": [],
