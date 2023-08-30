@@ -5,6 +5,10 @@
       "path": "Gre/GRE阅读刷题笔记.md"
     },
     {
+      "basename": "事实信息题",
+      "path": "Gre/事实信息题.md"
+    },
+    {
       "basename": "句子作用题",
       "path": "Gre/句子作用题.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "归并排序代码",
       "path": "算法笔记/zuoAlgorithm/010. 代码模板/归并排序代码.md"
-    },
-    {
-      "basename": "事实信息题",
-      "path": "Gre/事实信息题.md"
     },
     {
       "basename": "04 归并排序",
