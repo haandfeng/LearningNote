@@ -162,12 +162,29 @@ E: 无中生有（比较关系）
 题干标志：in order to
 题型：[[信息目的题]]
 所需公式：夹逼定理
-A:无中生有 无其他地区
-B:无中生有 无5000年前
-C:逻辑错误
-D:identify factors 应该是support 支持（：）
-E:正确
-##### ##### 题号：58-3 
+A:无中生有 无经济压力
+B:无中生有 无difference
+C:正确
+D:无中生有 experienced
+E:无中生有 无 economic
+##### 题号：133-2 #句子作用题  #对
+题干标志：function of highlight sentence
+题型：[[句子作用题]]
+所需公式：三步走 正向
+A:没有 clarify
+B:并不是reiterate
+C:逻辑错误 反向
+D:逻辑错误 反向
+E:qualifies
+##### 题号：133-3 #推断题  #对
+题干标志：suggest
+题型：[[推断题]]
+所需公式：七个推断
+A:没有 clarify
+B:并不是reiterate
+C:逻辑错误 反向
+D:无中生有 primarily
+E: 无中生有 changing
 ##### 题号：135-1 #主旨目的题 #错
 题干标志：primary purpose
 题型：[[主旨题#主旨目的题 |主旨目的题]] 
