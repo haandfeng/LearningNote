@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "软件工程",
+      "path": "软件工程.md"
+    },
+    {
       "basename": "操作系统",
       "path": "操作系统.md"
     },
@@ -79,10 +83,6 @@
     {
       "basename": "01 认识复杂度、对数器、二分法",
       "path": "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/01 认识复杂度、对数器、二分法.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "未命名.canvas"
     },
     {
       "basename": "错误选项特征",
@@ -195,10 +195,6 @@
     {
       "basename": "8. 搜索的技巧",
       "path": "Obidian使用教程/8. 搜索的技巧.pdf"
-    },
-    {
-      "basename": "7. Obsidian插件（下）",
-      "path": "Obidian使用教程/7. Obsidian插件（下）.pdf"
     }
   ],
   "omittedPaths": [],

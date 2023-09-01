@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b4fb625f004ab309",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "软件工程.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统.md",
+                "file": "软件工程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统.md",
+                "file": "软件工程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统.md"
+                "file": "软件工程.md"
               }
             }
           },
@@ -181,10 +193,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "26455030a906a159",
+  "active": "b4fb625f004ab309",
   "lastOpenFiles": [
-    "Gre/GRE阅读刷题笔记.md",
     "操作系统.md",
+    "软件工程.md",
+    "Gre/GRE阅读刷题笔记.md",
     "Gre/GRE阅读题型.md",
     "Gre/主旨题.md",
     "Gre/事实信息题.md",
@@ -218,7 +231,6 @@
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/区间和达标的子数组数量.md",
     "算法笔记/zuoAlgorithm/100. 算法课程/10. 基础课/01 认识复杂度、对数器、二分法与异或运算.md",
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/一个数组中有一种数出现K次，其他数都出现了M次.md",
-    "算法笔记/zuoAlgorithm/010. 代码模板/数组实现栈和队列.md",
     "Obidian使用教程/4. Obsidian中的链接.pdf",
     "attachment/截屏2023-08-19 16.35.51.png",
     "attachment/截屏2023-08-18 15.33.30.png",
