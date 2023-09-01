@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "操作系统",
+      "path": "操作系统.md"
+    },
+    {
       "basename": "GRE阅读刷题笔记",
       "path": "Gre/GRE阅读刷题笔记.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "7. Obsidian插件（下）",
       "path": "Obidian使用教程/7. Obsidian插件（下）.pdf"
-    },
-    {
-      "basename": "2. 使用Obsidian",
-      "path": "Obidian使用教程/2. 使用Obsidian.pdf"
     }
   ],
   "omittedPaths": [],
