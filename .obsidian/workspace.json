@@ -4,57 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ff87a3fa5d7d36cd",
+        "id": "8359f58bbc3b4aa7",
         "type": "tabs",
         "children": [
           {
-            "id": "c298b05fae79efde",
+            "id": "d1c3492e4cbc7733",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gre/GRE阅读刷题笔记.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "26455030a906a159",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "操作系统.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b4fb625f004ab309",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "软件工程.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e964108d98facb3",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.5"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 200
   },
   "right": {
     "id": "5a22bf979ae2ada9",
@@ -128,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "软件工程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "软件工程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "软件工程.md"
-              }
+              "state": {}
             }
           },
           {
@@ -179,9 +136,19 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "063591399d144e1d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -203,13 +170,14 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "4e964108d98facb3",
+  "active": "d1c3492e4cbc7733",
   "lastOpenFiles": [
-    "操作系统.md",
     "软件工程.md",
-    "Gre/GRE阅读刷题笔记.md",
-    "Gre/GRE阅读题型.md",
+    "操作系统.md",
     "Gre/主旨题.md",
+    "Gre/GRE阅读刷题笔记.md",
+    "Gre/未命名.md",
+    "Gre/GRE阅读题型.md",
     "Gre/事实信息题.md",
     "Gre/句子作用题.md",
     "Gre/信息目的题.md",
@@ -240,7 +208,6 @@
     "算法笔记/zuoAlgorithm/100. 算法课程/10. 基础课/02 链表结构、栈、队列、递归行为、哈希表和有序表.md",
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/区间和达标的子数组数量.md",
     "算法笔记/zuoAlgorithm/100. 算法课程/10. 基础课/01 认识复杂度、对数器、二分法与异或运算.md",
-    "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/一个数组中有一种数出现K次，其他数都出现了M次.md",
     "Obidian使用教程/4. Obsidian中的链接.pdf",
     "attachment/截屏2023-08-19 16.35.51.png",
     "attachment/截屏2023-08-18 15.33.30.png",
