@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "__算法数据结构体系学习班题目汇总",
+      "path": "算法笔记/zuoAlgorithm/000. 学习大纲/__算法数据结构体系学习班题目汇总.md"
+    },
+    {
       "basename": "软件工程",
       "path": "软件工程.md"
     },
@@ -191,14 +195,6 @@
     {
       "basename": "5. Obsidian使用技巧",
       "path": "Obidian使用教程/5. Obsidian使用技巧.pdf"
-    },
-    {
-      "basename": "6. Obsidian插件（上）",
-      "path": "Obidian使用教程/6. Obsidian插件（上）.pdf"
-    },
-    {
-      "basename": "8. 搜索的技巧",
-      "path": "Obidian使用教程/8. 搜索的技巧.pdf"
     }
   ],
   "omittedPaths": [],
