@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4e964108d98facb3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -193,7 +203,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "b4fb625f004ab309",
+  "active": "4e964108d98facb3",
   "lastOpenFiles": [
     "操作系统.md",
     "软件工程.md",
