@@ -1,3 +1,8 @@
+---
+aliases: []
+cssclasses: []
+tags:
+---
 [[GRE阅读刷题笔记]]
 # GRE
 [[错误选项特征]]
