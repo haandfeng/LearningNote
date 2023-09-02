@@ -236,9 +236,9 @@ E: extent 比较关系的无中生有
 所需公式：定位+同意改写
 定位词：incomplete
 定位到：第二段第二句
-A:正确
-B:无中生有 reaction
-C:无中生有 simple
+A:非答案区间
+B:正确
+C:无中生有 逻辑错误 不简单
 D:无中生有 small molecular
 E:无中生有 carbon based
 
@@ -256,6 +256,17 @@ E:无中生有 carbon based
 
 ##### 题号：149-3 #推断题  #对
 题干标志：inferred
+题型：[[推断题]]
+设计使用甲醇 定位错误
+所需公式：七个推断
+A: 非答案区间 黑人报纸
+B: 非答案区间 黑人报纸
+C:正确
+D:无中生有 primarily
+E: 无中生有 changing
+
+##### 题号：149-4 #推断题  #对
+题干标志：suggest
 题型：[[推断题]]
 methanol 全文都有 看选项
 所需公式：七个推断
