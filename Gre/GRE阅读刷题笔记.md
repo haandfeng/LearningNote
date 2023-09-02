@@ -230,3 +230,14 @@ B: largely（无中生有）有因果关系 要关注逻辑错误 错了
 C: 没读懂！！！ 不可取不能排除 应该是正确的 apart from 是 in addition to 
 D: 非管理岗位，无中生有
 E: extent 比较关系的无中生有
+##### 题号：149-1 #事实信息题  #错
+题干标志：A  T P 
+题型：[[事实信息题]]
+所需公式：定位+同意改写
+定位词：incomplete
+定位到：第二段第二句
+A:正确
+B:无中生有 effect
+C:无中生有 effect
+D:无中生有 relation
+E:无中生有 effect

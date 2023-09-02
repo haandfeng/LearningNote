@@ -8,27 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0134306965bd9adb",
-            "type": "leaf",
-            "state": {
-              "type": "memos_view",
-              "state": {}
-            }
-          },
-          {
             "id": "a61b1e32d86f0399",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gre/类比题.md",
+                "file": "Gre/GRE阅读刷题笔记.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gre/类比题.md",
+                "file": "Gre/GRE阅读刷题笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gre/类比题.md",
+                "file": "Gre/GRE阅读刷题笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gre/类比题.md"
+                "file": "Gre/GRE阅读刷题笔记.md"
               }
             }
           },
@@ -187,14 +178,14 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "a61b1e32d86f0399",
+  "active": "ab3df9bd0138c1ec",
   "lastOpenFiles": [
+    "Gre/GRE阅读题型.md",
+    "Gre/类比题.md",
     "attachment/截屏2023-09-02 19.08.37.png",
     "Gre/推断题.md",
     "Gre/态度题.md",
     "Gre/未命名.md",
-    "Gre/类比题.md",
-    "Gre/GRE阅读题型.md",
     "未命名",
     "算法笔记/zuoAlgorithm/000. 学习大纲/__算法数据结构体系学习班题目汇总.md",
     "未命名.md",
@@ -228,7 +219,6 @@
     "attachment/截屏2023-08-26 11.24.32.png",
     "Obidian使用教程/4. Obsidian中的链接.pdf",
     "attachment/截屏2023-08-19 16.35.51.png",
-    "attachment/截屏2023-08-18 15.33.30.png",
     "未命名 1.canvas",
     "Obidian使用教程/5. Obsidian使用技巧.pdf",
     "Template",
