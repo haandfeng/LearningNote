@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gre/GRE阅读题型.md",
+                "file": "Gre/类比题.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,13 +82,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5a22bf979ae2ada9",
@@ -104,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gre/GRE阅读题型.md",
+                "file": "Gre/类比题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gre/GRE阅读题型.md",
+                "file": "Gre/类比题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gre/GRE阅读题型.md"
+                "file": "Gre/类比题.md"
               }
             }
           },
@@ -191,6 +189,12 @@
   },
   "active": "a61b1e32d86f0399",
   "lastOpenFiles": [
+    "attachment/截屏2023-09-02 19.08.37.png",
+    "Gre/推断题.md",
+    "Gre/态度题.md",
+    "Gre/未命名.md",
+    "Gre/类比题.md",
+    "Gre/GRE阅读题型.md",
     "未命名",
     "算法笔记/zuoAlgorithm/000. 学习大纲/__算法数据结构体系学习班题目汇总.md",
     "未命名.md",
@@ -199,17 +203,13 @@
     "操作系统.md",
     "Gre/主旨题.md",
     "Gre/GRE阅读刷题笔记.md",
-    "Gre/未命名.md",
-    "Gre/GRE阅读题型.md",
     "Gre/事实信息题.md",
     "Gre/句子作用题.md",
     "Gre/信息目的题.md",
     "Gre/可多选题.md",
     "pdf/java基础.pdf",
-    "Gre/推断题.md",
     "算法笔记/zuoAlgorithm/010. 代码模板/归并排序代码.md",
     "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/04 归并排序.md",
-    "Gre/态度题.md",
     "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/05 归并改写解决的面试题(续)、快速排序.md",
     "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/03 链表结构、栈、队列、递归行为、哈希表和有序表.md",
     "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/02 异或运算和几个经典题目解析.md",
@@ -222,7 +222,6 @@
     "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/01 认识复杂度、对数器、二分法.md",
     "未命名.canvas",
     "attachment/截屏2023-08-26 13.34.35.png",
-    "Gre/错误选项特征.md",
     "attachment/截屏2023-08-26 11.41.13.png",
     "attachment/截屏2023-08-26 11.39.16.png",
     "attachment/截屏2023-08-26 11.38.52.png",
@@ -239,7 +238,6 @@
     "Obidian使用教程/2. 使用Obsidian.pdf",
     "Obidian使用教程/1. Obsidian简介.pdf",
     "未命名 3.canvas",
-    "未命名 2.canvas",
-    "Gre"
+    "未命名 2.canvas"
   ]
 }
