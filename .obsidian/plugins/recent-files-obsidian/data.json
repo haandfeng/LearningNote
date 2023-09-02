@@ -5,24 +5,28 @@
       "path": "Gre/GRE阅读刷题笔记.md"
     },
     {
-      "basename": "GRE阅读题型",
-      "path": "Gre/GRE阅读题型.md"
-    },
-    {
       "basename": "类比题",
       "path": "Gre/类比题.md"
     },
     {
-      "basename": "推断题",
-      "path": "Gre/推断题.md"
+      "basename": "未命名",
+      "path": "Gre/未命名.md"
+    },
+    {
+      "basename": "GRE阅读题型",
+      "path": "Gre/GRE阅读题型.md"
+    },
+    {
+      "basename": "信息目的题",
+      "path": "Gre/信息目的题.md"
     },
     {
       "basename": "态度题",
       "path": "Gre/态度题.md"
     },
     {
-      "basename": "未命名",
-      "path": "Gre/未命名.md"
+      "basename": "推断题",
+      "path": "Gre/推断题.md"
     },
     {
       "basename": "__算法数据结构体系学习班题目汇总",
@@ -47,10 +51,6 @@
     {
       "basename": "句子作用题",
       "path": "Gre/句子作用题.md"
-    },
-    {
-      "basename": "信息目的题",
-      "path": "Gre/信息目的题.md"
     },
     {
       "basename": "可多选题",

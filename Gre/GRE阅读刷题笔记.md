@@ -237,7 +237,30 @@ E: extent 比较关系的无中生有
 定位词：incomplete
 定位到：第二段第二句
 A:正确
-B:无中生有 effect
-C:无中生有 effect
-D:无中生有 relation
-E:无中生有 effect
+B:无中生有 reaction
+C:无中生有 simple
+D:无中生有 small molecular
+E:无中生有 carbon based
+
+##### 题号：149-1 #类比题 #错
+题干标志：parallel
+题型：[[类比题]]
+所需公式：找趋势
+定位词：第一句
+定位到：第一句
+A:少了一个过程
+B:逻辑错误 无中生有 没有增加 没有非法
+C:正确 符合
+D:无中生有 small molecular
+E:无中生有 carbon based
+
+##### 题号：149-3 #推断题  #对
+题干标志：inferred
+题型：[[推断题]]
+methanol 全文都有 看选项
+所需公式：七个推断
+A: 非答案区间 黑人报纸
+B: 非答案区间 黑人报纸
+C:正确
+D:无中生有 primarily
+E: 无中生有 changing
