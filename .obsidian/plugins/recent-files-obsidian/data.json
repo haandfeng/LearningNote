@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "GRE阅读刷题笔记",
-      "path": "Gre/GRE阅读刷题笔记.md"
-    },
-    {
-      "basename": "否定事实信息题",
-      "path": "Gre/否定事实信息题.md"
-    },
-    {
       "basename": "GRE阅读题型",
       "path": "Gre/GRE阅读题型.md"
     },
     {
-      "basename": "未命名",
-      "path": "Gre/未命名.md"
+      "basename": "GRE阅读刷题笔记",
+      "path": "Gre/GRE阅读刷题笔记.md"
+    },
+    {
+      "basename": "词汇题",
+      "path": "Gre/词汇题.md"
+    },
+    {
+      "basename": "主旨题",
+      "path": "Gre/主旨题.md"
+    },
+    {
+      "basename": "否定事实信息题",
+      "path": "Gre/否定事实信息题.md"
     },
     {
       "basename": "类比题",
@@ -43,10 +47,6 @@
     {
       "basename": "操作系统",
       "path": "操作系统.md"
-    },
-    {
-      "basename": "主旨题",
-      "path": "Gre/主旨题.md"
     },
     {
       "basename": "事实信息题",
