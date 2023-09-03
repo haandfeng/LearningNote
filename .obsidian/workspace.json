@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8052fc5a9696dc25",
+        "id": "20a1985c1cee3d33",
         "type": "tabs",
         "children": [
           {
-            "id": "7ebe9fbc483ec236",
+            "id": "272339025c850696",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gre/GRE阅读题型.md",
+                "file": "算法笔记/zuoAlgorithm/010. 代码模板/归并排序代码.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 287.5,
+    "collapsed": true
   },
   "right": {
     "id": "5a22bf979ae2ada9",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gre/GRE阅读题型.md",
+                "file": "算法笔记/zuoAlgorithm/010. 代码模板/归并排序代码.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gre/GRE阅读题型.md",
+                "file": "算法笔记/zuoAlgorithm/010. 代码模板/归并排序代码.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gre/GRE阅读题型.md"
+                "file": "算法笔记/zuoAlgorithm/010. 代码模板/归并排序代码.md"
               }
             }
           },
@@ -178,10 +179,14 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "7ebe9fbc483ec236",
+  "active": "272339025c850696",
   "lastOpenFiles": [
-    "Gre/主旨题.md",
+    "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/04 归并排序.md",
+    "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/求数组小和.md",
+    "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/05 归并改写解决的面试题(续)、快速排序.md",
+    "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/03 链表结构、栈、队列、递归行为、哈希表和有序表.md",
     "Gre/GRE阅读题型.md",
+    "Gre/主旨题.md",
     "Gre/词汇题.md",
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/Waterfall Streams.md",
     "Gre/信息目的题.md",
@@ -204,15 +209,11 @@
     "操作系统.md",
     "pdf/java基础.pdf",
     "算法笔记/zuoAlgorithm/010. 代码模板/归并排序代码.md",
-    "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/04 归并排序.md",
-    "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/05 归并改写解决的面试题(续)、快速排序.md",
-    "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/03 链表结构、栈、队列、递归行为、哈希表和有序表.md",
     "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/02 异或运算和几个经典题目解析.md",
     "attachment/截屏2023-08-27 15.32.37.png",
     "attachment/截屏2023-08-27 15.32.01.png",
     "attachment/截屏2023-08-27 15.30.57.png",
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/用递归方法求数组中的最大值.md",
-    "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/如何用队列结构实现栈结构.md",
     "未命名.canvas",
     "attachment/截屏2023-08-26 13.34.35.png",
     "attachment/截屏2023-08-26 11.41.13.png",
