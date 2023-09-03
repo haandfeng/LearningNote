@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "信息目的题",
+      "path": "Gre/信息目的题.md"
+    },
+    {
+      "basename": "推断题",
+      "path": "Gre/推断题.md"
+    },
+    {
+      "basename": "态度题",
+      "path": "Gre/态度题.md"
+    },
+    {
+      "basename": "事实信息题",
+      "path": "Gre/事实信息题.md"
+    },
+    {
+      "basename": "类比题",
+      "path": "Gre/类比题.md"
+    },
+    {
+      "basename": "可多选题",
+      "path": "Gre/可多选题.md"
+    },
+    {
+      "basename": "句子作用题",
+      "path": "Gre/句子作用题.md"
+    },
+    {
+      "basename": "否定事实信息题",
+      "path": "Gre/否定事实信息题.md"
+    },
+    {
+      "basename": "错误选项特征",
+      "path": "Gre/错误选项特征.md"
+    },
+    {
       "basename": "词汇题",
       "path": "Gre/词汇题.md"
     },
@@ -17,26 +53,6 @@
       "path": "Gre/主旨题.md"
     },
     {
-      "basename": "否定事实信息题",
-      "path": "Gre/否定事实信息题.md"
-    },
-    {
-      "basename": "类比题",
-      "path": "Gre/类比题.md"
-    },
-    {
-      "basename": "信息目的题",
-      "path": "Gre/信息目的题.md"
-    },
-    {
-      "basename": "态度题",
-      "path": "Gre/态度题.md"
-    },
-    {
-      "basename": "推断题",
-      "path": "Gre/推断题.md"
-    },
-    {
       "basename": "__算法数据结构体系学习班题目汇总",
       "path": "算法笔记/zuoAlgorithm/000. 学习大纲/__算法数据结构体系学习班题目汇总.md"
     },
@@ -47,18 +63,6 @@
     {
       "basename": "操作系统",
       "path": "操作系统.md"
-    },
-    {
-      "basename": "事实信息题",
-      "path": "Gre/事实信息题.md"
-    },
-    {
-      "basename": "句子作用题",
-      "path": "Gre/句子作用题.md"
-    },
-    {
-      "basename": "可多选题",
-      "path": "Gre/可多选题.md"
     },
     {
       "basename": "java基础",
@@ -99,10 +103,6 @@
     {
       "basename": "01 认识复杂度、对数器、二分法",
       "path": "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/01 认识复杂度、对数器、二分法.md"
-    },
-    {
-      "basename": "错误选项特征",
-      "path": "Gre/错误选项特征.md"
     },
     {
       "basename": "实现最小栈",
