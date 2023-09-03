@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "否定事实信息题",
+      "path": "Gre/否定事实信息题.md"
+    },
+    {
       "basename": "GRE阅读刷题笔记",
       "path": "Gre/GRE阅读刷题笔记.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2023-07-31",
       "path": "Daily/2023-07-31.md"
-    },
-    {
-      "basename": "5. Obsidian使用技巧",
-      "path": "Obidian使用教程/5. Obsidian使用技巧.pdf"
     }
   ],
   "omittedPaths": [],
