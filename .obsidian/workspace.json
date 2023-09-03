@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a61b1e32d86f0399",
+            "id": "7ebe9fbc483ec236",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gre/信息目的题.md",
+                "file": "Gre/GRE阅读题型.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gre/信息目的题.md",
+                "file": "Gre/GRE阅读题型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gre/信息目的题.md",
+                "file": "Gre/GRE阅读题型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gre/信息目的题.md"
+                "file": "Gre/GRE阅读题型.md"
               }
             }
           },
@@ -178,10 +178,14 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "a61b1e32d86f0399",
+  "active": "7ebe9fbc483ec236",
   "lastOpenFiles": [
-    "Gre/推断题.md",
+    "Gre/主旨题.md",
+    "Gre/GRE阅读题型.md",
+    "Gre/词汇题.md",
+    "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/Waterfall Streams.md",
     "Gre/信息目的题.md",
+    "Gre/推断题.md",
     "Gre/态度题.md",
     "Gre/事实信息题.md",
     "Gre/类比题.md",
@@ -189,11 +193,8 @@
     "Gre/句子作用题.md",
     "Gre/否定事实信息题.md",
     "Gre/错误选项特征.md",
-    "Gre/词汇题.md",
-    "Gre/GRE阅读题型.md",
     "Gre/GRE阅读刷题笔记.md",
     "attachment/截屏2023-09-03 20.05.11.png",
-    "Gre/主旨题.md",
     "attachment/截屏2023-09-02 19.08.37.png",
     "未命名",
     "算法笔记/zuoAlgorithm/000. 学习大纲/__算法数据结构体系学习班题目汇总.md",
@@ -212,7 +213,6 @@
     "attachment/截屏2023-08-27 15.30.57.png",
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/用递归方法求数组中的最大值.md",
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/如何用队列结构实现栈结构.md",
-    "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/如何用栈结构实现队列结构.md",
     "未命名.canvas",
     "attachment/截屏2023-08-26 13.34.35.png",
     "attachment/截屏2023-08-26 11.41.13.png",
