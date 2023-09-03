@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "GRE阅读刷题笔记",
+      "path": "Gre/GRE阅读刷题笔记.md"
+    },
+    {
       "basename": "归并排序代码",
       "path": "算法笔记/zuoAlgorithm/010. 代码模板/归并排序代码.md"
     },
@@ -71,10 +75,6 @@
     {
       "basename": "错误选项特征",
       "path": "Gre/错误选项特征.md"
-    },
-    {
-      "basename": "GRE阅读刷题笔记",
-      "path": "Gre/GRE阅读刷题笔记.md"
     },
     {
       "basename": "__算法数据结构体系学习班题目汇总",
