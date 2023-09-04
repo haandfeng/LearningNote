@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/04 归并排序.md",
+                "file": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/求数组小和.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/04 归并排序.md",
+                "file": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/求数组小和.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/04 归并排序.md",
+                "file": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/求数组小和.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/04 归并排序.md"
+                "file": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/求数组小和.md"
               }
             }
           },
@@ -181,9 +181,9 @@
   },
   "active": "272339025c850696",
   "lastOpenFiles": [
+    "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/04 归并排序.md",
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/求数组小和.md",
     "算法笔记/zuoAlgorithm/010. 代码模板/求数组小和代码.md",
-    "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/04 归并排序.md",
     "Gre/长文章.md",
     "Gre/逻辑单题.md",
     "Gre/GRE阅读题型.md",
