@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "求数组小和",
-      "path": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/求数组小和.md"
+      "basename": "求数组中的逆序对数量",
+      "path": "算法笔记/zuoAlgorithm/003. 编程基础技巧及工具/求数组中的逆序对数量.md"
     },
     {
       "basename": "04 归并排序",
       "path": "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/04 归并排序.md"
+    },
+    {
+      "basename": "求数组小和",
+      "path": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/求数组小和.md"
     },
     {
       "basename": "求数组小和代码",
@@ -195,10 +199,6 @@
     {
       "basename": "算法体系笔记",
       "path": "算法笔记/算法体系笔记.md"
-    },
-    {
-      "basename": "2023-08-18",
-      "path": "Daily/2023-08-18.md"
     }
   ],
   "omittedPaths": [],
