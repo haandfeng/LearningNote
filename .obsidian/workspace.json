@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gre/主旨题.md",
+                "file": "Gre/逻辑单题.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gre/主旨题.md",
+                "file": "Gre/逻辑单题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gre/主旨题.md",
+                "file": "Gre/逻辑单题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gre/主旨题.md"
+                "file": "Gre/逻辑单题.md"
               }
             }
           },
@@ -182,8 +182,8 @@
   "active": "3ed51eb0f157de36",
   "lastOpenFiles": [
     "Gre/GRE阅读题型.md",
-    "Gre/态度题.md",
     "Gre/主旨题.md",
+    "Gre/态度题.md",
     "算法笔记/zuoAlgorithm/003. 编程基础技巧及工具/求数组中的逆序对数量.md",
     "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/04 归并排序.md",
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/求数组小和.md",
