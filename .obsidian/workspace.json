@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gre/信息目的题.md",
+                "file": "Gre/逻辑单题.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5
+    "width": 287.5,
+    "collapsed": true
   },
   "right": {
     "id": "5a22bf979ae2ada9",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gre/信息目的题.md",
+                "file": "Gre/逻辑单题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gre/信息目的题.md",
+                "file": "Gre/逻辑单题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gre/信息目的题.md"
+                "file": "Gre/逻辑单题.md"
               }
             }
           },
@@ -180,6 +181,8 @@
   },
   "active": "272339025c850696",
   "lastOpenFiles": [
+    "Gre/信息目的题.md",
+    "Gre/推断题.md",
     "Gre/逻辑单题.md",
     "attachment/截屏2023-09-04 13.26.21.png",
     "attachment/截屏2023-09-03 23.14.16.png",
@@ -196,8 +199,6 @@
     "Gre/主旨题.md",
     "Gre/词汇题.md",
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/Waterfall Streams.md",
-    "Gre/信息目的题.md",
-    "Gre/推断题.md",
     "Gre/态度题.md",
     "Gre/事实信息题.md",
     "Gre/类比题.md",
