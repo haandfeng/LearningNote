@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "逻辑单题",
-      "path": "Gre/逻辑单题.md"
+      "basename": "态度题",
+      "path": "Gre/态度题.md"
     },
     {
       "basename": "GRE阅读题型",
       "path": "Gre/GRE阅读题型.md"
     },
     {
+      "basename": "句子作用题",
+      "path": "Gre/句子作用题.md"
+    },
+    {
       "basename": "推断题",
       "path": "Gre/推断题.md"
+    },
+    {
+      "basename": "否定事实信息题",
+      "path": "Gre/否定事实信息题.md"
+    },
+    {
+      "basename": "主旨题",
+      "path": "Gre/主旨题.md"
+    },
+    {
+      "basename": "错误选项特征",
+      "path": "Gre/错误选项特征.md"
+    },
+    {
+      "basename": "逻辑单题",
+      "path": "Gre/逻辑单题.md"
     },
     {
       "basename": "操作系统",
@@ -39,14 +59,6 @@
     {
       "basename": "归并排序代码",
       "path": "算法笔记/zuoAlgorithm/010. 代码模板/归并排序代码.md"
-    },
-    {
-      "basename": "主旨题",
-      "path": "Gre/主旨题.md"
-    },
-    {
-      "basename": "态度题",
-      "path": "Gre/态度题.md"
     },
     {
       "basename": "求数组小和",
@@ -95,18 +107,6 @@
     {
       "basename": "可多选题",
       "path": "Gre/可多选题.md"
-    },
-    {
-      "basename": "句子作用题",
-      "path": "Gre/句子作用题.md"
-    },
-    {
-      "basename": "否定事实信息题",
-      "path": "Gre/否定事实信息题.md"
-    },
-    {
-      "basename": "错误选项特征",
-      "path": "Gre/错误选项特征.md"
     },
     {
       "basename": "__算法数据结构体系学习班题目汇总",
