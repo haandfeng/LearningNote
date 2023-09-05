@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "态度题",
-      "path": "Gre/态度题.md"
+      "basename": "2023-09-05",
+      "path": "Daily/2023-09-05.md"
+    },
+    {
+      "basename": "GRE阅读正确率",
+      "path": "Gre/GRE阅读正确率.md"
+    },
+    {
+      "basename": "操作系统",
+      "path": "操作系统.md"
     },
     {
       "basename": "GRE阅读题型",
       "path": "Gre/GRE阅读题型.md"
+    },
+    {
+      "basename": "态度题",
+      "path": "Gre/态度题.md"
     },
     {
       "basename": "句子作用题",
@@ -31,10 +43,6 @@
     {
       "basename": "逻辑单题",
       "path": "Gre/逻辑单题.md"
-    },
-    {
-      "basename": "操作系统",
-      "path": "操作系统.md"
     },
     {
       "basename": "区间和达标的子数组数量",
@@ -191,14 +199,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "01 位运算、算法是什么、简单排序",
-      "path": "算法笔记/zuoAlgorithm/100. 算法课程/00. 新手班/01 位运算、算法是什么、简单排序.md"
-    },
-    {
-      "basename": "算法笔记新手班",
-      "path": "算法笔记/算法笔记新手班.md"
     }
   ],
   "omittedPaths": [],
