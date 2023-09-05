@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "操作系统",
+      "path": "操作系统.md"
+    },
+    {
       "basename": "区间和达标的子数组数量",
       "path": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/区间和达标的子数组数量.md"
     },
@@ -111,10 +115,6 @@
     {
       "basename": "软件工程",
       "path": "软件工程.md"
-    },
-    {
-      "basename": "操作系统",
-      "path": "操作系统.md"
     },
     {
       "basename": "java基础",

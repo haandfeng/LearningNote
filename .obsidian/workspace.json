@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/区间和达标的子数组数量.md",
+                "file": "操作系统.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/区间和达标的子数组数量.md",
+                "file": "操作系统.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/区间和达标的子数组数量.md",
+                "file": "操作系统.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/区间和达标的子数组数量.md"
+                "file": "操作系统.md"
               }
             }
           },
@@ -178,10 +178,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "ab3df9bd0138c1ec",
+  "active": "3ed51eb0f157de36",
   "lastOpenFiles": [
-    "算法笔记/zuoAlgorithm/001. 难点重点照顾/_需要手动改写有序表的题目.md",
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/区间和达标的子数组数量.md",
+    "算法笔记/zuoAlgorithm/001. 难点重点照顾/_需要手动改写有序表的题目.md",
     "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/04 归并排序.md",
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/求数组中的大两倍数对数量.md",
     "attachment/截屏2023-09-04 22.33.53.png",
