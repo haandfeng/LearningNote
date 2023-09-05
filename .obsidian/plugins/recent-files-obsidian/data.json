@@ -5,20 +5,36 @@
       "path": "Daily/2023-09-05.md"
     },
     {
+      "basename": "GRE阅读题型",
+      "path": "Gre/GRE阅读题型.md"
+    },
+    {
+      "basename": "事实信息题",
+      "path": "Gre/事实信息题.md"
+    },
+    {
+      "basename": "态度题",
+      "path": "Gre/态度题.md"
+    },
+    {
+      "basename": "信息目的题",
+      "path": "Gre/信息目的题.md"
+    },
+    {
+      "basename": "类比题",
+      "path": "Gre/类比题.md"
+    },
+    {
+      "basename": "逻辑单题",
+      "path": "Gre/逻辑单题.md"
+    },
+    {
       "basename": "GRE阅读正确率",
       "path": "Gre/GRE阅读正确率.md"
     },
     {
       "basename": "操作系统",
       "path": "操作系统.md"
-    },
-    {
-      "basename": "GRE阅读题型",
-      "path": "Gre/GRE阅读题型.md"
-    },
-    {
-      "basename": "态度题",
-      "path": "Gre/态度题.md"
     },
     {
       "basename": "句子作用题",
@@ -39,10 +55,6 @@
     {
       "basename": "错误选项特征",
       "path": "Gre/错误选项特征.md"
-    },
-    {
-      "basename": "逻辑单题",
-      "path": "Gre/逻辑单题.md"
     },
     {
       "basename": "区间和达标的子数组数量",
@@ -81,10 +93,6 @@
       "path": "Gre/长文章.md"
     },
     {
-      "basename": "信息目的题",
-      "path": "Gre/信息目的题.md"
-    },
-    {
       "basename": "GRE阅读刷题笔记",
       "path": "Gre/GRE阅读刷题笔记.md"
     },
@@ -103,14 +111,6 @@
     {
       "basename": "Waterfall Streams",
       "path": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/Waterfall Streams.md"
-    },
-    {
-      "basename": "事实信息题",
-      "path": "Gre/事实信息题.md"
-    },
-    {
-      "basename": "类比题",
-      "path": "Gre/类比题.md"
     },
     {
       "basename": "可多选题",

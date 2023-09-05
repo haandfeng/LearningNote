@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5,
-    "collapsed": true
+    "width": 287.5
   },
   "right": {
     "id": "5a22bf979ae2ada9",
@@ -161,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5
+    "width": 239.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,17 +180,20 @@
   },
   "active": "3ed51eb0f157de36",
   "lastOpenFiles": [
-    "Gre/GRE阅读正确率.md",
-    "Daily/2023-09-05.md",
-    "操作系统.md",
     "Gre/GRE阅读题型.md",
+    "Gre/事实信息题.md",
     "Gre/态度题.md",
+    "Gre/信息目的题.md",
+    "Gre/类比题.md",
+    "Gre/逻辑单题.md",
+    "Daily/2023-09-05.md",
+    "Gre/GRE阅读正确率.md",
+    "操作系统.md",
     "Gre/句子作用题.md",
     "Gre/推断题.md",
     "Gre/否定事实信息题.md",
     "Gre/主旨题.md",
     "Gre/错误选项特征.md",
-    "Gre/逻辑单题.md",
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/区间和达标的子数组数量.md",
     "算法笔记/zuoAlgorithm/001. 难点重点照顾/_需要手动改写有序表的题目.md",
     "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/04 归并排序.md",
@@ -202,7 +205,6 @@
     "算法笔记/zuoAlgorithm/010. 代码模板/求数组小和代码.md",
     "Gre/长文章.md",
     "attachment/截屏2023-09-04 15.08.39.png",
-    "Gre/信息目的题.md",
     "attachment/截屏2023-09-04 13.26.21.png",
     "attachment/截屏2023-09-03 23.14.16.png",
     "attachment/截屏2023-09-03 23.12.38.png",
@@ -211,8 +213,6 @@
     "Gre/GRE阅读刷题笔记.md",
     "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/05 归并改写解决的面试题(续)、快速排序.md",
     "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/03 链表结构、栈、队列、递归行为、哈希表和有序表.md",
-    "Gre/词汇题.md",
-    "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/Waterfall Streams.md",
     "attachment/截屏2023-09-03 20.05.11.png",
     "attachment/截屏2023-09-02 19.08.37.png",
     "未命名",
