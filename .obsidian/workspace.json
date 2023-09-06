@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023-09-05.md",
+                "file": "Gre/GRE填空题.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-09-05.md",
+                "file": "Gre/GRE填空题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-09-05.md",
+                "file": "Gre/GRE填空题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-09-05.md"
+                "file": "Gre/GRE填空题.md"
               }
             }
           },
@@ -181,13 +181,15 @@
   },
   "active": "3ed51eb0f157de36",
   "lastOpenFiles": [
+    "Gre/词汇题.md",
+    "Gre/GRE填空题.md",
+    "Daily/2023-09-05.md",
     "Gre/GRE阅读题型.md",
     "Gre/事实信息题.md",
     "Gre/态度题.md",
     "Gre/信息目的题.md",
     "Gre/类比题.md",
     "Gre/逻辑单题.md",
-    "Daily/2023-09-05.md",
     "Gre/GRE阅读正确率.md",
     "操作系统.md",
     "Gre/句子作用题.md",
@@ -212,8 +214,6 @@
     "attachment/截屏2023-09-03 23.11.48.png",
     "attachment/截屏2023-09-03 23.03.58.png",
     "Gre/GRE阅读刷题笔记.md",
-    "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/05 归并改写解决的面试题(续)、快速排序.md",
-    "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/03 链表结构、栈、队列、递归行为、哈希表和有序表.md",
     "attachment/截屏2023-09-03 20.05.11.png",
     "attachment/截屏2023-09-02 19.08.37.png",
     "未命名",
