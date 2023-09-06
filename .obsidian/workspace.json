@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gre/推断题.md",
+                "file": "软件工程.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gre/推断题.md",
+                "file": "软件工程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gre/推断题.md",
+                "file": "软件工程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gre/推断题.md"
+                "file": "软件工程.md"
               }
             }
           },
@@ -181,6 +181,7 @@
   },
   "active": "7b19cf9e43794829",
   "lastOpenFiles": [
+    "Gre/推断题.md",
     "Gre/GRE阅读题型.md",
     "Gre/GRE阅读刷题笔记.md",
     "Gre/GRE填空题.md",
@@ -199,7 +200,6 @@
     "Gre/类比题.md",
     "操作系统.md",
     "Gre/句子作用题.md",
-    "Gre/推断题.md",
     "Gre/否定事实信息题.md",
     "Gre/主旨题.md",
     "Gre/错误选项特征.md",
