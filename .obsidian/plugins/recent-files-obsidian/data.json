@@ -1,24 +1,12 @@
 {
   "recentFiles": [
     {
+      "basename": "指代重复",
+      "path": "Gre/填空/指代重复.md"
+    },
+    {
       "basename": "软件工程",
       "path": "软件工程.md"
-    },
-    {
-      "basename": "推断题",
-      "path": "Gre/推断题.md"
-    },
-    {
-      "basename": "GRE阅读题型",
-      "path": "Gre/GRE阅读题型.md"
-    },
-    {
-      "basename": "GRE阅读刷题笔记",
-      "path": "Gre/GRE阅读刷题笔记.md"
-    },
-    {
-      "basename": "GRE填空题",
-      "path": "Gre/GRE填空题.md"
     },
     {
       "basename": "截屏2023-08-18 15.33.30",
@@ -33,60 +21,16 @@
       "path": "attachment/截屏2023-08-26 11.38.52.png"
     },
     {
-      "basename": "逻辑单题",
-      "path": "Gre/逻辑单题.md"
-    },
-    {
       "basename": "2023-09-06",
       "path": "Daily/2023-09-06.md"
-    },
-    {
-      "basename": "GRE阅读正确率",
-      "path": "Gre/GRE阅读正确率.md"
     },
     {
       "basename": "2023-09-05",
       "path": "Daily/2023-09-05.md"
     },
     {
-      "basename": "词汇题",
-      "path": "Gre/词汇题.md"
-    },
-    {
-      "basename": "事实信息题",
-      "path": "Gre/事实信息题.md"
-    },
-    {
-      "basename": "态度题",
-      "path": "Gre/态度题.md"
-    },
-    {
-      "basename": "信息目的题",
-      "path": "Gre/信息目的题.md"
-    },
-    {
-      "basename": "类比题",
-      "path": "Gre/类比题.md"
-    },
-    {
       "basename": "操作系统",
       "path": "操作系统.md"
-    },
-    {
-      "basename": "句子作用题",
-      "path": "Gre/句子作用题.md"
-    },
-    {
-      "basename": "否定事实信息题",
-      "path": "Gre/否定事实信息题.md"
-    },
-    {
-      "basename": "主旨题",
-      "path": "Gre/主旨题.md"
-    },
-    {
-      "basename": "错误选项特征",
-      "path": "Gre/错误选项特征.md"
     },
     {
       "basename": "区间和达标的子数组数量",
@@ -121,10 +65,6 @@
       "path": "算法笔记/zuoAlgorithm/010. 代码模板/求数组小和代码.md"
     },
     {
-      "basename": "长文章",
-      "path": "Gre/长文章.md"
-    },
-    {
       "basename": "05 归并改写解决的面试题(续)、快速排序",
       "path": "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/05 归并改写解决的面试题(续)、快速排序.md"
     },
@@ -135,10 +75,6 @@
     {
       "basename": "Waterfall Streams",
       "path": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/Waterfall Streams.md"
-    },
-    {
-      "basename": "可多选题",
-      "path": "Gre/可多选题.md"
     },
     {
       "basename": "__算法数据结构体系学习班题目汇总",

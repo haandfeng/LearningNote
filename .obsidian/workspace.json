@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "软件工程.md",
+                "file": "Gre/填空/指代重复.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "软件工程.md",
+                "file": "Gre/填空/指代重复.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "软件工程.md",
+                "file": "Gre/填空/指代重复.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "软件工程.md"
+                "file": "Gre/填空/指代重复.md"
               }
             }
           },
@@ -181,6 +181,27 @@
   },
   "active": "7b19cf9e43794829",
   "lastOpenFiles": [
+    "软件工程.md",
+    "Gre/填空/指代重复.md",
+    "Gre/填空/GRE填空题.md",
+    "Gre/阅读/GRE阅读正确率.md",
+    "Gre/阅读/GRE阅读题型.md",
+    "Gre/阅读/GRE阅读刷题笔记.md",
+    "Gre/阅读/主旨题.md",
+    "Gre/阅读/长文章.md",
+    "Gre/阅读/信息目的题.md",
+    "Gre/阅读/推断题.md",
+    "Gre/阅读/态度题.md",
+    "Gre/阅读/事实信息题.md",
+    "Gre/阅读/逻辑单题.md",
+    "Gre/阅读/类比题.md",
+    "Gre/阅读/可多选题.md",
+    "Gre/阅读/句子作用题.md",
+    "Gre/阅读/否定事实信息题.md",
+    "Gre/阅读/错误选项特征.md",
+    "Gre/阅读/词汇题.md",
+    "Gre/阅读",
+    "Gre/填空",
     "Gre/推断题.md",
     "Gre/GRE阅读题型.md",
     "Gre/GRE阅读刷题笔记.md",
@@ -192,25 +213,7 @@
     "Daily/2023-09-06.md",
     "Gre/GRE阅读正确率.md",
     "attachment/截屏2023-09-06 13.33.24.png",
-    "Daily/2023-09-05.md",
-    "Gre/词汇题.md",
-    "Gre/事实信息题.md",
-    "Gre/态度题.md",
-    "Gre/信息目的题.md",
-    "Gre/类比题.md",
-    "操作系统.md",
-    "Gre/句子作用题.md",
-    "Gre/否定事实信息题.md",
-    "Gre/主旨题.md",
-    "Gre/错误选项特征.md",
-    "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/区间和达标的子数组数量.md",
-    "算法笔记/zuoAlgorithm/001. 难点重点照顾/_需要手动改写有序表的题目.md",
-    "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/04 归并排序.md",
-    "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/求数组中的大两倍数对数量.md",
     "attachment/截屏2023-09-04 22.33.53.png",
-    "算法笔记/zuoAlgorithm/003. 编程基础技巧及工具/求数组中的逆序对数量.md",
-    "算法笔记/zuoAlgorithm/010. 代码模板/归并排序代码.md",
-    "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/求数组小和.md",
     "attachment/截屏2023-09-04 15.08.39.png",
     "attachment/截屏2023-09-04 13.26.21.png",
     "attachment/截屏2023-09-03 23.14.16.png",
@@ -226,8 +229,6 @@
     "Obidian使用教程/6. Obsidian插件（上）.pdf",
     "Obidian使用教程/8. 搜索的技巧.pdf",
     "Obidian使用教程/7. Obsidian插件（下）.pdf",
-    "Obidian使用教程/2. 使用Obsidian.pdf",
-    "Obidian使用教程/1. Obsidian简介.pdf",
     "未命名 3.canvas",
     "未命名 2.canvas"
   ]
