@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "GRE阅读正确率",
-      "path": "Gre/阅读/GRE阅读正确率.md"
+      "basename": "主旨题",
+      "path": "Gre/阅读/主旨题.md"
     },
     {
       "basename": "GRE阅读题型",
       "path": "Gre/阅读/GRE阅读题型.md"
     },
     {
-      "basename": "主旨题",
-      "path": "Gre/阅读/主旨题.md"
+      "basename": "态度题",
+      "path": "Gre/阅读/态度题.md"
+    },
+    {
+      "basename": "GRE阅读正确率",
+      "path": "Gre/阅读/GRE阅读正确率.md"
+    },
+    {
+      "basename": "句子作用题",
+      "path": "Gre/阅读/句子作用题.md"
     },
     {
       "basename": "推断题",
@@ -27,10 +35,6 @@
     {
       "basename": "词汇题",
       "path": "Gre/阅读/词汇题.md"
-    },
-    {
-      "basename": "态度题",
-      "path": "Gre/阅读/态度题.md"
     },
     {
       "basename": "05 归并改写解决的面试题(续)、快速排序",
