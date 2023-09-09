@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gre/阅读/推断题.md",
+                "file": "Daily/2023-09-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gre/阅读/推断题.md",
+                "file": "Daily/2023-09-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gre/阅读/推断题.md",
+                "file": "Daily/2023-09-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gre/阅读/推断题.md"
+                "file": "Daily/2023-09-08.md"
               }
             }
           },
@@ -161,8 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5,
-    "collapsed": true
+    "width": 239.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,10 +180,12 @@
   },
   "active": "7b19cf9e43794829",
   "lastOpenFiles": [
+    "Daily/2023-09-07.md",
+    "Daily/2023-09-08.md",
+    "Gre/阅读/推断题.md",
     "Gre/阅读/GRE阅读题型.md",
     "Gre/阅读/态度题.md",
     "Gre/阅读/GRE阅读正确率.md",
-    "Daily/2023-09-07.md",
     "Gre/阅读/否定事实信息题.md",
     "Gre/阅读/信息目的题.md",
     "Gre/阅读/GRE阅读刷题笔记.md",
@@ -192,7 +193,6 @@
     "Gre/填空/GRE填空题.md",
     "Gre/阅读/主旨题.md",
     "Gre/阅读/句子作用题.md",
-    "Gre/阅读/推断题.md",
     "Gre/阅读/事实信息题.md",
     "Gre/阅读/词汇题.md",
     "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/05 归并改写解决的面试题(续)、快速排序.md",
@@ -211,7 +211,6 @@
     "Gre/填空",
     "Gre/推断题.md",
     "Gre/GRE阅读题型.md",
-    "Gre/GRE阅读刷题笔记.md",
     "attachment/截屏2023-08-18 15.33.30.png",
     "attachment/截屏2023-08-19 16.35.51.png",
     "attachment/截屏2023-08-26 11.38.52.png",
