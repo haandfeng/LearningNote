@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023-09-08.md",
+                "file": "Gre/阅读/句子作用题.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-09-08.md",
+                "file": "Gre/阅读/句子作用题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-09-08.md",
+                "file": "Gre/阅读/句子作用题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-09-08.md"
+                "file": "Gre/阅读/句子作用题.md"
               }
             }
           },
@@ -161,8 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5,
-    "collapsed": true
+    "width": 239.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,10 +180,12 @@
   },
   "active": "7b19cf9e43794829",
   "lastOpenFiles": [
-    "Daily/2023-09-07.md",
-    "Daily/2023-09-08.md",
-    "Gre/阅读/推断题.md",
     "Gre/阅读/GRE阅读题型.md",
+    "Daily/2023-09-10.md",
+    "Daily/2023-09-09.md",
+    "Daily/2023-09-08.md",
+    "Daily/2023-09-07.md",
+    "Gre/阅读/推断题.md",
     "Gre/阅读/态度题.md",
     "Gre/阅读/GRE阅读正确率.md",
     "Gre/阅读/否定事实信息题.md",
@@ -210,8 +211,6 @@
     "Gre/阅读/错误选项特征.md",
     "Gre/阅读",
     "Gre/填空",
-    "Gre/推断题.md",
-    "Gre/GRE阅读题型.md",
     "attachment/截屏2023-08-18 15.33.30.png",
     "attachment/截屏2023-08-19 16.35.51.png",
     "attachment/截屏2023-08-26 11.38.52.png",
