@@ -1,24 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "句子作用题",
-      "path": "Gre/阅读/句子作用题.md"
-    },
-    {
-      "basename": "GRE阅读题型",
-      "path": "Gre/阅读/GRE阅读题型.md"
+      "basename": "2023-09-11",
+      "path": "Daily/2023-09-11.md"
     },
     {
       "basename": "2023-09-10",
       "path": "Daily/2023-09-10.md"
     },
     {
+      "basename": "2023-09-08",
+      "path": "Daily/2023-09-08.md"
+    },
+    {
       "basename": "2023-09-09",
       "path": "Daily/2023-09-09.md"
     },
     {
-      "basename": "2023-09-08",
-      "path": "Daily/2023-09-08.md"
+      "basename": "GRE阅读正确率",
+      "path": "Gre/阅读/GRE阅读正确率.md"
+    },
+    {
+      "basename": "GRE阅读刷题笔记",
+      "path": "Gre/阅读/GRE阅读刷题笔记.md"
+    },
+    {
+      "basename": "GRE阅读题型",
+      "path": "Gre/阅读/GRE阅读题型.md"
+    },
+    {
+      "basename": "逻辑单题",
+      "path": "Gre/阅读/逻辑单题.md"
+    },
+    {
+      "basename": "句子作用题",
+      "path": "Gre/阅读/句子作用题.md"
     },
     {
       "basename": "2023-09-07",
@@ -33,20 +49,12 @@
       "path": "Gre/阅读/态度题.md"
     },
     {
-      "basename": "GRE阅读正确率",
-      "path": "Gre/阅读/GRE阅读正确率.md"
-    },
-    {
       "basename": "否定事实信息题",
       "path": "Gre/阅读/否定事实信息题.md"
     },
     {
       "basename": "信息目的题",
       "path": "Gre/阅读/信息目的题.md"
-    },
-    {
-      "basename": "GRE阅读刷题笔记",
-      "path": "Gre/阅读/GRE阅读刷题笔记.md"
     },
     {
       "basename": "2023-09-06",
@@ -191,14 +199,6 @@
     {
       "basename": "数组实现栈和队列",
       "path": "算法笔记/zuoAlgorithm/010. 代码模板/数组实现栈和队列.md"
-    },
-    {
-      "basename": "双向链表实现栈和队列",
-      "path": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/双向链表实现栈和队列.md"
-    },
-    {
-      "basename": "把链表中的给定值都删除",
-      "path": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/把链表中的给定值都删除.md"
     }
   ],
   "omittedPaths": [],
