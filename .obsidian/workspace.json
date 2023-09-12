@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023-09-12.md",
+                "file": "Daily/2023-09-10.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-09-12.md",
+                "file": "Daily/2023-09-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-09-12.md",
+                "file": "Daily/2023-09-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-09-12.md"
+                "file": "Daily/2023-09-10.md"
               }
             }
           },
@@ -178,7 +178,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "9a3959852e4ee472",
+  "active": "ab3df9bd0138c1ec",
   "lastOpenFiles": [
     "Daily/2023-09-11.md",
     "Daily/2023-09-12.md",
