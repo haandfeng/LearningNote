@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-09-14",
+      "path": "Daily/2023-09-14.md"
+    },
+    {
+      "basename": "2023-09-12",
+      "path": "Daily/2023-09-12.md"
+    },
+    {
       "basename": "李沐AI",
       "path": "李沐AI.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "2023-09-11",
       "path": "Daily/2023-09-11.md"
-    },
-    {
-      "basename": "2023-09-12",
-      "path": "Daily/2023-09-12.md"
     },
     {
       "basename": "2023-09-08",
@@ -195,10 +199,6 @@
     {
       "basename": "实现最小栈",
       "path": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/实现最小栈.md"
-    },
-    {
-      "basename": "02 链表结构、栈、队列、递归行为、哈希表和有序表",
-      "path": "算法笔记/zuoAlgorithm/100. 算法课程/10. 基础课/02 链表结构、栈、队列、递归行为、哈希表和有序表.md"
     }
   ],
   "omittedPaths": [],

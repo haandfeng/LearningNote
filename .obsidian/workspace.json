@@ -4,29 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b2daab16c5191faf",
+        "id": "5fcc583ccb260e0f",
         "type": "tabs",
         "children": [
           {
-            "id": "7b28f8592df126ed",
+            "id": "484c73cab0c19ce5",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "a2a830def98708cb",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.12"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,7 +149,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -181,8 +170,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "a2a830def98708cb",
+  "active": "484c73cab0c19ce5",
   "lastOpenFiles": [
+    "Daily/2023-09-14.md",
+    "Daily/2023-09-12.md",
     "Users/ha/Library/Containers/com.tencent.xinWeChat/Data/Library/Application.md",
     "李沐AI.md",
     "Users/ha/Library/Containers/com.tencent.xinWeChat/Data/Library",
@@ -191,7 +182,6 @@
     "Users/ha/Library/Containers",
     "Daily/2023-09-10.md",
     "Daily/2023-09-11.md",
-    "Daily/2023-09-12.md",
     "Daily/2023-09-08.md",
     "Daily/2023-09-09.md",
     "Gre/阅读/GRE阅读正确率.md",
@@ -215,7 +205,6 @@
     "Users/ha/Library",
     "Users/ha",
     "Users",
-    "软件工程.md",
     "Gre/阅读",
     "Gre/填空",
     "attachment/截屏2023-08-18 15.33.30.png",
