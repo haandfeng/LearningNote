@@ -11,15 +11,22 @@
             "id": "7b28f8592df126ed",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a2a830def98708cb",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
               "state": {
-                "file": "李沐AI.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.4.12"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "李沐AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "李沐AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "李沐AI.md"
-              }
+              "state": {}
             }
           },
           {
@@ -178,7 +181,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "ab3df9bd0138c1ec",
+  "active": "a2a830def98708cb",
   "lastOpenFiles": [
     "Users/ha/Library/Containers/com.tencent.xinWeChat/Data/Library/Application.md",
     "李沐AI.md",
