@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "类比题",
+      "path": "Gre/阅读/类比题.md"
+    },
+    {
       "basename": "逻辑单题",
       "path": "Gre/阅读/逻辑单题.md"
+    },
+    {
+      "basename": "推断题",
+      "path": "Gre/阅读/推断题.md"
+    },
+    {
+      "basename": "信息目的题",
+      "path": "Gre/阅读/信息目的题.md"
+    },
+    {
+      "basename": "长文章",
+      "path": "Gre/阅读/长文章.md"
+    },
+    {
+      "basename": "主旨题",
+      "path": "Gre/阅读/主旨题.md"
     },
     {
       "basename": "2023-09-14",
@@ -57,10 +77,6 @@
       "path": "Daily/2023-09-07.md"
     },
     {
-      "basename": "推断题",
-      "path": "Gre/阅读/推断题.md"
-    },
-    {
       "basename": "态度题",
       "path": "Gre/阅读/态度题.md"
     },
@@ -69,20 +85,12 @@
       "path": "Gre/阅读/否定事实信息题.md"
     },
     {
-      "basename": "信息目的题",
-      "path": "Gre/阅读/信息目的题.md"
-    },
-    {
       "basename": "2023-09-06",
       "path": "Daily/2023-09-06.md"
     },
     {
       "basename": "GRE填空题",
       "path": "Gre/填空/GRE填空题.md"
-    },
-    {
-      "basename": "主旨题",
-      "path": "Gre/阅读/主旨题.md"
     },
     {
       "basename": "事实信息题",
@@ -191,14 +199,6 @@
     {
       "basename": "如何用栈结构实现队列结构",
       "path": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/如何用栈结构实现队列结构.md"
-    },
-    {
-      "basename": "01 认识复杂度、对数器、二分法",
-      "path": "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/01 认识复杂度、对数器、二分法.md"
-    },
-    {
-      "basename": "实现最小栈",
-      "path": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/实现最小栈.md"
     }
   ],
   "omittedPaths": [],
