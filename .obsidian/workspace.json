@@ -11,8 +11,12 @@
             "id": "8e0c381976a55cc4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Gre/阅读/逻辑单题.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Gre/阅读/逻辑单题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Gre/阅读/逻辑单题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Gre/阅读/逻辑单题.md"
+              }
             }
           },
           {
@@ -172,6 +180,7 @@
   },
   "active": "8e0c381976a55cc4",
   "lastOpenFiles": [
+    "Gre/阅读/句子作用题.md",
     "Gre/阅读/错误选项特征.md",
     "Gre/阅读/类比题.md",
     "Gre/阅读/逻辑单题.md",
@@ -194,7 +203,6 @@
     "Gre/阅读/GRE阅读正确率.md",
     "Gre/阅读/GRE阅读刷题笔记.md",
     "Gre/阅读/GRE阅读题型.md",
-    "Gre/阅读/句子作用题.md",
     "Daily/2023-09-07.md",
     "Gre/阅读/态度题.md",
     "Gre/阅读/否定事实信息题.md",
