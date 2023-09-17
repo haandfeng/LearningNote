@@ -5,6 +5,26 @@
       "path": "Gre/阅读/逻辑单题.md"
     },
     {
+      "basename": "GRE阅读题型",
+      "path": "Gre/阅读/GRE阅读题型.md"
+    },
+    {
+      "basename": "信息目的题",
+      "path": "Gre/阅读/信息目的题.md"
+    },
+    {
+      "basename": "GRE阅读刷题笔记",
+      "path": "Gre/阅读/GRE阅读刷题笔记.md"
+    },
+    {
+      "basename": "2023-09-14",
+      "path": "Daily/2023-09-14.md"
+    },
+    {
+      "basename": "2023-09-16",
+      "path": "Daily/2023-09-16.md"
+    },
+    {
       "basename": "句子作用题",
       "path": "Gre/阅读/句子作用题.md"
     },
@@ -21,20 +41,12 @@
       "path": "Gre/阅读/推断题.md"
     },
     {
-      "basename": "信息目的题",
-      "path": "Gre/阅读/信息目的题.md"
-    },
-    {
       "basename": "长文章",
       "path": "Gre/阅读/长文章.md"
     },
     {
       "basename": "主旨题",
       "path": "Gre/阅读/主旨题.md"
-    },
-    {
-      "basename": "2023-09-14",
-      "path": "Daily/2023-09-14.md"
     },
     {
       "basename": "2023-09-12",
@@ -67,14 +79,6 @@
     {
       "basename": "GRE阅读正确率",
       "path": "Gre/阅读/GRE阅读正确率.md"
-    },
-    {
-      "basename": "GRE阅读刷题笔记",
-      "path": "Gre/阅读/GRE阅读刷题笔记.md"
-    },
-    {
-      "basename": "GRE阅读题型",
-      "path": "Gre/阅读/GRE阅读题型.md"
     },
     {
       "basename": "2023-09-07",
@@ -195,10 +199,6 @@
     {
       "basename": "用递归方法求数组中的最大值",
       "path": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/用递归方法求数组中的最大值.md"
-    },
-    {
-      "basename": "如何用队列结构实现栈结构",
-      "path": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/如何用队列结构实现栈结构.md"
     }
   ],
   "omittedPaths": [],
