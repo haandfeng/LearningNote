@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "错误选项特征",
+      "path": "Gre/阅读/错误选项特征.md"
+    },
+    {
       "basename": "类比题",
       "path": "Gre/阅读/类比题.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "如何用队列结构实现栈结构",
       "path": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/如何用队列结构实现栈结构.md"
-    },
-    {
-      "basename": "如何用栈结构实现队列结构",
-      "path": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/如何用栈结构实现队列结构.md"
     }
   ],
   "omittedPaths": [],

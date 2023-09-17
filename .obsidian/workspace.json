@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5fcc583ccb260e0f",
+        "id": "d70c556aa2a89ade",
         "type": "tabs",
         "children": [
           {
-            "id": "484c73cab0c19ce5",
+            "id": "8e0c381976a55cc4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gre/阅读/类比题.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gre/阅读/类比题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gre/阅读/类比题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Gre/阅读/类比题.md"
-              }
+              "state": {}
             }
           },
           {
@@ -178,8 +170,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "484c73cab0c19ce5",
+  "active": "8e0c381976a55cc4",
   "lastOpenFiles": [
+    "Gre/阅读/错误选项特征.md",
+    "Gre/阅读/类比题.md",
     "Gre/阅读/逻辑单题.md",
     "Gre/阅读/推断题.md",
     "Gre/阅读/信息目的题.md",
@@ -208,8 +202,6 @@
     "Gre/填空/GRE填空题.md",
     "Gre/阅读/事实信息题.md",
     "Gre/阅读/词汇题.md",
-    "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/05 归并改写解决的面试题(续)、快速排序.md",
-    "Gre/填空/指代重复.md",
     "Users/ha/Library",
     "Users/ha",
     "Users",
