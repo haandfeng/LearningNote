@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名",
+      "path": "未命名.canvas"
+    },
+    {
+      "basename": "2023-09-19",
+      "path": "Daily/2023-09-19.md"
+    },
+    {
+      "basename": "2023-09-16",
+      "path": "Daily/2023-09-16.md"
+    },
+    {
       "basename": "逻辑单题",
       "path": "Gre/阅读/逻辑单题.md"
     },
@@ -19,10 +31,6 @@
     {
       "basename": "2023-09-14",
       "path": "Daily/2023-09-14.md"
-    },
-    {
-      "basename": "2023-09-16",
-      "path": "Daily/2023-09-16.md"
     },
     {
       "basename": "句子作用题",
@@ -191,14 +199,6 @@
     {
       "basename": "java基础",
       "path": "pdf/java基础.pdf"
-    },
-    {
-      "basename": "02 异或运算和几个经典题目解析",
-      "path": "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/02 异或运算和几个经典题目解析.md"
-    },
-    {
-      "basename": "用递归方法求数组中的最大值",
-      "path": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/用递归方法求数组中的最大值.md"
     }
   ],
   "omittedPaths": [],

@@ -4,33 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d70c556aa2a89ade",
+        "id": "cfed1740f2134c26",
         "type": "tabs",
         "children": [
           {
-            "id": "8e0c381976a55cc4",
+            "id": "533a25f75c73c535",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gre/阅读/逻辑单题.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2fc66efe6705c2d9",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.13"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5a22bf979ae2ada9",
@@ -104,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gre/阅读/逻辑单题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gre/阅读/逻辑单题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Gre/阅读/逻辑单题.md"
-              }
+              "state": {}
             }
           },
           {
@@ -189,15 +171,17 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "2fc66efe6705c2d9",
+  "active": "533a25f75c73c535",
   "lastOpenFiles": [
+    "未命名.canvas",
+    "Daily/2023-09-19.md",
+    "Daily/2023-09-16.md",
+    "Gre/阅读/逻辑单题.md",
     "Gre/阅读/GRE阅读题型.md",
     "Gre/阅读/信息目的题.md",
     "Gre/阅读/GRE阅读刷题笔记.md",
     "Daily/2023-09-14.md",
-    "Daily/2023-09-16.md",
     "Gre/阅读/句子作用题.md",
-    "Gre/阅读/逻辑单题.md",
     "Gre/阅读/错误选项特征.md",
     "Gre/阅读/类比题.md",
     "Gre/阅读/推断题.md",
@@ -219,8 +203,6 @@
     "Gre/阅读/态度题.md",
     "Gre/阅读/否定事实信息题.md",
     "Daily/2023-09-06.md",
-    "Gre/填空/GRE填空题.md",
-    "Gre/阅读/事实信息题.md",
     "Users/ha/Library",
     "Users/ha",
     "Users",
@@ -237,7 +219,6 @@
     "attachment/截屏2023-09-03 23.12.38.png",
     "attachment/截屏2023-09-03 23.11.48.png",
     "未命名",
-    "未命名.canvas",
     "未命名 1.canvas",
     "未命名 3.canvas",
     "未命名 2.canvas"
