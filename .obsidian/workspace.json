@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2fc66efe6705c2d9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,7 +189,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "8e0c381976a55cc4",
+  "active": "2fc66efe6705c2d9",
   "lastOpenFiles": [
     "Gre/阅读/GRE阅读题型.md",
     "Gre/阅读/信息目的题.md",
