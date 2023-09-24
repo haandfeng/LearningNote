@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gre/阅读/逻辑单题.md",
+                "file": "Gre/阅读/信息目的题.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5a22bf979ae2ada9",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gre/阅读/逻辑单题.md",
+                "file": "Gre/阅读/信息目的题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gre/阅读/逻辑单题.md",
+                "file": "Gre/阅读/信息目的题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gre/阅读/逻辑单题.md"
+                "file": "Gre/阅读/信息目的题.md"
               }
             }
           },
@@ -181,13 +180,17 @@
   },
   "active": "533a25f75c73c535",
   "lastOpenFiles": [
-    "Gre/阅读/GRE阅读题型.md",
-    "Gre/阅读/推断题.md",
-    "Gre/阅读/句子作用题.md",
     "Gre/阅读/态度题.md",
+    "Gre/阅读/推断题.md",
+    "Gre/阅读/长文章.md",
+    "Gre/阅读/信息目的题.md",
+    "Gre/阅读/GRE阅读正确率.md",
+    "Gre/阅读/GRE阅读题型.md",
+    "Gre/阅读/GRE阅读刷题笔记.md",
+    "Gre/阅读/逻辑单题.md",
+    "Gre/阅读/句子作用题.md",
     "Gre/阅读/词汇题.md",
     "Gre/阅读/类比题.md",
-    "Gre/阅读/GRE阅读刷题笔记.md",
     "Gre/填空/指代重复.md",
     "Gre/阅读/否定事实信息题.md",
     "Gre/阅读/主旨题.md",
@@ -195,10 +198,7 @@
     "未命名.canvas",
     "Daily/2023-09-19.md",
     "Daily/2023-09-16.md",
-    "Gre/阅读/逻辑单题.md",
-    "Gre/阅读/信息目的题.md",
     "Daily/2023-09-14.md",
-    "Gre/阅读/长文章.md",
     "Daily/2023-09-12.md",
     "Users/ha/Library/Containers/com.tencent.xinWeChat/Data/Library/Application.md",
     "李沐AI.md",
@@ -210,7 +210,6 @@
     "Daily/2023-09-11.md",
     "Daily/2023-09-08.md",
     "Daily/2023-09-09.md",
-    "Gre/阅读/GRE阅读正确率.md",
     "Daily/2023-09-07.md",
     "Users/ha/Library",
     "Users/ha",

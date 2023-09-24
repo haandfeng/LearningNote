@@ -1,24 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "逻辑单题",
-      "path": "Gre/阅读/逻辑单题.md"
+      "basename": "信息目的题",
+      "path": "Gre/阅读/信息目的题.md"
     },
     {
-      "basename": "GRE阅读题型",
-      "path": "Gre/阅读/GRE阅读题型.md"
+      "basename": "态度题",
+      "path": "Gre/阅读/态度题.md"
     },
     {
       "basename": "推断题",
       "path": "Gre/阅读/推断题.md"
     },
     {
-      "basename": "句子作用题",
-      "path": "Gre/阅读/句子作用题.md"
+      "basename": "长文章",
+      "path": "Gre/阅读/长文章.md"
     },
     {
-      "basename": "态度题",
-      "path": "Gre/阅读/态度题.md"
+      "basename": "GRE阅读正确率",
+      "path": "Gre/阅读/GRE阅读正确率.md"
+    },
+    {
+      "basename": "GRE阅读题型",
+      "path": "Gre/阅读/GRE阅读题型.md"
+    },
+    {
+      "basename": "GRE阅读刷题笔记",
+      "path": "Gre/阅读/GRE阅读刷题笔记.md"
+    },
+    {
+      "basename": "逻辑单题",
+      "path": "Gre/阅读/逻辑单题.md"
+    },
+    {
+      "basename": "句子作用题",
+      "path": "Gre/阅读/句子作用题.md"
     },
     {
       "basename": "词汇题",
@@ -27,10 +43,6 @@
     {
       "basename": "类比题",
       "path": "Gre/阅读/类比题.md"
-    },
-    {
-      "basename": "GRE阅读刷题笔记",
-      "path": "Gre/阅读/GRE阅读刷题笔记.md"
     },
     {
       "basename": "指代重复",
@@ -61,16 +73,8 @@
       "path": "Daily/2023-09-16.md"
     },
     {
-      "basename": "信息目的题",
-      "path": "Gre/阅读/信息目的题.md"
-    },
-    {
       "basename": "2023-09-14",
       "path": "Daily/2023-09-14.md"
-    },
-    {
-      "basename": "长文章",
-      "path": "Gre/阅读/长文章.md"
     },
     {
       "basename": "2023-09-12",
@@ -99,10 +103,6 @@
     {
       "basename": "2023-09-09",
       "path": "Daily/2023-09-09.md"
-    },
-    {
-      "basename": "GRE阅读正确率",
-      "path": "Gre/阅读/GRE阅读正确率.md"
     },
     {
       "basename": "2023-09-07",
