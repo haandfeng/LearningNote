@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0f13f5ee6e10c763",
+        "id": "cfce425877882d34",
         "type": "tabs",
         "children": [
           {
-            "id": "fa40bc866018c972",
+            "id": "e586cdaee6848c80",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5a22bf979ae2ada9",
@@ -179,8 +178,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "fa40bc866018c972",
+  "active": "e586cdaee6848c80",
   "lastOpenFiles": [
+    "Linux.md",
+    "attachment/截屏2023-10-01 22.05.33.png",
+    "attachment/截屏2023-10-01 22.02.24.png",
     "attachment/截屏2023-10-01 21.50.27.png",
     "attachment/截屏2023-10-01 21.49.06.png",
     "attachment/截屏2023-10-01 21.48.32.png",
@@ -189,10 +191,6 @@
     "attachment/截屏2023-10-01 21.36.52.png",
     "attachment/截屏2023-10-01 21.36.30.png",
     "attachment/截屏2023-10-01 21.35.31.png",
-    "attachment/截屏2023-10-01 21.34.52.png",
-    "attachment/截屏2023-10-01 21.34.25.png",
-    "attachment/截屏2023-10-01 21.30.07.png",
-    "Linux.md",
     "软件工程.md",
     "Gre/阅读/句子作用题.md",
     "操作系统.md",
