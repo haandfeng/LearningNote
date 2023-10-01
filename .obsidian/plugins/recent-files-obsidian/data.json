@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Linux",
+      "path": "Linux.md"
+    },
+    {
+      "basename": "软件工程",
+      "path": "软件工程.md"
+    },
+    {
       "basename": "句子作用题",
       "path": "Gre/阅读/句子作用题.md"
+    },
+    {
+      "basename": "操作系统",
+      "path": "操作系统.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "逻辑单题",
@@ -59,10 +75,6 @@
     {
       "basename": "错误选项特征",
       "path": "Gre/阅读/错误选项特征.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "未命名.canvas"
     },
     {
       "basename": "2023-09-19",
@@ -129,10 +141,6 @@
       "path": "Users/ha/Library/Application.md"
     },
     {
-      "basename": "软件工程",
-      "path": "软件工程.md"
-    },
-    {
       "basename": "截屏2023-08-18 15.33.30",
       "path": "attachment/截屏2023-08-18 15.33.30.png"
     },
@@ -147,10 +155,6 @@
     {
       "basename": "2023-09-05",
       "path": "Daily/2023-09-05.md"
-    },
-    {
-      "basename": "操作系统",
-      "path": "操作系统.md"
     },
     {
       "basename": "区间和达标的子数组数量",
@@ -195,10 +199,6 @@
     {
       "basename": "__算法数据结构体系学习班题目汇总",
       "path": "算法笔记/zuoAlgorithm/000. 学习大纲/__算法数据结构体系学习班题目汇总.md"
-    },
-    {
-      "basename": "java基础",
-      "path": "pdf/java基础.pdf"
     }
   ],
   "omittedPaths": [],
