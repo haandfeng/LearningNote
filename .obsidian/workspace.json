@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5a22bf979ae2ada9",
@@ -180,17 +181,18 @@
   },
   "active": "e586cdaee6848c80",
   "lastOpenFiles": [
+    "attachment/截屏2023-10-02 17.04.33.png",
+    "attachment/截屏2023-10-02 17.02.54.png",
+    "attachment/截屏2023-10-02 16.59.21.png",
+    "attachment/截屏2023-10-02 16.56.34.png",
+    "attachment/截屏2023-10-02 16.55.49.png",
+    "attachment/截屏2023-10-02 16.51.54.png",
+    "attachment/截屏2023-10-02 16.50.26.png",
     "Linux.md",
     "attachment/截屏2023-10-01 22.05.33.png",
     "attachment/截屏2023-10-01 22.02.24.png",
     "attachment/截屏2023-10-01 21.50.27.png",
     "attachment/截屏2023-10-01 21.49.06.png",
-    "attachment/截屏2023-10-01 21.48.32.png",
-    "attachment/截屏2023-10-01 21.47.14.png",
-    "attachment/截屏2023-10-01 21.37.22.png",
-    "attachment/截屏2023-10-01 21.36.52.png",
-    "attachment/截屏2023-10-01 21.36.30.png",
-    "attachment/截屏2023-10-01 21.35.31.png",
     "软件工程.md",
     "Gre/阅读/句子作用题.md",
     "操作系统.md",
