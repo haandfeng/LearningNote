@@ -5,6 +5,22 @@
       "path": "Linux.md"
     },
     {
+      "basename": "截屏2023-10-03 21.55.25",
+      "path": "attachment/截屏2023-10-03 21.55.25.png"
+    },
+    {
+      "basename": "截屏2023-10-03 21.56.25",
+      "path": "attachment/截屏2023-10-03 21.56.25.png"
+    },
+    {
+      "basename": "截屏2023-10-03 21.57.22",
+      "path": "attachment/截屏2023-10-03 21.57.22.png"
+    },
+    {
+      "basename": "截屏2023-10-04 11.59.12",
+      "path": "attachment/截屏2023-10-04 11.59.12.png"
+    },
+    {
       "basename": "软件工程",
       "path": "软件工程.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "求数组小和",
       "path": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/求数组小和.md"
-    },
-    {
-      "basename": "求数组小和代码",
-      "path": "算法笔记/zuoAlgorithm/010. 代码模板/求数组小和代码.md"
-    },
-    {
-      "basename": "03 链表结构、栈、队列、递归行为、哈希表和有序表",
-      "path": "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/03 链表结构、栈、队列、递归行为、哈希表和有序表.md"
-    },
-    {
-      "basename": "Waterfall Streams",
-      "path": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/Waterfall Streams.md"
-    },
-    {
-      "basename": "__算法数据结构体系学习班题目汇总",
-      "path": "算法笔记/zuoAlgorithm/000. 学习大纲/__算法数据结构体系学习班题目汇总.md"
     }
   ],
   "omittedPaths": [],
