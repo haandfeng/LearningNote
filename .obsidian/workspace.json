@@ -11,11 +11,9 @@
             "id": "e586cdaee6848c80",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Linux.md",
-                "mode": "source",
-                "source": false
+                "file": "attachment/Pasted image 20231004120251.png"
               }
             }
           }
@@ -77,8 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5a22bf979ae2ada9",
@@ -94,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux.md",
+                "file": "attachment/Pasted image 20231004120251.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux.md",
+                "file": "attachment/Pasted image 20231004120251.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux.md"
+                "file": "attachment/Pasted image 20231004120251.png"
               }
             }
           },
@@ -181,6 +178,8 @@
   },
   "active": "e586cdaee6848c80",
   "lastOpenFiles": [
+    "Linux.md",
+    "attachment/截屏2023-10-04 15.14.28.png",
     "attachment/截屏2023-10-04 15.07.04.png",
     "attachment/截屏2023-10-04 15.06.47.png",
     "attachment/截屏2023-10-04 15.04.16.png",
@@ -190,9 +189,6 @@
     "attachment/截屏2023-10-03 21.55.25.png",
     "attachment/截屏2023-10-03 21.56.25.png",
     "attachment/截屏2023-10-03 21.57.22.png",
-    "attachment/截屏2023-10-04 11.59.12.png",
-    "attachment/截屏2023-10-04 11.58.58.png",
-    "Linux.md",
     "软件工程.md",
     "Gre/阅读/句子作用题.md",
     "操作系统.md",

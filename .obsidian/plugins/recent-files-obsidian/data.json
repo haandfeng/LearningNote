@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Pasted image 20231004120251",
+      "path": "attachment/Pasted image 20231004120251.png"
+    },
+    {
       "basename": "Linux",
       "path": "Linux.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "归并排序代码",
       "path": "算法笔记/zuoAlgorithm/010. 代码模板/归并排序代码.md"
-    },
-    {
-      "basename": "求数组小和",
-      "path": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/求数组小和.md"
     }
   ],
   "omittedPaths": [],
