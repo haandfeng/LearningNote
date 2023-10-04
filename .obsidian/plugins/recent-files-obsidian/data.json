@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Pasted image 20231004120251",
-      "path": "attachment/Pasted image 20231004120251.png"
-    },
-    {
       "basename": "Linux",
       "path": "Linux.md"
+    },
+    {
+      "basename": "截屏2023-10-04 15.14.28",
+      "path": "attachment/截屏2023-10-04 15.14.28.png"
+    },
+    {
+      "basename": "Pasted image 20231004120251",
+      "path": "attachment/Pasted image 20231004120251.png"
     },
     {
       "basename": "截屏2023-10-03 21.55.25",
@@ -195,10 +199,6 @@
     {
       "basename": "求数组中的逆序对数量",
       "path": "算法笔记/zuoAlgorithm/003. 编程基础技巧及工具/求数组中的逆序对数量.md"
-    },
-    {
-      "basename": "归并排序代码",
-      "path": "算法笔记/zuoAlgorithm/010. 代码模板/归并排序代码.md"
     }
   ],
   "omittedPaths": [],

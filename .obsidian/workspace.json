@@ -11,9 +11,11 @@
             "id": "e586cdaee6848c80",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "attachment/Pasted image 20231004120251.png"
+                "file": "Linux.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -75,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5a22bf979ae2ada9",
@@ -91,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "attachment/Pasted image 20231004120251.png",
+                "file": "Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "attachment/Pasted image 20231004120251.png",
+                "file": "Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "attachment/Pasted image 20231004120251.png"
+                "file": "Linux.md"
               }
             }
           },
@@ -178,17 +181,18 @@
   },
   "active": "e586cdaee6848c80",
   "lastOpenFiles": [
-    "Linux.md",
+    "attachment/截屏2023-10-04 15.36.10.png",
+    "attachment/截屏2023-10-04 15.27.08.png",
+    "attachment/截屏2023-10-04 15.25.14.png",
+    "attachment/截屏2023-10-04 15.25.03.png",
+    "attachment/截屏2023-10-04 15.24.09.png",
     "attachment/截屏2023-10-04 15.14.28.png",
+    "attachment/Pasted image 20231004120251.png",
+    "Linux.md",
     "attachment/截屏2023-10-04 15.07.04.png",
     "attachment/截屏2023-10-04 15.06.47.png",
     "attachment/截屏2023-10-04 15.04.16.png",
     "attachment/截屏2023-10-04 14.55.14.png",
-    "attachment/截屏2023-10-04 12.04.40.png",
-    "attachment/Pasted image 20231004120251.png",
-    "attachment/截屏2023-10-03 21.55.25.png",
-    "attachment/截屏2023-10-03 21.56.25.png",
-    "attachment/截屏2023-10-03 21.57.22.png",
     "软件工程.md",
     "Gre/阅读/句子作用题.md",
     "操作系统.md",
