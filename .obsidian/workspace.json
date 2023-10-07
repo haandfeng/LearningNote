@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux.md",
+                "file": "JavaWEB.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux.md",
+                "file": "JavaWEB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux.md",
+                "file": "JavaWEB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux.md"
+                "file": "JavaWEB.md"
               }
             }
           },
@@ -181,6 +181,8 @@
   },
   "active": "e586cdaee6848c80",
   "lastOpenFiles": [
+    "Linux.md",
+    "JavaWEB.md",
     "attachment/截屏2023-10-04 16.50.15.png",
     "attachment/截屏2023-10-04 16.49.22.png",
     "attachment/截屏2023-10-04 16.47.44.png",
@@ -191,8 +193,6 @@
     "attachment/截屏2023-10-04 16.33.04.png",
     "attachment/截屏2023-10-04 16.30.04.png",
     "attachment/截屏2023-10-04 16.23.28.png",
-    "attachment/截屏2023-10-04 16.21.47.png",
-    "Linux.md",
     "软件工程.md",
     "Gre/阅读/句子作用题.md",
     "操作系统.md",
