@@ -157,12 +157,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 239.5,
-    "collapsed": true
+    "width": 239.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,7 +178,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "e586cdaee6848c80",
+  "active": "8e0842b46de0cea8",
   "lastOpenFiles": [
     "Linux.md",
     "JavaWEB.md",
