@@ -5,24 +5,8 @@
       "path": "Gre/阅读/主旨题.md"
     },
     {
-      "basename": "GRE阅读题型",
-      "path": "Gre/阅读/GRE阅读题型.md"
-    },
-    {
-      "basename": "GRE阅读正确率",
-      "path": "Gre/阅读/GRE阅读正确率.md"
-    },
-    {
-      "basename": "GRE阅读刷题笔记",
-      "path": "Gre/阅读/GRE阅读刷题笔记.md"
-    },
-    {
       "basename": "信息目的题",
       "path": "Gre/阅读/信息目的题.md"
-    },
-    {
-      "basename": "态度题",
-      "path": "Gre/阅读/态度题.md"
     },
     {
       "basename": "事实信息题",
@@ -33,16 +17,48 @@
       "path": "Gre/阅读/可多选题.md"
     },
     {
-      "basename": "类比题",
-      "path": "Gre/阅读/类比题.md"
+      "basename": "错误选项特征",
+      "path": "Gre/阅读/错误选项特征.md"
+    },
+    {
+      "basename": "句子作用题",
+      "path": "Gre/阅读/句子作用题.md"
     },
     {
       "basename": "否定事实信息题",
       "path": "Gre/阅读/否定事实信息题.md"
     },
     {
-      "basename": "句子作用题",
-      "path": "Gre/阅读/句子作用题.md"
+      "basename": "GRE阅读题型",
+      "path": "Gre/阅读/GRE阅读题型.md"
+    },
+    {
+      "basename": "GRE阅读刷题笔记",
+      "path": "Gre/阅读/GRE阅读刷题笔记.md"
+    },
+    {
+      "basename": "词汇题",
+      "path": "Gre/阅读/词汇题.md"
+    },
+    {
+      "basename": "长文章",
+      "path": "Gre/阅读/长文章.md"
+    },
+    {
+      "basename": "推断题",
+      "path": "Gre/阅读/推断题.md"
+    },
+    {
+      "basename": "态度题",
+      "path": "Gre/阅读/态度题.md"
+    },
+    {
+      "basename": "GRE阅读正确率",
+      "path": "Gre/阅读/GRE阅读正确率.md"
+    },
+    {
+      "basename": "类比题",
+      "path": "Gre/阅读/类比题.md"
     },
     {
       "basename": "Application",
@@ -101,24 +117,8 @@
       "path": "Gre/阅读/逻辑单题.md"
     },
     {
-      "basename": "推断题",
-      "path": "Gre/阅读/推断题.md"
-    },
-    {
-      "basename": "长文章",
-      "path": "Gre/阅读/长文章.md"
-    },
-    {
-      "basename": "词汇题",
-      "path": "Gre/阅读/词汇题.md"
-    },
-    {
       "basename": "指代重复",
       "path": "Gre/填空/指代重复.md"
-    },
-    {
-      "basename": "错误选项特征",
-      "path": "Gre/阅读/错误选项特征.md"
     },
     {
       "basename": "2023-09-19",
