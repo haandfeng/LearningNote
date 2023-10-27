@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0d6a9495bae0ae03",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,7 +190,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "e586cdaee6848c80",
+  "active": "0d6a9495bae0ae03",
   "lastOpenFiles": [
     "Gre/阅读/态度题.md",
     "Gre/阅读/事实信息题.md",
