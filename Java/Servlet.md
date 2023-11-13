@@ -12,3 +12,5 @@ Content-Type:响应内容的类型(MIME)
 
 # Servlet的继承结构
 # Servlet的生命周期
+# ServletContext和ServletConfig
+![[截屏2023-11-13 22.46.50.png]]
