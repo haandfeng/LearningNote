@@ -5,6 +5,18 @@
       "path": "Java/Servlet.md"
     },
     {
+      "basename": "截屏2023-10-04 16.17.52",
+      "path": "attachment/截屏2023-10-04 16.17.52.png"
+    },
+    {
+      "basename": "截屏2023-10-04 16.09.26",
+      "path": "attachment/截屏2023-10-04 16.09.26.png"
+    },
+    {
+      "basename": "截屏2023-11-13 21.57.57",
+      "path": "attachment/截屏2023-11-13 21.57.57.png"
+    },
+    {
       "basename": "README",
       "path": "README.md"
     },
@@ -187,14 +199,6 @@
     {
       "basename": "区间和达标的子数组数量",
       "path": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/区间和达标的子数组数量.md"
-    },
-    {
-      "basename": "_需要手动改写有序表的题目",
-      "path": "算法笔记/zuoAlgorithm/001. 难点重点照顾/_需要手动改写有序表的题目.md"
-    },
-    {
-      "basename": "04 归并排序",
-      "path": "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/04 归并排序.md"
     }
   ],
   "omittedPaths": [],
