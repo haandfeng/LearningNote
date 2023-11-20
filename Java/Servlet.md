@@ -48,3 +48,33 @@ Content-Type:响应内容的类型(MIME)
 
 
 # 注解模式开发Servlet
+```java
+@WebServlet(  
+        urlPatterns={"/servlet2.do","/a.do","/b.do","/c.do"},  
+        loadOnStartup = 6,  
+        initParams = {  
+                @WebInitParam(name="brand",value = "asus"),  
+                @WebInitParam(name="screen",value = "京东方")  
+        }  
+        )  
+public class Servlet2 extends HttpServlet {  
+    public Servlet2(){  
+        System.out.println("Servlet2 Constructor invoked");  
+    }  
+    @Override  
+    public void init() throws ServletException {  
+        System.out.println("servlet1 inited");  
+    }  
+  
+    @Override  
+    protected void service(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {  
+        System.out.println("Servlet2 Service invoked");  
+        ServletConfig servletConfig = this.getServletConfig();  
+        System.out.println(servletConfig.getInitParameter("brand"));  
+        System.out.println(servletConfig.getInitParameter("screen"));  
+    }  
+}
+```
+
+# 请求转发
+# 响应重定向
