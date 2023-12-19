@@ -18,3 +18,12 @@ Modified Top Down
 先深度后广度
 # 黑盒测试和白盒测试
 白：路径
+
+# Release Testing
+黑盒 tests are derived from system specification 
+guidelines
+
+# Perfomance testing
+用压力测试 stress testing
+# Component testing (Unit testing)
+
