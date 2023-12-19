@@ -26,4 +26,14 @@ guidelines
 # Perfomance testing
 用压力测试 stress testing
 # Component testing (Unit testing)
+要测 individual functions or methods
+        Object class Composite component
+# Interface testing 
+guilde line:
+测指针 压力测试  按不同顺序测共享一个memory的component                          list each call to an external component 
 
+
+# Test case design 
+Requirement-based: 考虑每一个需求，然后derive a set of tests
+Partition testing: 
+Structural testing 白盒测试 
