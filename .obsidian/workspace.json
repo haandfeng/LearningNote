@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c29e99dd187afe4d",
+            "id": "cf40880cbaddf022",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "软件工程/Testing.md",
+                "file": "操作系统/Ch1.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5a22bf979ae2ada9",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "软件工程/Testing.md",
+                "file": "操作系统/Ch1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "软件工程/Testing.md",
+                "file": "操作系统/Ch1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "软件工程/Testing.md"
+                "file": "操作系统/Ch1.md"
               }
             }
           },
@@ -178,10 +179,13 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "c29e99dd187afe4d",
+  "active": "cf40880cbaddf022",
   "lastOpenFiles": [
-    "软件工程/软件工程.md",
     "软件工程/Testing.md",
+    "操作系统/Ch1.md",
+    "操作系统/CH1.md",
+    "操作系统",
+    "软件工程/软件工程.md",
     "软件工程",
     "Java/Servlet.md",
     "attachment/截屏2023-11-13 22.58.25.png",
@@ -212,8 +216,6 @@
     "Gre/阅读/长文章.md",
     "Gre/阅读/类比题.md",
     "Users/ha/Library/Application.md",
-    "Users/ha/Library/Containers/com.tencent.xinWeChat/Data/Library/Application.md",
-    "JavaWEB.md",
     "attachment/截屏2023-10-04 16.50.15.png",
     "attachment/截屏2023-10-04 16.49.22.png",
     "attachment/截屏2023-10-04 16.47.44.png",
@@ -226,7 +228,6 @@
     "Users/ha/Library",
     "Users/ha",
     "Users",
-    "Gre/阅读",
     "未命名 1.canvas",
     "未命名 3.canvas",
     "未命名 2.canvas"
