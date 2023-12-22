@@ -4,4 +4,7 @@
 3. Can execute any instruction the machine is capable of executing;
 4. Huge, complex, long-lived;
 ## 2 major task
-To provide abstractions and to manage resources
+### To provide abstractions 
+OS hides the implementation details and provides user programs with nice and standard abstractions.
+
+### To manage resources
