@@ -23,3 +23,17 @@ The operating system is organized as a hierarchy of layers of processes.
 微内核的变体
 Contains two classes of processes, the servers and the clients. Communication between servers and clients is done by message passing.  It is an abstraction that can be used for a single machine or a network of machines
 ![[Pasted image 20231223145806.png]]
+
+# Process
+## Multiprogramming
+- when the system is booted, many processes are running simultaneously
+- The CPU switches from process to process quickly, running each for tens or hundreds of milliseconds. 
+- At anytime, the CPU is running only one process.
+
+## Process Creation
+1. System initialization
+2.  Created by a running process.
+3. User request to create a new process
+4. Initiation of a batch job
+- Foreground processes: processes that interact with users and perform work for them. 前台进程 和人进行交互
+- Background processes that handle some incoming request are called daemons. 后台进程
