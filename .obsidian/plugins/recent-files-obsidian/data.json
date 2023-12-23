@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Ch2",
-      "path": "操作系统/Ch2.md"
+      "basename": "Ch3",
+      "path": "操作系统/Ch3.md"
     },
     {
       "basename": "Ch1",
       "path": "操作系统/Ch1.md"
+    },
+    {
+      "basename": "Ch2",
+      "path": "操作系统/Ch2.md"
     },
     {
       "basename": "Testing",
@@ -195,10 +199,6 @@
     {
       "basename": "截屏2023-08-18 15.33.30",
       "path": "attachment/截屏2023-08-18 15.33.30.png"
-    },
-    {
-      "basename": "截屏2023-08-19 16.35.51",
-      "path": "attachment/截屏2023-08-19 16.35.51.png"
     }
   ],
   "omittedPaths": [],

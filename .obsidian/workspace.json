@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/Ch2.md",
+                "file": "操作系统/Ch3.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5a22bf979ae2ada9",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/Ch2.md",
+                "file": "操作系统/Ch3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/Ch2.md",
+                "file": "操作系统/Ch3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/Ch2.md"
+                "file": "操作系统/Ch3.md"
               }
             }
           },
@@ -181,6 +180,9 @@
   },
   "active": "cf40880cbaddf022",
   "lastOpenFiles": [
+    "操作系统/Ch1.md",
+    "操作系统/Ch3.md",
+    "操作系统/Ch2.md",
     "attachment/Pasted image 20231223165441.png",
     "attachment/Pasted image 20231223165436.png",
     "attachment/Pasted image 20231223165425.png",
@@ -191,9 +193,6 @@
     "attachment/Pasted image 20231223143907.png",
     "attachment/Pasted image 20231223143840.png",
     "attachment/Pasted image 20231223143627.png",
-    "attachment/Pasted image 20231223143620.png",
-    "操作系统/Ch1.md",
-    "操作系统/Ch2.md",
     "软件工程/Testing.md",
     "操作系统/CH1.md",
     "操作系统",
