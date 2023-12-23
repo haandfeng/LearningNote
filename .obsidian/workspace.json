@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5a22bf979ae2ada9",
@@ -180,6 +181,8 @@
   },
   "active": "cf40880cbaddf022",
   "lastOpenFiles": [
+    "attachment/Pasted image 20231223205046.png",
+    "attachment/Pasted image 20231223204745.png",
     "操作系统/Ch1.md",
     "操作系统/Ch3.md",
     "操作系统/Ch2.md",
@@ -192,7 +195,6 @@
     "attachment/Pasted image 20231223145428.png",
     "attachment/Pasted image 20231223143907.png",
     "attachment/Pasted image 20231223143840.png",
-    "attachment/Pasted image 20231223143627.png",
     "软件工程/Testing.md",
     "操作系统/CH1.md",
     "操作系统",
@@ -218,7 +220,6 @@
     "Gre/阅读/主旨题.md",
     "Gre/阅读/GRE阅读正确率.md",
     "Gre/阅读/错误选项特征.md",
-    "Gre/阅读/长文章.md",
     "未命名.canvas",
     "Users/ha/Library/Containers/com.tencent.xinWeChat/Data/Library",
     "Users/ha/Library/Containers/com.tencent.xinWeChat/Data",
