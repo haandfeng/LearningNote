@@ -50,3 +50,17 @@ Example: referencing nonexistent memory.
 5. Killed by another process (involuntary)
 “Kill” in UNIX and “TerminateProcess” in Windows.
 
+
+## Process States
+- Running：using the CPU at that instant.
+- Ready：runnable; temporarily stopped to let another process run.
+- Blocked：unable to run until some external event happens.
+![[Pasted image 20231223155910.png]]
+
+
+
+## Process Scheduling
+The OS maintains a Process Table with one entry (called a process control block (PCB)) for each process.(用来实现进程的管理)
+![[Pasted image 20231223160307.png]]
+## Pseudo- parallelism
+the rapid switching between processes gives the illusion of true parallelism and is called pseudo-parallelism.
