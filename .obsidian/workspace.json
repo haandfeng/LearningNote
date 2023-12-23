@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/Ch1.md",
+                "file": "操作系统/Ch2.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/Ch1.md",
+                "file": "操作系统/Ch2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/Ch1.md",
+                "file": "操作系统/Ch2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/Ch1.md"
+                "file": "操作系统/Ch2.md"
               }
             }
           },
@@ -161,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5
+    "width": 239.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,8 +181,12 @@
   },
   "active": "cf40880cbaddf022",
   "lastOpenFiles": [
-    "软件工程/Testing.md",
+    "attachment/Pasted image 20231223143026.png",
+    "attachment/Pasted image 20231223143004.png",
+    "attachment/Pasted image 20231223142920.png",
     "操作系统/Ch1.md",
+    "操作系统/Ch2.md",
+    "软件工程/Testing.md",
     "操作系统/CH1.md",
     "操作系统",
     "软件工程/软件工程.md",
@@ -213,12 +218,8 @@
     "Gre/阅读/GRE阅读正确率.md",
     "Gre/阅读/错误选项特征.md",
     "Gre/阅读/长文章.md",
-    "Gre/阅读/类比题.md",
-    "Users/ha/Library/Application.md",
     "attachment/截屏2023-10-04 16.50.15.png",
     "attachment/截屏2023-10-04 16.49.22.png",
-    "attachment/截屏2023-10-04 16.47.44.png",
-    "attachment/截屏2023-10-04 16.46.31.png",
     "未命名.canvas",
     "Users/ha/Library/Containers/com.tencent.xinWeChat/Data/Library",
     "Users/ha/Library/Containers/com.tencent.xinWeChat/Data",
