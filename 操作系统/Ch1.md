@@ -29,3 +29,9 @@ Deep in     OS
 中兴新支点操作系统
 鸿蒙
 UOS
+
+# Process？
+a program in execution.
+a container that holds all the information needed to run a program.
+
+## 和program的区别
