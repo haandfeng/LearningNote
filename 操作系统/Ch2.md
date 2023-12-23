@@ -67,3 +67,16 @@ When a context switch occurs between processes P1 and P2, the current state of t
 
 ## Pseudo- parallelism
 the rapid switching between processes gives the illusion of true parallelism and is called pseudo-parallelism.
+
+# Thread
+A thread of execution is the smallest sequence of programmed instructions that ***can be managed independently by a scheduler***, which is typically a part of the operating system. The implementation of threads and processes differs between operating systems, but in most cases ***a thread is a component of a process***. Multiple threads ***can exist within one process, executing concurrently and sharing resources*** such as memory, while different processes do not share these resources. In particular, the threads of a process share its executable code and the values of its variables at any given time.
+![[Pasted image 20231223165425.png]]
+Some items are shared by all threads in a process, while some items are private to each thread
+![[Pasted image 20231223165441.png]]
+
+## Why need thread
+1. Responsiveness: multiple activities can be done at the same time. 
+2. **Resource Sharing**: threads share the memory and the resources of the process.
+3. Economy: threads are easy to create and destroy.
+4. Utilization of MP (multiprocessor) Architectures: threads are useful on multiple CPU systems.
+
