@@ -37,3 +37,16 @@ Contains two classes of processes, the servers and the clients. Communication be
 4. Initiation of a batch job
 - Foreground processes: processes that interact with users and perform work for them. 前台进程 和人进行交互
 - Background processes that handle some incoming request are called daemons. 后台进程
+
+## Process terminal的原因
+1. Normal exit (voluntary)
+"Exit” in UNIX and “ExitProcess” in Windows.
+4. Error exit (voluntary)
+Example: input file is not exist.
+3. Error exit (voluntary)
+Example: input file is not exist.
+4. Fatal error (involuntary)
+Example: referencing nonexistent memory.
+5. Killed by another process (involuntary)
+“Kill” in UNIX and “TerminateProcess” in Windows.
+
