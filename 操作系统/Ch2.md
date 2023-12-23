@@ -62,5 +62,8 @@ Example: referencing nonexistent memory.
 ## Process Scheduling
 The OS maintains a Process Table with one entry (called a process control block (PCB)) for each process.(用来实现进程的管理)
 ![[Pasted image 20231223160307.png]]
+## Context switch
+When a context switch occurs between processes P1 and P2, the current state of the RUNNING process, say P1, is saved in the PCB for process P1 and the state of a READY process, say P2, is restored from the PCB for process P2 to the CPU registers, etc. Then, process P2 begins RUNNING.
+
 ## Pseudo- parallelism
 the rapid switching between processes gives the illusion of true parallelism and is called pseudo-parallelism.
