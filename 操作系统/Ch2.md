@@ -18,3 +18,8 @@ The operating system is organized as a hierarchy of layers of processes.
 - Split the OS into modules, only one runs in kernel mode and the rest run in user mode;  (a lot communication)
 - Put as little as possible into kernel model to improve the reliability of the system.
 不让系统经常死机
+![[Pasted image 20231223145428.png]]
+# Client-Server Model
+微内核的变体
+Contains two classes of processes, the servers and the clients. Communication between servers and clients is done by message passing.  It is an abstraction that can be used for a single machine or a network of machines
+![[Pasted image 20231223145806.png]]
