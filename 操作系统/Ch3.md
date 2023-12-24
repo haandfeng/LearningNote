@@ -73,4 +73,7 @@ Mutex：
 A mutex is a semaphore that can be in one of two states: unlocked (0) or locked (1).
 
 ![[Pasted image 20231224133537.png]]
+##  同步问题
+## 生产者消费者问题
 ## 
+## 读者写者问题
