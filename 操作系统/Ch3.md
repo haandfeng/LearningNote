@@ -58,4 +58,19 @@ BUSY-WAITING：a process executing the entry code will sit in a tight loop using
 Busy-waiting may lead to the priority-inversion problem .
 ![[Pasted image 20231224112016.png]]
 
-#
+# Semaphores 
+A SEMAPHORE, S, is a structure consisting of two parts:
+    (a) an integer counter, COUNT
+    (b) a queue of pids of blocked processes, Q
+
+There are two operations on semaphores, UP and DOWN (PV).  These operations must be executed atomically (that is in mutual exclusion). Suppose that P is the process  making the system call. The operations are defined  as follows: 	
+![[Pasted image 20231224132625.png]]
+![[Pasted image 20231224132705.png]]
+
+Semaphores do not require busy-waiting, instead they involve BLOCKING.
+![[Pasted image 20231224133455.png]]
+Mutex：
+A mutex is a semaphore that can be in one of two states: unlocked (0) or locked (1).
+
+![[Pasted image 20231224133537.png]]
+## 

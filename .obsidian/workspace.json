@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Semaphores",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,11 +73,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5a22bf979ae2ada9",
@@ -178,8 +180,12 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "ab3df9bd0138c1ec",
+  "active": "cf40880cbaddf022",
   "lastOpenFiles": [
+    "attachment/Pasted image 20231224133537.png",
+    "attachment/Pasted image 20231224133455.png",
+    "attachment/Pasted image 20231224132705.png",
+    "attachment/Pasted image 20231224132625.png",
     "操作系统/Ch2.md",
     "attachment/Pasted image 20231224132018.png",
     "操作系统/Ch3.md",
@@ -190,9 +196,6 @@
     "attachment/Pasted image 20231223205046.png",
     "attachment/Pasted image 20231223204745.png",
     "操作系统/Ch1.md",
-    "attachment/Pasted image 20231223165441.png",
-    "attachment/Pasted image 20231223165436.png",
-    "attachment/Pasted image 20231223165425.png",
     "软件工程/Testing.md",
     "操作系统/CH1.md",
     "操作系统",
