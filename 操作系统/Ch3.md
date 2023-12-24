@@ -11,7 +11,7 @@ Four conditions to support a good solution
 4. No process must wait forever to enter its critical region
 ![[Pasted image 20231224111404.png]]
 
-# Disabling Interrupts
+# Hardware solution Disabling Interrupts
 
 The CPU is only switch from process to process when clock or other interrupts happen; Hence, by disabling all interrupts, the CPU will not be switched to another process.
 
@@ -40,6 +40,19 @@ However, it is unwise to allow user processes to disable interrupts.
 问题：Since the processes must strictly alternate entering their critical sections, a process wanting to enter its critical section twice will be blocked until the other process decides to enter (and leave) its critical section.（同一个不能连续两次访问 critical_region，必须交替访问 ）
 
 # Peterson’s Solution
-互相谦让的算法 违反了
+互相谦让的算法  没有遵守让权等待
+This solution satisfies all 4 properties of a good solution. Unfortunately, this solution involves busy waiting in the while loop. 
 ![[Pasted image 20231223205046.png]]
 
+
+# Hardware solution: Test-and-Set Locks (TSL)
+The hardware must support a special instruction, TSL, which does two things in a single atomic action:
+1. copy a value in memory (flag) to a CPU register
+2. set flag to 1.
+![[Pasted image 20231224111737.png]]
+问题: 不满足让权等待的原则，会导致忙等的问题出现
+# Busy waiting的问题
+BUSY-WAITING：a process executing the entry code will sit in a tight loop using up CPU cycles, testing some condition over and over, until it becomes true.
+
+Busy-waiting may lead to the priority-inversion problem .
+![[Pasted image 20231224112016.png]]

@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "extent",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -181,6 +182,9 @@
   },
   "active": "cf40880cbaddf022",
   "lastOpenFiles": [
+    "attachment/Pasted image 20231224112016.png",
+    "attachment/Pasted image 20231224111950.png",
+    "attachment/Pasted image 20231224111737.png",
     "attachment/Pasted image 20231224111404.png",
     "attachment/Pasted image 20231223205046.png",
     "attachment/Pasted image 20231223204745.png",
@@ -192,9 +196,6 @@
     "attachment/Pasted image 20231223165425.png",
     "attachment/Pasted image 20231223160307.png",
     "attachment/Pasted image 20231223155910.png",
-    "attachment/Pasted image 20231223145806.png",
-    "attachment/Pasted image 20231223145428.png",
-    "attachment/Pasted image 20231223143907.png",
     "软件工程/Testing.md",
     "操作系统/CH1.md",
     "操作系统",
