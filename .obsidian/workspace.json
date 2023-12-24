@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/Ch2.md",
+                "file": "操作系统/Ch3.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5a22bf979ae2ada9",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/Ch2.md",
+                "file": "操作系统/Ch3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/Ch2.md",
+                "file": "操作系统/Ch3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/Ch2.md"
+                "file": "操作系统/Ch3.md"
               }
             }
           },
@@ -179,8 +178,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "cf40880cbaddf022",
+  "active": "ab3df9bd0138c1ec",
   "lastOpenFiles": [
+    "操作系统/Ch2.md",
+    "attachment/Pasted image 20231224132018.png",
     "操作系统/Ch3.md",
     "attachment/Pasted image 20231224112016.png",
     "attachment/Pasted image 20231224111950.png",
@@ -189,11 +190,9 @@
     "attachment/Pasted image 20231223205046.png",
     "attachment/Pasted image 20231223204745.png",
     "操作系统/Ch1.md",
-    "操作系统/Ch2.md",
     "attachment/Pasted image 20231223165441.png",
     "attachment/Pasted image 20231223165436.png",
     "attachment/Pasted image 20231223165425.png",
-    "attachment/Pasted image 20231223160307.png",
     "软件工程/Testing.md",
     "操作系统/CH1.md",
     "操作系统",

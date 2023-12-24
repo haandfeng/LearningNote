@@ -89,7 +89,10 @@ Some items are shared by all threads in a process, while some items are private 
     Thread：the entity scheduled for execution on the CPU.
 
 
-## 
+## POSIX Threads
+POSIX (Portable Operating System Interface) is a set of standard operating system interfaces based on the Unix operating system. 
+The need for standardization arose because enterprises using computers wanted to be able to develop programs that could be moved among different manufacturer's computer systems directly. 
+![[Pasted image 20231224132018.png]]
 ## Pros and Cons
 ### Implementing threads in user space
 Advantages: fast, flexible, scalable

@@ -11,6 +11,7 @@ Four conditions to support a good solution
 4. No process must wait forever to enter its critical region
 ![[Pasted image 20231224111404.png]]
 
+
 # Hardware solution Disabling Interrupts
 
 The CPU is only switch from process to process when clock or other interrupts happen; Hence, by disabling all interrupts, the CPU will not be switched to another process.
@@ -56,3 +57,5 @@ BUSY-WAITING：a process executing the entry code will sit in a tight loop using
 
 Busy-waiting may lead to the priority-inversion problem .
 ![[Pasted image 20231224112016.png]]
+
+#
