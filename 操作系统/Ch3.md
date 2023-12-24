@@ -73,7 +73,24 @@ Mutex：
 A mutex is a semaphore that can be in one of two states: unlocked (0) or locked (1).
 
 ![[Pasted image 20231224133537.png]]
-##  同步问题
+## 同步问题
 ## 生产者消费者问题
-## 
+## 多生产者多消费者问题
+![[Pasted image 20231224160025.png]]
+问题分析
+![[Pasted image 20231224160237.png]]
+需要mutex mutex=1 plate= 1 orange =0 apple =0
+![[Pasted image 20231224160426.png]]
+但本题可以不用mutex，这是因为缓冲区(plate)大小为1
+## 吸烟者问题
+生产者生产多种不同的产品
+![[Pasted image 20231224160955.png]]
+问题分析：
+![[Pasted image 20231224161114.png]]
+![[Pasted image 20231224161158.png]]
+答案：用i实现轮流的问题
+![[Pasted image 20231224161309.png]]
+
 ## 读者写者问题
+## 理发师问题
+## 哲学家问题
