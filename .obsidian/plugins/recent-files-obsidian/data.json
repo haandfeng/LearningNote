@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Ch4",
+      "path": "操作系统/Ch4.md"
+    },
+    {
       "basename": "Ch3",
       "path": "操作系统/Ch3.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "05 归并改写解决的面试题(续)、快速排序",
       "path": "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/05 归并改写解决的面试题(续)、快速排序.md"
-    },
-    {
-      "basename": "截屏2023-08-18 15.33.30",
-      "path": "attachment/截屏2023-08-18 15.33.30.png"
     }
   ],
   "omittedPaths": [],
