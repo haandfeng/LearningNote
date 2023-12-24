@@ -73,10 +73,35 @@ A thread of execution is the smallest sequence of programmed instructions that 
 ![[Pasted image 20231223165425.png]]
 Some items are shared by all threads in a process, while some items are private to each thread
 ![[Pasted image 20231223165441.png]]
-
 ## Why need thread
 1. Responsiveness: multiple activities can be done at the same time. 
 2. **Resource Sharing**: threads share the memory and the resources of the process.
 3. Economy: threads are easy to create and destroy.
 4. Utilization of MP (multiprocessor) Architectures: threads are useful on multiple CPU systems.
+
+
+## Thread  vs. Process
+1. A thread – lightweight process, a basic unit of CPU utilization.
+2. It comprises a thread ID, a program counter, a register set, and a stack.
+3. A traditional (heavyweight) process has a single thread of control.
+4. If the process has multiple threads of control, it can do more than one task at a time. This situation is called multithreading.
+5. Process：used to group resources together;
+    Thread：the entity scheduled for execution on the CPU.
+
+
+## 
+## Pros and Cons
+### Implementing threads in user space
+Advantages: fast, flexible, scalable
+Drawbacks：
+1) Blocking blocks all threads in a process; 
+2) No thread-level parallelism on multiprocessor.
+### Implementing threads in kernel
+Advantages: Blocking blocks only the appropriate thread in a process; Support thread-level parallelism on multiprocessor;
+Disadvantages: Slow thread management; large thread tables
+
+### Hybrid Implementations
+Multiplex user-level threads on kernel threads. Kernel is only aware of the kernel-level threads and schedule those.  
+More flexible, but more complicated.
+
 
