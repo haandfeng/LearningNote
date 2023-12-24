@@ -9,6 +9,7 @@ Four conditions to support a good solution
 2. No assumption made about speeds or numbers of CPUs
 3. No process running outside its critical region may block another process
 4. No process must wait forever to enter its critical region
+![[Pasted image 20231224111404.png]]
 
 # Disabling Interrupts
 
@@ -39,6 +40,6 @@ However, it is unwise to allow user processes to disable interrupts.
 问题：Since the processes must strictly alternate entering their critical sections, a process wanting to enter its critical section twice will be blocked until the other process decides to enter (and leave) its critical section.（同一个不能连续两次访问 critical_region，必须交替访问 ）
 
 # Peterson’s Solution
-互相谦让的算法
+互相谦让的算法 违反了
 ![[Pasted image 20231223205046.png]]
 
