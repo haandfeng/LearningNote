@@ -76,3 +76,5 @@ When swapping creates multiple holes in memory, memory compaction can be used to
 ## Memory Management with Bit Maps & List
 ![[Pasted image 20231226221739.png]]
 ![[Pasted image 20231226221814.png]]
+
+## Memory Management with Linked Lists
