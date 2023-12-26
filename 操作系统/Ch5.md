@@ -60,6 +60,7 @@ Reasonable if
 ## Detection with Multiple Resources of Each Type  
 类似于银行家算法，看ppt26。简单来说就是比对现有资源A每列是不是大于需求资源R的某行每列，如果大于了，就分配资源，然后释放资源，把C对应的某行和A相加
 ![[Pasted image 20231226195923.png]]
+
 ## Recovery from Deadlock
 ### Recovery through preemption
 - take a resource from some other processes
@@ -69,3 +70,8 @@ Reasonable if
 - use this saved state 
 - restart the process if it is found deadlocked
 
+### Recovery through killing processes
+- crudest but simplest way to break a deadlock
+- kill one of the processes in the deadlock cycle
+- the other processes get its resources 
+- choose process that can be rerun from the beginning
