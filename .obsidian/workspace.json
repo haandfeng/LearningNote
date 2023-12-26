@@ -11,8 +11,12 @@
             "id": "b1c05e0430fb1d31",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "操作系统/Ch5.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -86,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5a22bf979ae2ada9",
@@ -198,8 +203,9 @@
   },
   "active": "7c28bd978ce8178b",
   "lastOpenFiles": [
-    "Ch6.md",
     "操作系统/Ch5.md",
+    "操作系统/Ch4.md",
+    "Ch6.md",
     "attachment/Pasted image 20231226202948.png",
     "attachment/Pasted image 20231226195923.png",
     "attachment/Pasted image 20231226195911.png",
@@ -211,7 +217,6 @@
     "attachment/Pasted image 20231226184146.png",
     "attachment/Pasted image 20231226183607.png",
     "操作系统/Ch3.md",
-    "操作系统/Ch4.md",
     "操作系统/Ch2.md",
     "操作系统/Ch1.md",
     "软件工程/Testing.md",
