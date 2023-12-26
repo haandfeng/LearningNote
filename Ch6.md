@@ -103,7 +103,18 @@ Example: Virtual address = 4097 = 0001  0000 0000 0001
 The purpose of the page table is to map virtual pages into page frames. The page table is a function to map the virtual page to the page frame.
 
  Two major issues : 
-1. Page tables may be extremely large (e.g. most computers use) 32-bit address(内存空间4GB) with 4k page size(页面空间4KB), 12-bit offset(4kb的页面空间需要12 bit的offset)
+1. Page tables may be extremely large (e.g. most computers use) 32-bit address(内存空间4GB) with 4k page size(页面空间4KB), 12-bit offset(4kb的页面空间需要12 bit的offset
       => 20 bits for virtual page number
       =>1 million entries!
 2. The mapping must be fast because it is done on every memory access!!
+
+### Pure paging 
+![[Pasted image 20231226232714.png|450]]
+
+
+### Multilevel Page Tables
+Multilevel page tables - reduce the table size. Also, don't keep page tables in memory that are not needed.
+![[Pasted image 20231226233305.png|350]]
+32 bit address with 2 page table fields
+
+
