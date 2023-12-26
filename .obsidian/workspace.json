@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5a22bf979ae2ada9",
@@ -179,8 +178,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "727a7c86195366db",
+  "active": "ab3df9bd0138c1ec",
   "lastOpenFiles": [
+    "attachment/Pasted image 20231226161241.png",
+    "attachment/Pasted image 20231226161226.png",
     "attachment/Pasted image 20231226135848.png",
     "attachment/Pasted image 20231226135843.png",
     "操作系统/Ch4.md",
@@ -192,8 +193,6 @@
     "attachment/Pasted image 20231224160426.png",
     "attachment/Pasted image 20231224160237.png",
     "attachment/Pasted image 20231224160025.png",
-    "attachment/Pasted image 20231224133537.png",
-    "attachment/Pasted image 20231224133455.png",
     "操作系统/Ch2.md",
     "操作系统/Ch1.md",
     "软件工程/Testing.md",
