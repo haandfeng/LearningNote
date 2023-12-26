@@ -38,3 +38,9 @@ It cannot be applied to resources such as printers.
 ## Attacking the Circular Wait Condition
 1. A process is entitled only to a single resource at any moment. 一个时刻只能占用一种资源
 2. Impose a total ordering of all resource types and to require that each process requests resources in an increasing order of enumeration.
+# Other Issues:
+## Two-Phase Locking
+![[Pasted image 20231226214756.png]]
+Similar to requesting all resources at once
+## Non-resource Deadlocks
+![[Pasted image 20231226215006.png]]
