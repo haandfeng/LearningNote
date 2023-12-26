@@ -109,8 +109,8 @@ preemptive – if a new process arrives with CPU burst length less than remainin
 Adv:
 SJF is optimal – gives minimum average waiting time for a given set of processes.
 Drawback:
-The real difficulty with the SJF algorithm is knowing the length of the next CPU request.
-
+- The real difficulty with the SJF algorithm is knowing the length of the next CPU request.
+- Can cause starvation 
 ## Round Robin (RR) Scheduling
 Each process gets a small unit of CPU time (time quantum), usually 10-100 milliseconds.  After this time has elapsed, the process is preempted and added to the end of the ready queue.
 If there are n processes in the ready queue and the time quantum is q, then each process gets 1/n of the CPU time in chunks of at most q time units at once.  No process waits 
@@ -130,7 +130,6 @@ q small => q must be large with respect to context switch, otherwise overhead is
 Typically, higher average turnaround than SJF, but better response.
 
 ## Priority Scheduling
-
 A priority number (integer) is associated with each process
 The CPU is allocated to the process with the highest priority (smallest integer == highest priority).
 Preemptive
@@ -138,3 +137,41 @@ nonpreemptive
 SJF is a priority scheduling where priority is the predicted next CPU burst time.
 Problem: Starvation – low priority processes may never execute.
 Solution: Aging – as time progresses increase the priority of the process.
+![[Pasted image 20231226174539.png]]
+
+## Highest Response Ratio Next Scheduling 
+considers both the process waiting time and execution time
+is a non-preemptive CPU Scheduling algorithm.
+Response Ratio = (W + S)/S
+Here, W is the waiting time of the process so far and S is the Burst time of the process.
+
+## More Scheduling
+### Shortest Process Next
+SJF can be used in an interactive environment by estimating the runtime based on past behavior. Aging is a method used to estimate runtime by taking a weighted average of the current runtime and the previous estimate.
+Example: Let a = estimate weight, then the current estimate is: a *T0 + (1-a) * T1
+where T0 is the previous estimate and T1 is the current runtime.
+
+Guaranteed Scheduling
+Suppose 1/n of the CPU cycles.
+Compute ratio = actual CPU time consumed / CPU time entitled
+Run the process with the lowest ratio
+### Lottery Scheduling
+Give processes lottery tickets for various system resources
+When a scheduling decision is made, a lottery ticket is chosen, and the process holding that ticket gets the resource.
+### Fair-Share Scheduling
+Take into account how many processes a user owns.
+Example: User 1 – A, B, C, D and Use 2 – E
+Round-robin: ABCDEABCDE...
+Fair-Share: if use 1 is entitled to the same CPU time as user 2
+   AEBECEDEAEBECEDE….
+
+
+
+
+
+# Thread Scheduling
+The process scheduling algorithms can also be used in thread scheduling. In practice, round-robin and priority scheduling are commonly used.
+
+User-level and kernel-level threads
+- A major difference between user-level threads and kernel-level threads is the performance.
+- User-level threads can employ an application-specific thread scheduler.
