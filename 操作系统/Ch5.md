@@ -36,3 +36,23 @@ Process A waits for Process B waits for Process C .... waits for Process A.
 
 **ALL of these four conditions must happen simultaneously for a deadlock to occur.**
 
+
+## Resource-Allocation Graph
+If graph contains no cycles => no deadlock.
+If graph contains a cycle =>
+- if only one instance per resource type, then deadlock.
+- if several instances per resource type, possibility of deadlock.
+
+## The Ostrich Algorithm
+Pretend that there is no problem
+Reasonable if 
+1. deadlocks occur very rarely 
+2. cost of prevention is high
+
+## Detection with One Resource of Each Type  
+画图就好检查有没有圈，每种类型资源只有一个的情况
+![[Pasted image 20231226194839.png]]
+算法
+![[Pasted image 20231226194937.png]]
+
+
