@@ -80,3 +80,13 @@ When swapping creates multiple holes in memory, memory compaction can be used to
 ## Memory Management with Linked Lists
 见中文书122
 ![[Pasted image 20231226224033.png]]
+
+## Virtual Memory
+Problem:  Program too large to fit in memory
+Solutions: 
+- Virtual memory - OS keeps the part of the program currently in use in memory
+
+Paging is a technique used to implement virtual memory.
+Virtual Address is a program generated address.
+
+The MMU  (memory management unit) translates a virtual address into a physical address.
