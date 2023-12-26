@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Ch4",
-      "path": "操作系统/Ch4.md"
+      "basename": "Ch5",
+      "path": "操作系统/Ch5.md"
     },
     {
       "basename": "Ch3",
       "path": "操作系统/Ch3.md"
+    },
+    {
+      "basename": "Ch4",
+      "path": "操作系统/Ch4.md"
     },
     {
       "basename": "Ch2",
@@ -195,10 +199,6 @@
     {
       "basename": "GRE填空题",
       "path": "Gre/填空/GRE填空题.md"
-    },
-    {
-      "basename": "05 归并改写解决的面试题(续)、快速排序",
-      "path": "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/05 归并改写解决的面试题(续)、快速排序.md"
     }
   ],
   "omittedPaths": [],

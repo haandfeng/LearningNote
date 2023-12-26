@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/Ch4.md",
+                "file": "操作系统/Ch5.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/Ch4.md",
+                "file": "操作系统/Ch5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/Ch4.md",
+                "file": "操作系统/Ch5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/Ch4.md"
+                "file": "操作系统/Ch5.md"
               }
             }
           },
@@ -190,20 +190,21 @@
   },
   "active": "727a7c86195366db",
   "lastOpenFiles": [
+    "attachment/Pasted image 20231226184150.png",
+    "attachment/Pasted image 20231226184146.png",
+    "attachment/Pasted image 20231226183607.png",
+    "操作系统/Ch3.md",
+    "操作系统/Ch5.md",
+    "操作系统/Ch4.md",
     "attachment/Pasted image 20231226180734.png",
     "attachment/Pasted image 20231226180607.png",
     "attachment/Pasted image 20231226174539.png",
     "attachment/Pasted image 20231226174036.png",
-    "操作系统/Ch3.md",
     "操作系统/Ch2.md",
-    "操作系统/Ch4.md",
     "attachment/Pasted image 20231226165753.png",
     "attachment/Pasted image 20231226164317.png",
     "attachment/Pasted image 20231226164159.png",
     "attachment/Pasted image 20231226161623.png",
-    "attachment/Pasted image 20231226161547.png",
-    "attachment/Pasted image 20231226161543.png",
-    "attachment/Pasted image 20231226161241.png",
     "操作系统/Ch1.md",
     "软件工程/Testing.md",
     "操作系统/CH1.md",
@@ -228,7 +229,6 @@
     "Gre/阅读/词汇题.md",
     "Linux.md",
     "Gre/阅读/主旨题.md",
-    "Gre/阅读/GRE阅读正确率.md",
     "未命名.canvas",
     "Users/ha/Library/Containers/com.tencent.xinWeChat/Data/Library",
     "Users/ha/Library/Containers/com.tencent.xinWeChat/Data",

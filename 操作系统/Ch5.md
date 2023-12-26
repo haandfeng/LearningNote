@@ -1,0 +1,38 @@
+# Computer Deadlock
+## What is deadlock?
+A set of processes is in a deadlock state when every process in the set is waiting for a resource that can only be released by another process in the set.
+![[Pasted image 20231226183607.png]]
+
+### Resources
+A resource is anything that can be acquired, used, and released over the course of time.  
+
+Sequence of events required to use a resource
+1. request the resource
+2. use the resource
+3. release the resource
+
+Must wait if request is denied
+- requesting process may be blocked
+- may fail with error code
+
+Potential deadlocks that involve Preempt able resources can usually be resolved by reallocating resources from one process to another.
+#### Preempt able resources
+can be taken away from a process with no ill effects (e.g. memory)
+#### Non preempt able resources
+will cause the process to fail if taken away (e.g. CD recorder)
+
+## Conditions for Deadlocks
+1. Mutual exclusion
+Resources are held by  processes in a non-sharable (exclusive) mode.
+ 
+2. Hold and Wait
+A process holds a resource while waiting for another resource.
+ 
+3. No Preemption
+There is only voluntary release of a resource - nobody else can make a process give up a resource.
+ 
+4. Circular Wait
+Process A waits for Process B waits for Process C .... waits for Process A.
+
+**ALL of these four conditions must happen simultaneously for a deadlock to occur.**
+
