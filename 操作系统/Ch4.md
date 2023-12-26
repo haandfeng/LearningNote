@@ -34,6 +34,42 @@ The wait and signal operations on condition variables in a monitor are simil
 
 # Message Passing 
 Message passing may be blocking or non-blocking
+
 Blocking is considered synchronous
-Blocking send has the sender block until the message is received
-Blocking receive has the receiver block until a message is available
+- Blocking send has the sender block until the message is received
+- Blocking receive has the receiver block until a message is available
+
+Non-blocking is considered asynchronous
+- Non-blocking send has the sender send the message and continue
+- Non-blocking receive has the receiver receive a valid message or null
+
+Sender: it is more natural not to be blocked after issuing send:
+- can send several messages to multiple destinations.
+- but sender usually expect acknowledgment of message receipt (in case receiver fails).
+
+Receiver: it is more natural to be blocked after issuing receive:
+- the receiver usually needs the information before proceeding.
+- but could be blocked indefinitely if sender process fails to send.
+
+Other methods are offered, e.g., blocking send, blocking receive: 
+- both are blocked until the message is received.
+- provides tight synchronization (rendezvous聚会).
+ 
+So, there are  three combinations that make sense:
+(1) Blocking send, Blocking receive;
+(2) Nonblocking send, Nonblocking receive;
+(3) Nonblocking send, Blocking receive – most popular
+
+
+# Process Scheduling
+**Scheduler**: A part of the operating system that decides which process is to be run next.
+Scheduling Algorithm: a policy used by the scheduler to make that decision.
+To make sure that no process runs too long, a clock is used to cause a periodic interrupt (usually around 50-60 Hz); that is, about every 20 msec.
+Preemptive Scheduling: allows processes that are runnable to be temporarily suspended so that other processes can have a chance to use the CPU.
+
+## Process Behavior
+bursts 密集
+
+![[Pasted image 20231226164159.png]]
+中文书解释
+![[Pasted image 20231226164317.png]]
