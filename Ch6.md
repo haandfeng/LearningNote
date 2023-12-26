@@ -58,3 +58,21 @@ Memory hierarchy
 
 Memory manager handles the memory hierarchy
 
+## Multiprogramming with Fixed Partitions
+![[Pasted image 20231226220711.png]]
+
+## Swapping & Virtual Memory
+Two approaches to overcome the limitation of memory: 
+- Swapping puts a process back and forth in memory and on the disk.
+- Virtual memory allows programs to run even when they are only partially in main memory.
+## Swapping
+
+![[Pasted image 20231226221141.png]]
+
+Memory allocation changes as processes come into memory and leave memory.
+
+When swapping creates multiple holes in memory, memory compaction can be used to combine them into a big one by moving all processes together.
+
+## Memory Management with Bit Maps & List
+![[Pasted image 20231226221739.png]]
+![[Pasted image 20231226221814.png]]
