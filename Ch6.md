@@ -146,3 +146,19 @@ Since the page table is paged, the page number is further divided into:
 Thus, a logical address is as follows:
    where p1 is an index into the outer page table, and p2 is the displacement within the page of the outer page table.
 ![[Pasted image 20231226234233.png|250]]
+
+### TLB
+Observation: 
+	Most programs make a large number of references to a small number of pages.
+
+Solution:  
+	Equip computers with a small hardware device, called Translation Look-aside Buffer (TLB) or associative memory, to map virtual addresses to physical addresses without using the page table.
+把虚拟地址转化成物理地址，首先看快表有没有，在看page table 。相当于register cache 之于memory
+![[Pasted image 20231226235440.png]]
+
+### Inverted Page Table（shared by all process）
+- Usually, each process has a page table associated with it. One of drawbacks of this method is that each page table may consist of millions of entries.
+- To solve this problem, an inverted page table can be used. There is one entry for each real page (frame) of memory.
+- Each entry consists of the virtual address of the page stored in that real memory location, with information about the process that owns that page.
+一个page frame 对应一个表项
+
