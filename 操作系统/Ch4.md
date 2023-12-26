@@ -110,3 +110,31 @@ Adv:
 SJF is optimal – gives minimum average waiting time for a given set of processes.
 Drawback:
 The real difficulty with the SJF algorithm is knowing the length of the next CPU request.
+
+## Round Robin (RR) Scheduling
+Each process gets a small unit of CPU time (time quantum), usually 10-100 milliseconds.  After this time has elapsed, the process is preempted and added to the end of the ready queue.
+If there are n processes in the ready queue and the time quantum is q, then each process gets 1/n of the CPU time in chunks of at most q time units at once.  No process waits 
+more than (n-1)q time units.
+Performance
+q large => FIFO
+q small => q must be large with respect to context switch, otherwise overhead is too high.
+
+| Process | Burst Time |
+| ------- | ---------- |
+| P1      | 53         |
+| P2      | 17         |
+| P3      | 68         |
+| P4      | 24         |
+
+![[Pasted image 20231226174036.png]]
+Typically, higher average turnaround than SJF, but better response.
+
+## Priority Scheduling
+
+A priority number (integer) is associated with each process
+The CPU is allocated to the process with the highest priority (smallest integer == highest priority).
+Preemptive
+nonpreemptive
+SJF is a priority scheduling where priority is the predicted next CPU burst time.
+Problem: Starvation – low priority processes may never execute.
+Solution: Aging – as time progresses increase the priority of the process.
