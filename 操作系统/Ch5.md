@@ -75,3 +75,15 @@ Reasonable if
 - kill one of the processes in the deadlock cycle
 - the other processes get its resources 
 - choose process that can be rerun from the beginning
+
+## Safe and Unsafe States 
+A state is safe if there is some scheduling order in which every process can run to completion even if all of them suddenly request their maximum number of resources. （都请求资源，存在一条路分配资源但不出现死锁）
+
+The difference between a safe state and an unsafe state is that:
+from a safe state the system can guarantee that all processes will finish; But from an unsafe state, no such guarantee can be given.
+
+## Banker's Algorithm
+###  for a Single Resource
+![[Pasted image 20231226202948.png]]
+###  for a Multiple  Resource
+看ppt做题

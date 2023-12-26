@@ -4,22 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "f79243c486b0a062",
+        "id": "bb5267fa38e62de6",
         "type": "tabs",
         "children": [
           {
-            "id": "727a7c86195366db",
+            "id": "b1c05e0430fb1d31",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "7c28bd978ce8178b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/Ch5.md",
+                "file": "Ch6.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5a22bf979ae2ada9",
@@ -94,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/Ch5.md",
+                "file": "Ch6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/Ch5.md",
+                "file": "Ch6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/Ch5.md"
+                "file": "Ch6.md"
               }
             }
           },
@@ -188,8 +196,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "727a7c86195366db",
+  "active": "7c28bd978ce8178b",
   "lastOpenFiles": [
+    "Ch6.md",
+    "操作系统/Ch5.md",
+    "attachment/Pasted image 20231226202948.png",
     "attachment/Pasted image 20231226195923.png",
     "attachment/Pasted image 20231226195911.png",
     "attachment/Pasted image 20231226195134.png",
@@ -200,10 +211,7 @@
     "attachment/Pasted image 20231226184146.png",
     "attachment/Pasted image 20231226183607.png",
     "操作系统/Ch3.md",
-    "操作系统/Ch5.md",
     "操作系统/Ch4.md",
-    "attachment/Pasted image 20231226180734.png",
-    "attachment/Pasted image 20231226180607.png",
     "操作系统/Ch2.md",
     "操作系统/Ch1.md",
     "软件工程/Testing.md",
