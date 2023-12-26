@@ -108,6 +108,24 @@ The purpose of the page table is to map virtual pages into page frames. The page
       =>1 million entries!
 2. The mapping must be fast because it is done on every memory access!!
 
+#### Remarks
+- Most OSs allocate a page table for each process.
+- Single page table consisting of an array of hardware registers.  As a process is loaded, the registers are loaded with page table.
+		Advantage - simple
+		Disadvantage - expensive if table is large and loading the full page table at every context switch hurts performance. 
+- Leave page table in memory - a single register points to the table
+		Advantage - context switch cheap
+		Disadvantage - one or more memory references to read table entries
+
+#### Structure of a Page Table Entry
+![[Pasted image 20231226234531.png]]
+- Page frame number: map the frame number
+- Present/absent bit: 1/0 indicates valid/invalid entry
+- Protection bit: what kinds of access are permitted.
+- Modified – set when modified and writing to the disk occur
+- Referenced - Set when page is referenced (help decide which page to evict(swap))
+- Caching disabled - used to keep data that logically belongs on the disk in memory to  improve performance
+
 ### Pure paging 
 ![[Pasted image 20231226232714.png|450]]
 
@@ -116,5 +134,15 @@ The purpose of the page table is to map virtual pages into page frames. The page
 Multilevel page tables - reduce the table size. Also, don't keep page tables in memory that are not needed.
 ![[Pasted image 20231226233305.png|350]]
 32 bit address with 2 page table fields
+![[Pasted image 20231226233710.png]]
 
-
+A logical address (on 32-bit machine with 4K page size) is divided into:
+- a page number consisting of 20 bits.
+- a page offset consisting of 12 bits.
+Since the page table is paged, the page number is further divided into:
+- a 10-bit page number. 
+- a 10-bit page offset.
+![[Pasted image 20231226234156.png]]
+Thus, a logical address is as follows:
+   where p1 is an index into the outer page table, and p2 is the displacement within the page of the outer page table.
+![[Pasted image 20231226234233.png|250]]
