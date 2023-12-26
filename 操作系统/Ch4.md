@@ -175,3 +175,17 @@ The process scheduling algorithms can also be used in thread scheduling. In prac
 User-level and kernel-level threads
 - A major difference between user-level threads and kernel-level threads is the performance.
 - User-level threads can employ an application-specific thread scheduler.
+
+## User-level threads
+![[Pasted image 20231226180607.png|300]]
+Possible scheduling of user-level threads
+Kernel 选一个process ，process自己选thread
+50-msec process quantum
+Threads run 5 msec/CPU burst
+
+## Kernel-level threads
+![[Pasted image 20231226180734.png|300]]
+Possible scheduling of kernel-level threads
+Kernel 直接选thread
+50-msec process quantum
+Threads run 5 msec/CPU burst
