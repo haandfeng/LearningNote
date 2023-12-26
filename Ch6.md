@@ -10,24 +10,31 @@ What are the differences between them?
 
 Deadlock is not always deterministic.
 
-# Deadlock Detection, Deadlock Avoidance, and Deadlock 
+# Deadlock Detection, Deadlock Avoidance, and Deadlock Prevention 
 Deadlock Detection: To make sure whether there is a deadlock now. 
 
 Deadlock Avoidance:  to ensure the system won’t enter an unsafe state.  The system dynamically considers every request and decides whether it is safe to grant it at this point.
 
 Deadlock Prevention: to ensure that at least one of the necessary conditions for deadlock can never hold.
 
-# Attacking the Mutual Exclusion Condition
+# Deadlock Prevention
+## Attacking the Mutual Exclusion Condition
 No resource were assigned exclusively to a single process.
 
 Problem?
 This method is generally impossible, because the mutual-exclusion condition must hold for non-sharable resources. e.g., a printer can not be shared by multiple processes simultaneously. 
-# Attacking the Hold and Wait Condition
-Require processes to request resources before starting
-a process never has to wait for what it needs
+## Attacking the Hold and Wait Condition
+Require processes to request resources before starting a process never has to wait for what it needs
 e.g. In the dining philosophers’ problem, each philosopher is required to pick up both forks at the same time. If he fails, he has to release the fork(s) (if any) he has acquired. 
 
 Problems?
 It is difficult to know required resources at start of run
+## Attacking the No Preemption Condition
+If a process is holding some resources and requests another resource that cannot be allocated to it, then all resources are released.
+Problem?
+The method can be applied to resources whose state can be save and restored later, e.g., memory.
+It cannot be applied to resources such as printers.
 
-# Attacking the No Preemption Condition
+## Attacking the Circular Wait Condition
+1. A process is entitled only to a single resource at any moment. 一个时刻只能占用一种资源
+2. Impose a total ordering of all resource types and to require that each process requests resources in an increasing order of enumeration.
