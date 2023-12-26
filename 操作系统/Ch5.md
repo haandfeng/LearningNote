@@ -52,7 +52,20 @@ Reasonable if
 ## Detection with One Resource of Each Type  
 画图就好检查有没有圈，每种类型资源只有一个的情况
 ![[Pasted image 20231226194839.png]]
-算法
-![[Pasted image 20231226194937.png]]
+算法，第二段是算法本质
+![[Pasted image 20231226195134.png]]
 
+
+
+## Detection with Multiple Resources of Each Type  
+类似于银行家算法，看ppt26。简单来说就是比对现有资源A每列是不是大于需求资源R的某行每列，如果大于了，就分配资源，然后释放资源，把C对应的某行和A相加
+![[Pasted image 20231226195923.png]]
+## Recovery from Deadlock
+### Recovery through preemption
+- take a resource from some other processes
+- depends on the nature of the resource
+### Recovery through rollback
+- checkpoint a process periodically
+- use this saved state 
+- restart the process if it is found deadlocked
 
