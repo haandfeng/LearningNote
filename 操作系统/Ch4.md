@@ -63,9 +63,9 @@ So, there are  three combinations that make sense:
 
 # Process Scheduling
 **Scheduler**: A part of the operating system that decides which process is to be run next.
-Scheduling Algorithm: a policy used by the scheduler to make that decision.
-To make sure that no process runs too long, a clock is used to cause a periodic interrupt (usually around 50-60 Hz); that is, about every 20 msec.
-Preemptive Scheduling: allows processes that are runnable to be temporarily suspended so that other processes can have a chance to use the CPU.
+**Scheduling Algorithm**: a policy used by the scheduler to make that decision.
+- To make sure that no process runs too long, a clock is used to cause a periodic interrupt (usually around 50-60 Hz); that is, about every 20 msec.
+**Preemptive Scheduling**: allows processes that are runnable to be temporarily suspended so that other processes can have a chance to use the CPU.
 
 ## Process Behavior
 bursts 密集
@@ -73,3 +73,40 @@ bursts 密集
 ![[Pasted image 20231226164159.png]]
 中文书解释
 ![[Pasted image 20231226164317.png]]
+
+
+## When to  Schedule
+When a new process is created;
+When a process exist;
+When a process blocks on I/O;
+When an I/O interrupt occurs (e.g., clock interrupt).
+
+## Scheduling Algorithm Goals
+1. Fairness - each process gets its fair share of time with the CPU.
+2. Efficiency - keep the CPU busy doing productive work.
+3. Response Time - minimize the response time for interactive users.
+4. Turn around Time - minimize the average time from a batch job being submitted until it is completed.
+5. Throughput - maximize the number of jobs processed per hour.
+
+## First-Come, First-Served (FCFS) Scheduling
+| Process | Burst Time |
+| ------- | ---------- |
+| P1      | 24         |
+| P2      | 3          |
+| P3      | 3          |
+Suppose that the processes arrive in the order: P1 , P2 , P3  
+Waiting time for  P1, P2, and P3  = 0，24，27
+Average waiting time = (0+24+27)/3 = 17
+
+## Shortest-Job-First (SJF) Scheduling
+
+Associate with each process the length of its next CPU burst.  Use these lengths to schedule the process with the shortest time.
+![[Pasted image 20231226165753.png]]
+nonpreemptive – once CPU given to the process it cannot be preempted until it completes its CPU burst.
+preemptive – if a new process arrives with CPU burst length less than remaining time of current executing process, preempt.  This scheme is know as the Shortest-Remaining-Time-First (SRTF).
+
+
+Adv:
+SJF is optimal – gives minimum average waiting time for a given set of processes.
+Drawback:
+The real difficulty with the SJF algorithm is knowing the length of the next CPU request.
