@@ -88,5 +88,22 @@ Solutions:
 
 Paging is a technique used to implement virtual memory.
 Virtual Address is a program generated address.
-
+### MMU
 The MMU  (memory management unit) translates a virtual address into a physical address.
+The position and function of the MMU
+![[Pasted image 20231226230627.png]]
+
+
+
+### Page Table 
+The relation between virtual addresses and physical  memory addresses     given by page table
+![[Pasted image 20231226230717.png|250]]
+Example: Virtual address = 4097 = 0001  0000 0000 0001
+                                              Virtual page #   12-bit offset
+The purpose of the page table is to map virtual pages into page frames. The page table is a function to map the virtual page to the page frame.
+
+ Two major issues : 
+1. Page tables may be extremely large (e.g. most computers use) 32-bit address(内存空间4GB) with 4k page size(页面空间4KB), 12-bit offset(4kb的页面空间需要12 bit的offset)
+      => 20 bits for virtual page number
+      =>1 million entries!
+2. The mapping must be fast because it is done on every memory access!!
