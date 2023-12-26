@@ -157,8 +157,11 @@ Solution:
 ![[Pasted image 20231226235440.png]]
 
 ### Inverted Page Table（shared by all process）
+具体见ppt
 - Usually, each process has a page table associated with it. One of drawbacks of this method is that each page table may consist of millions of entries.
 - To solve this problem, an inverted page table can be used. There is one entry for each real page (frame) of memory.
 - Each entry consists of the virtual address of the page stored in that real memory location, with information about the process that owns that page.
 一个page frame 对应一个表项
+![[Pasted image 20231227000601.png]]
+![[Pasted image 20231227000606.png]]
 
