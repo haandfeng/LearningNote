@@ -44,3 +44,17 @@ It cannot be applied to resources such as printers.
 Similar to requesting all resources at once
 ## Non-resource Deadlocks
 ![[Pasted image 20231226215006.png]]
+
+# Memory Management	
+Ideally programmers want memory that is 
+- large
+- fast
+- non volatile
+
+Memory hierarchy 
+- small amount of fast, expensive memory – cache 
+- some medium-speed, medium price main memory
+- gigabytes of slow, cheap disk storage
+
+Memory manager handles the memory hierarchy
+
