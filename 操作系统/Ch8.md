@@ -90,5 +90,20 @@ The basic function of the device-independent software is to perform the ***I/O f
 ### Device Drivers
 Communications between drivers and device controllers goes over the bus; Logical position of device drivers is shown in the following figure.
 ![[Pasted image 20231227175444.png|350]]
+### Interrupt Handlers 
+ Interrupt handlers are best hidden：have driver starting an I/O operation block until interrupt notifies of completion
+ Interrupt procedure does its task，then unblocks driver that started it 
+
+Steps must be performed in software after interrupt completed:
+Save regs not already saved by interrupt hardware
+Set up context for interrupt service procedure
+Set up stack for interrupt service procedure
+Ack interrupt controller, reenable interrupts
+Copy registers from where saved
+Run service procedure 
+Set up MMU context for process to run next
+Load new process' registers
+Start running the new process
+ 
 
 
