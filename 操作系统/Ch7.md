@@ -51,3 +51,22 @@ Inspect R bit:
 ![[Pasted image 20231227095934.png]]
 
 # Least Recently Used (LRU)
+Assume pages used recently will used again soon
+- throw out page that has been unused for longest time
+## Software Solution
+- Must keep a linked list of pages: most recently used at front, least at rear; update this list every memory reference  Too expensive!!
+## Hardware solution
+Equip hardware with a 64 bit counter. 
+- That is incrementing after each instruction. 
+- The counter value is stored in the page table entry of  the page that was just referenced.
+- choose page with lowest value counter
+- periodically zero the counter
+Problem? 
+- page table is very large, become even larger.
+Maintain a matrix of n *x* n bits for a machine with n page frames. 
+ When page frame K is referenced:
+     (i)  Set row K to all 1s.
+     (ii) Set column K to all 0s.
+ The row whose binary value is smallest is the LRU page.
+
+
