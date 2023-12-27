@@ -70,4 +70,17 @@ Interrupt handlers are best hidden, have driver starting an I/O operation block 
 
 Interrupt procedure does its task, then unblocks driver that started it. 
 
+## I/O Using DMA
+Printing a string using DMA
+(a) code executed when the print system call is made
+(b) interrupt service procedure
+![[Pasted image 20231227174953.png]]
+
+## I/O Software Layers
+![[Pasted image 20231227175341.png]]
+
+### Device Drivers
+Communications between drivers and device controllers goes over the bus; Logical position of device drivers is shown in the following figure.
+![[Pasted image 20231227175444.png|350]]
+
 
