@@ -79,6 +79,14 @@ Printing a string using DMA
 ## I/O Software Layers
 ![[Pasted image 20231227175341.png]]
 
+![[Pasted image 20231227194202.png]]
+   Layers of the I/O system and the main functions of each layer
+
+## User IO software
+![[Pasted image 20231227194319.png]]
+### Device-Independent I/O Software
+The basic function of the device-independent software is to perform the ***I/O functions that are common to all devices*** and to provide a uniform interface to the user-level software. 
+![[Pasted image 20231227194540.png]]
 ### Device Drivers
 Communications between drivers and device controllers goes over the bus; Logical position of device drivers is shown in the following figure.
 ![[Pasted image 20231227175444.png|350]]
