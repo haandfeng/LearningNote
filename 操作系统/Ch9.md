@@ -29,5 +29,13 @@ Error checking is done by controllers
 ![[IMG_4719.jpeg]]
 
 ## Redundant Array of Independent Disk(RAID)
+prevent data lost, when disk crush
 Key idea: data are distributed over the drives, to allow parallel operation. 
 ![[Pasted image 20231227221606.png]]
+![[Pasted image 20231227221949.png|250]]
+![[Pasted image 20231227222056.png|250]]
+![[Pasted image 20231227222628.png|250]]
+![[Pasted image 20231227222547.png|250]]
+![[Pasted image 20231227222655.png|250]]
+
+## Error Handling
