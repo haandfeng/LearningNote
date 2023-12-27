@@ -84,4 +84,12 @@ Modified NFU = NFU with Aging - at each clock interrupt:
 	The R bits are added to the leftmost bit.
 	In this way, we can give higher priority to recent R values.
 ![[Pasted image 20231227102742.png]]
+The aging algorithm simulates LRU in software
+Note 6 pages for 5 clock ticks, (a) – (e)
 
+# Working-Set Model
+- Pages are loaded only on demand. This strategy is called demand paging.
+During the phase of execution the process references relatively small fraction of its pages. This is called a locality of reference.
+The set of pages that a process is using currently is called its working set.
+A program causing page faults every few instructions is said to be thrashing.
+Paging systems keep each process’s working set in memory before letting the process run. This approach is called the working set model.
