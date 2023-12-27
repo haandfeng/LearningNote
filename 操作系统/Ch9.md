@@ -20,8 +20,10 @@ Time required to read or write a disk block determined by 3 factors
 3. Actual transfer time
 ***Seek time dominates***
 Error checking is done by controllers
+![[Pasted image 20231227213531.png|400]]
 ### Shortest Seek First, SSF
+可能会starvation， 找离当前最近的磁道
 ![[Pasted image 20231227212746.png]]
-
 ### Elevator Algorithm
+对不同磁道响应不平均
 ![[IMG_4719.jpeg]]
