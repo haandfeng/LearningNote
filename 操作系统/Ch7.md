@@ -128,7 +128,6 @@ A page replacement algorithm is called a stack replacement algorithm if the se
 M is the set of memory array, after each item in reference string is processed，m is the number of page frames, then  M(m)⊆ M(m+1).
 
 
-
 # Local /Global allocation
 
 ## Local versus Global Allocation Policies
@@ -138,3 +137,15 @@ A global algorithm is used to prevent thrashing and keep the paging rate within 
 A：too  high => assign more page frames to the process. 
 B：too  low => assign process fewer page frames.
 ![[Pasted image 20231227115129.png]]
+
+# Page Size
+Small page size
+Advantages: 
+   less internal fragmentation
+
+Disadvantages:
+   programs need many pages  => larger page tables
+![[Pasted image 20231227131841.png]]
+
+# Separate Instruction and Data Spaces
+Most systems separate address spaces for instructions (program text) and data. A process can have two pointers in its process table: one to the instruction page and one to the data page. A shared code can be pointed by two processes.
