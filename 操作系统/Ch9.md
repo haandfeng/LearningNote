@@ -27,3 +27,7 @@ Error checking is done by controllers
 ### Elevator Algorithm
 对不同磁道响应不平均
 ![[IMG_4719.jpeg]]
+
+## Redundant Array of Independent Disk(RAID)
+Key idea: data are distributed over the drives, to allow parallel operation. 
+![[Pasted image 20231227221606.png]]
