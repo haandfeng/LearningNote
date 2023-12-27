@@ -182,3 +182,11 @@ If a page transferring data through the I/O is paged out, it will cause part of 
 
 
 
+
+# Backing Store
+Two approaches to allocate page space on the disk:
+1）Paging to static swap area 
+2）Backing up pages dynamically with a disk map
+
+![[Pasted image 20231227135412.png]]
+(a) Paging to static swap area；    (b) Backing up pages dynamically.

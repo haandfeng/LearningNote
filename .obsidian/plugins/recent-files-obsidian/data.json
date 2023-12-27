@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Ch8",
+      "path": "操作系统/Ch8.md"
+    },
+    {
       "basename": "Ch7",
       "path": "操作系统/Ch7.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2023-09-09",
       "path": "Daily/2023-09-09.md"
-    },
-    {
-      "basename": "2023-09-07",
-      "path": "Daily/2023-09-07.md"
     }
   ],
   "omittedPaths": [],
