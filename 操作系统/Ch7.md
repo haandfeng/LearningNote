@@ -69,4 +69,19 @@ Maintain a matrix of n *x* n bits for a machine with n page frames.
      (ii) Set column K to all 0s.
  The row whose binary value is smallest is the LRU page.
 
+![[Pasted image 20231227102400.png]]
+LRU using a matrix – pages referenced in order 0,1,2,3,2,1,0,3,2,3
+
+
+# Simulating LRU in Software
+LRU hardware is not usually available. NFU (Not Frequently Used) is implemented in software.
+- At each clock interrupt, the R bit is added to the counter associated with each page. When a page fault occurs, the page with the lowest counter is replaced.
+- Difference? Problem?
+ NFU never forgets, so a page referenced frequency long ago may have the highest counter.
+ 
+Modified NFU = NFU with Aging - at each clock interrupt:
+	The counters are shifted right one bit, and
+	The R bits are added to the leftmost bit.
+	In this way, we can give higher priority to recent R values.
+![[Pasted image 20231227102742.png]]
 
