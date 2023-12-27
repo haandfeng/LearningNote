@@ -114,6 +114,19 @@ The basic working set algorithm is expensive. Instead, WSCLock is used in practi
 # Modeling Page Replacement Algorithms
 
 ## Belady’s anomaly:
+只有FIFO会产生
 More page frames might not always have fewer page faults.
 ![[Pasted image 20231227113048.png]]
 
+## Modeling LRU Algorithm
+When a page is referenced, it is always moved to the top entry in pages in memory.
+If the page referenced was already in memory, all pages above it move down one position. Pages that below the referenced page are not moved.
+![[Pasted image 20231227113430.png]]
+
+## Stack Replacement Algorithms
+A page replacement algorithm is called a stack replacement algorithm if the set of pages in a k-frame memory is always a subset of the pages in a (k + 1) frame memory.
+M is the set of memory array, after each item in reference string is processed，m is the number of page frames, then  M(m)⊆ M(m+1).
+
+
+
+# Local versus Global Allocation Policies
