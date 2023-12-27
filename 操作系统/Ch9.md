@@ -97,7 +97,14 @@ Two common types:
 When a mouse has moved a certain minimum distance or a button is depressed or released, a message is sent to the computer. (Dx, Dy, status of buttons)
 
 # Output Software
-## : GUI Windows
+## GUI Windows
+A  GUI (Graphical User Interface) has four essential elements:  Windows, Icons, Menus, and Pointing device.
+## Bitmap
+Copying bitmaps using Bitblt. 
+## Fonts
+Each Truetype Font is defined by a sequence of points around its perimeter. All the points are relative to the (0,0) origin.
+
+
 
 
 
