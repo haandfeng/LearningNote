@@ -106,5 +106,14 @@ Scan the entire page table and evict the page:
 	R = 0, its age is not greater than τ and its age is largest.
 	R = 1, randomly choose a page.
 The basic working set algorithm is expensive. Instead, WSCLock is used in practice.
+具体操作方法见书137
+![[Pasted image 20231227111815.png]]
 
+![[Pasted image 20231227112247.png]]
+
+# Modeling Page Replacement Algorithms
+
+## Belady’s anomaly:
+More page frames might not always have fewer page faults.
+![[Pasted image 20231227113048.png]]
 
