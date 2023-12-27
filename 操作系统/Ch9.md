@@ -64,7 +64,13 @@ Stable storage: the goal is to keep the disk consistent at all costs.
 The probability of the same block going bad on both drivers is negligible.
 
 # Clock in Computer
+## Clock Hardware
+ The crystal oscillator can generate a periodic signal in the range of several hundred MHz. 
+ Two modes: one-shot mode, and square-wave mode.
+ Clock ticks: periodic interrupts caused by the programmable clock.
 
+![[Pasted image 20231227232853.png]]
+![[Pasted image 20231227233036.png]]
 
 
 
