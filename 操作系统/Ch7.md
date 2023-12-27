@@ -148,4 +148,30 @@ Disadvantages:
 ![[Pasted image 20231227131841.png]]
 
 # Separate Instruction and Data Spaces
-Most systems separate address spaces for instructions (program text) and data. A process can have two pointers in its process table: one to the instruction page and one to the data page. A shared code can be pointed by two processes.
+Most systems separate address spaces for instructions (program text) and data. A process can have two pointers in its process table: one to the instruction page and one to the data page.
+A shared code can be pointed by two processes.
+![[Pasted image 20231227132418.png]]
+# Shared Pages
+![[Pasted image 20231227132549.png|300]]
+
+Two processes sharing same program sharing its page table
+
+# Cleaning Policy
+Paging Daemon(分页守护进程):
+- A background process, in sleep state in most of the time;
+- Periodically woken up to inspect state of memory
+- When too few frames are free, selects pages to evict using a replacement algorithm.
+# Page Fault Handling
+1. Hardware traps to kernel
+2. Save general registers
+3. Determines which virtual page needed
+4. Seeks page frame
+5. If the selected frame is dirty(修改了), write it to disk
+6. Brings new page in from disk
+7. Page tables updated
+8. Instruction backed up to when it began 
+9. Faulting process scheduled(调度引发缺页中断的程序)
+10. Registers restored & Program continues
+
+
+
