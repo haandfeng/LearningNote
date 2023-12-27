@@ -10,3 +10,7 @@ Organized into cylinders, tracks, and sectors.
 Cylinder skew: the position of sector 0 on each track is offset from the previous track when the low-level format is laid down. 可以改善性能
 
 
+## Disk Interleaving
+Motivation: when the copy to memory is completed (need some time cost), the controller will have to wait almost an entire rotation time for the second sector to come around again. 
+![[Pasted image 20231227205319.png]]
+(a) No interleaving;          (b) Single interleaving;         (c) Double interleaving.
