@@ -60,5 +60,9 @@ Software running on the CPU uses instructions to perform data transfers to or fr
 
 ## Interrupt-Driven I/O
 Writing a string to the printer using interrupt-driven I/O
-Code executed when print system call is made
-Interrupt service procedure
+1. Code executed when print system call is made
+2. Interrupt service procedure
+![[Pasted image 20231227172535.png]]
+How interrupts happens?
+Connections between devices and interrupt controller actually use interrupt lines on the bus rather than dedicated wires
+
