@@ -129,4 +129,12 @@ M is the set of memory array, after each item in reference string is processed�
 
 
 
-# Local versus Global Allocation Policies
+# Local /Global allocation
+
+## Local versus Global Allocation Policies
+Global algorithms dynamically allocate page frames among all runnable processes. Local algorithms allocate pages for a single process.
+![[IMG_4716.jpeg]]
+A global algorithm is used to prevent thrashing and keep the paging rate within acceptable bounds: 
+A：too  high => assign more page frames to the process. 
+B：too  low => assign process fewer page frames.
+![[Pasted image 20231227115129.png]]

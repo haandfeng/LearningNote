@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Semaphores",
+                "query": "tag:#Local",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -190,6 +191,9 @@
   },
   "active": "16e612e98193e0ce",
   "lastOpenFiles": [
+    "attachment/Pasted image 20231227115129.png",
+    "attachment/Pasted image 20231227115049.png",
+    "attachment/IMG_4716.jpeg",
     "attachment/Pasted image 20231227113430.png",
     "attachment/Pasted image 20231227113048.png",
     "attachment/Pasted image 20231227112247.png",
@@ -198,9 +202,6 @@
     "attachment/Pasted image 20231227102742.png",
     "attachment/Pasted image 20231227102421.png",
     "attachment/Pasted image 20231227102400.png",
-    "attachment/Pasted image 20231227100046.png",
-    "attachment/Pasted image 20231227095934.png",
-    "attachment/Pasted image 20231227095918.png",
     "操作系统/Ch7.md",
     "Ch6.md",
     "操作系统/Ch5.md",
