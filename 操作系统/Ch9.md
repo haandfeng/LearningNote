@@ -72,5 +72,33 @@ The probability of the same block going bad on both drivers is negligible.
 ![[Pasted image 20231227232853.png]]
 ![[Pasted image 20231227233036.png]]
 
+## Clock Software
+The functions of clock driver
+- Maintaining the time of day.
+- Preventing processes from running too long.
+- Handling the alarm system calls (e.g., ACK).
+- Others.
+![[Pasted image 20231227233418.png]]
+Three ways to maintain the time of day.
+
+
+
+
+# Input Software
+## Keyboard
+An interrupt is generated when a key is pressed or released. 
+The key board driver extracts the Scan code from the I/O port, and translates it to ASCII code.
+Two modes: canonical(规范) mode, Non-canonical mode.
+## Mouse Software
+Two common types: 
+- Mouse with a rubber ball
+- Optical mouse 
+
+When a mouse has moved a certain minimum distance or a button is depressed or released, a message is sent to the computer. (Dx, Dy, status of buttons)
+
+# Output Software
+## : GUI Windows
+
+
 
 
