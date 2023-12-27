@@ -51,3 +51,14 @@ Three approaches:
 1. Each control register is assigned an I/O port number.
 2. All the control registers are mapped into the memory space. This is called memory-mapped I/O.
 3. Mapping I/O data buffers into memory space but separating I/O ports from memory
+## Programmed I/O
+A method of transferring data between the CPU and a peripheral.
+Software running on the CPU uses instructions to perform data transfers to or from an I/O device. 
+见书p211
+![[Pasted image 20231227164620.png]]
+![[Pasted image 20231227165522.png]]
+
+## Interrupt-Driven I/O
+Writing a string to the printer using interrupt-driven I/O
+Code executed when print system call is made
+Interrupt service procedure
