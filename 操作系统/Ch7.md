@@ -89,7 +89,22 @@ Note 6 pages for 5 clock ticks, (a) – (e)
 
 # Working-Set Model
 - Pages are loaded only on demand. This strategy is called demand paging.
-During the phase of execution the process references relatively small fraction of its pages. This is called a locality of reference.
-The set of pages that a process is using currently is called its working set.
-A program causing page faults every few instructions is said to be thrashing.
-Paging systems keep each process’s working set in memory before letting the process run. This approach is called the working set model.
+- During the phase of execution the process references relatively small fraction of its pages. This is called a locality of reference.
+- The set of pages that a process is using currently is called its ***working set.***
+- A program causing page faults every few instructions is said to be thrashing.
+- Paging systems keep each process’s working set in memory before letting the process run. This approach is called the ***working set model.***
+- Loading the pages before letting processes run is called ***pre paging***.
+- The working set is the set of pages used by the k most recent memory references, w(k,t) is the size of the working set at time  t.
+![[Pasted image 20231227110628.png]]
+
+The idea is to examine the most recent page references. Evict a page that is not in the working set.
+
+The working set of a process is the set of pages it has referenced during the past τ seconds of virtual time (the amount of CPU time a process has actually used).
+
+Scan the entire page table and evict the page:
+	R= 0, its age is greater than τ.
+	R = 0, its age is not greater than τ and its age is largest.
+	R = 1, randomly choose a page.
+The basic working set algorithm is expensive. Instead, WSCLock is used in practice.
+
+
