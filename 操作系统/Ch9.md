@@ -21,3 +21,7 @@ Time required to read or write a disk block determined by 3 factors
 ***Seek time dominates***
 Error checking is done by controllers
 ### Shortest Seek First, SSF
+![[Pasted image 20231227212746.png]]
+
+### Elevator Algorithm
+![[IMG_4719.jpeg]]
