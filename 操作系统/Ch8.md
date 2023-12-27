@@ -39,3 +39,15 @@ I/O devices cover a huge range in speeds
 1. Mechanical component ;
 2. Electronic component：i.e., device controller
 
+
+
+## Device Controllers
+A device controller is a part of a computer system that makes sense of the signals going to, and coming from the CPU. 
+
+Each device controller has a local buffer and some registers. It communicates with the CPU by interrupts. A device's controller plays as a bridge between the device and the operating system.
+
+## Memory-Mapped I/O
+Three approaches:
+1. Each control register is assigned an I/O port number.
+2. All the control registers are mapped into the memory space. This is called memory-mapped I/O.
+3. Mapping I/O data buffers into memory space but separating I/O ports from memory
