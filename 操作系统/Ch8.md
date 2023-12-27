@@ -65,4 +65,9 @@ Writing a string to the printer using interrupt-driven I/O
 ![[Pasted image 20231227172535.png]]
 How interrupts happens?
 Connections between devices and interrupt controller actually use interrupt lines on the bus rather than dedicated wires
+### Interrupt Handlers
+Interrupt handlers are best hidden, have driver starting an I/O operation block until interrupt notifies of completion
+
+Interrupt procedure does its task, then unblocks driver that started it. 
+
 
