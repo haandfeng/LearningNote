@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e6daa3c72baa0732",
+        "id": "41ece24ba62b8efd",
         "type": "tabs",
         "children": [
           {
-            "id": "16e612e98193e0ce",
+            "id": "126d8928444bcaa8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/Ch9.md",
+                "file": "操作系统/Ch10.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5a22bf979ae2ada9",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/Ch9.md",
+                "file": "操作系统/Ch10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/Ch9.md",
+                "file": "操作系统/Ch10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/Ch9.md"
+                "file": "操作系统/Ch10.md"
               }
             }
           },
@@ -188,8 +187,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "16e612e98193e0ce",
+  "active": "126d8928444bcaa8",
   "lastOpenFiles": [
+    "attachment/Pasted image 20231228001550.png",
+    "算法笔记/zuoAlgorithm/000. 学习大纲/__算法数据结构体系学习班题目汇总.md",
+    "Gre/阅读/GRE阅读题型.md",
+    "操作系统/Ch10.md",
+    "操作系统/Ch9.md",
     "attachment/Pasted image 20231227233418.png",
     "attachment/Pasted image 20231227233036.png",
     "attachment/Pasted image 20231227232853.png",
@@ -200,9 +204,7 @@
     "attachment/Pasted image 20231227222547.png",
     "attachment/Pasted image 20231227222056.png",
     "attachment/Pasted image 20231227221949.png",
-    "attachment/Pasted image 20231227221847.png",
     "操作系统/Ch8.md",
-    "操作系统/Ch9.md",
     "操作系统/Ch7.md",
     "Ch6.md",
     "操作系统/Ch5.md",
@@ -220,15 +222,12 @@
     "Java",
     "第24章_Servlet.md",
     "操作系统.md",
-    "Gre/阅读/GRE阅读题型.md",
     "Gre/阅读/GRE阅读刷题笔记.md",
     "Gre/阅读/逻辑单题.md",
     "Gre/阅读/推断题.md",
     "Gre/阅读/信息目的题.md",
     "Gre/阅读/句子作用题.md",
     "Gre/阅读/态度题.md",
-    "Gre/阅读/事实信息题.md",
-    "Gre/阅读/可多选题.md",
     "未命名.canvas",
     "Users/ha/Library/Containers/com.tencent.xinWeChat/Data/Library",
     "Users/ha/Library/Containers/com.tencent.xinWeChat/Data",

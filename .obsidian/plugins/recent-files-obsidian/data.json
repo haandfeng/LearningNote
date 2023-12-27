@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Ch10",
+      "path": "操作系统/Ch10.md"
+    },
+    {
+      "basename": "__算法数据结构体系学习班题目汇总",
+      "path": "算法笔记/zuoAlgorithm/000. 学习大纲/__算法数据结构体系学习班题目汇总.md"
+    },
+    {
+      "basename": "GRE阅读题型",
+      "path": "Gre/阅读/GRE阅读题型.md"
+    },
+    {
       "basename": "Ch9",
       "path": "操作系统/Ch9.md"
     },
@@ -79,10 +91,6 @@
     {
       "basename": "操作系统",
       "path": "操作系统.md"
-    },
-    {
-      "basename": "GRE阅读题型",
-      "path": "Gre/阅读/GRE阅读题型.md"
     },
     {
       "basename": "GRE阅读刷题笔记",
@@ -191,14 +199,6 @@
     {
       "basename": "2023-09-14",
       "path": "Daily/2023-09-14.md"
-    },
-    {
-      "basename": "2023-09-12",
-      "path": "Daily/2023-09-12.md"
-    },
-    {
-      "basename": "李沐AI",
-      "path": "李沐AI.md"
     }
   ],
   "omittedPaths": [],
