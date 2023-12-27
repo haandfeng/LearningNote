@@ -172,6 +172,13 @@ Paging Daemon(分页守护进程):
 8. Instruction backed up to when it began 
 9. Faulting process scheduled(调度引发缺页中断的程序)
 10. Registers restored & Program continues
+![[Pasted image 20231227134326.png|300]]
+
+Process issues call for read from device into buffer
+- while waiting for  I/O, another process starts up
+- has a page fault
+- buffer for the first process may be chosen to be paged out
+If a page transferring data through the I/O is paged out, it will cause part of the data in buffer and part in the newly loaded page. In this case, the page need to be locked (pinning).
 
 
 
