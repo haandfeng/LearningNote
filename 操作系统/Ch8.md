@@ -26,3 +26,16 @@ Allows each table to grow or shrink, independently.
 ![[Pasted image 20231227143933.png]]
 
 
+# I/O Device
+
+Two common kinds of I/O devices:
+1. Block device: stores information in fixed-size blocks.
+2. Character device：delivers or accepts a stream of characters, without regard to any block structure.
+- Special device: e.g., clocks.
+
+I/O devices cover a huge range in speeds
+
+## Components of I/O devices: 
+1. Mechanical component ;
+2. Electronic component：i.e., device controller
+
