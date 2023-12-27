@@ -22,3 +22,5 @@ Allows each table to grow or shrink, independently.
 ![[Pasted image 20231227143317.png]]
 段表和页表的对应关系，一个进程== 1 段表，>=1页表
 ![[Pasted image 20231227143419.png]]
+
+![[Pasted image 20231227143933.png]]
