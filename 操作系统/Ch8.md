@@ -24,3 +24,5 @@ Allows each table to grow or shrink, independently.
 ![[Pasted image 20231227143419.png]]
 
 ![[Pasted image 20231227143933.png]]
+
+
