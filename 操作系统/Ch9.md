@@ -80,10 +80,6 @@ The functions of clock driver
 - Others.
 ![[Pasted image 20231227233418.png]]
 Three ways to maintain the time of day.
-
-
-
-
 # Input Software
 ## Keyboard
 An interrupt is generated when a key is pressed or released. 

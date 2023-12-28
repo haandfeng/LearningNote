@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/Ch9.md",
+                "file": "操作系统/Ch10.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/Ch9.md",
+                "file": "操作系统/Ch10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/Ch9.md",
+                "file": "操作系统/Ch10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/Ch9.md"
+                "file": "操作系统/Ch10.md"
               }
             }
           },
@@ -189,6 +189,7 @@
   },
   "active": "126d8928444bcaa8",
   "lastOpenFiles": [
+    "操作系统/Ch9.md",
     "操作系统/Ch8.md",
     "attachment/Pasted image 20231228144853.png",
     "attachment/Pasted image 20231228144800.png",
@@ -197,7 +198,6 @@
     "attachment/Pasted image 20231228144226.png",
     "attachment/Pasted image 20231228144114.png",
     "attachment/Pasted image 20231228143443.png",
-    "操作系统/Ch9.md",
     "attachment/Pasted image 20231228143140.png",
     "attachment/Pasted image 20231228141348.png",
     "attachment/Pasted image 20231228141120.png",
