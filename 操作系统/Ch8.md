@@ -57,6 +57,8 @@ Software running on the CPU uses instructions to perform data transfers to or fr
 ![[Pasted image 20231227164620.png]]
 ![[Pasted image 20231227165522.png]]
 ![[Pasted image 20231228140025.png]]
+
+每次读写一个字
 ![[Pasted image 20231228140207.png|400]]
 
 ## Interrupt-Driven I/O
@@ -64,18 +66,22 @@ Writing a string to the printer using interrupt-driven I/O
 1. Code executed when print system call is made
 2. Interrupt service procedure
 ![[Pasted image 20231227172535.png]]
+每次读写一个字
+![[Pasted image 20231228140605.png]]
 How interrupts happens?
 Connections between devices and interrupt controller actually use interrupt lines on the bus rather than dedicated wires
-### Interrupt Handlers
-Interrupt handlers are best hidden, have driver starting an I/O operation block until interrupt notifies of completion
 
-Interrupt procedure does its task, then unblocks driver that started it. 
 
 ## I/O Using DMA
 Printing a string using DMA
 (a) code executed when the print system call is made
 (b) interrupt service procedure
 ![[Pasted image 20231227174953.png]]
+
+![[Pasted image 20231228141120.png]]
+数据不经过cpu
+![[Pasted image 20231228141348.png]]
+
 
 ## I/O Software Layers
 ![[Pasted image 20231227175341.png]]
