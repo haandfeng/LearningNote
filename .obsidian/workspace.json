@@ -73,13 +73,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5a22bf979ae2ada9",
@@ -191,11 +189,12 @@
   },
   "active": "126d8928444bcaa8",
   "lastOpenFiles": [
+    "操作系统/Ch11.md",
+    "attachment/Pasted image 20231228183108.png",
+    "操作系统/Ch10.md",
     "attachment/Pasted image 20231228165020.png",
     "attachment/Pasted image 20231228162331.png",
     "attachment/Pasted image 20231228162225.png",
-    "操作系统/Ch11.md",
-    "操作系统/Ch10.md",
     "操作系统/Ch9.md",
     "操作系统/Ch8.md",
     "attachment/Pasted image 20231228144853.png",
@@ -204,8 +203,6 @@
     "attachment/Pasted image 20231228144543.png",
     "attachment/Pasted image 20231228144226.png",
     "attachment/Pasted image 20231228144114.png",
-    "attachment/Pasted image 20231228143443.png",
-    "attachment/Pasted image 20231228143140.png",
     "操作系统/Ch7.md",
     "算法笔记/zuoAlgorithm/000. 学习大纲/__算法数据结构体系学习班题目汇总.md",
     "Gre/阅读/GRE阅读题型.md",
