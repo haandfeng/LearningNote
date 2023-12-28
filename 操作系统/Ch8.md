@@ -91,15 +91,20 @@ Printing a string using DMA
 ![[Pasted image 20231227194202.png]]
    Layers of the I/O system and the main functions of each layer
 
-## User IO software
+### User IO software
 ![[Pasted image 20231227194319.png]]
+![[Pasted image 20231228143443.png]]
 ### Device-Independent I/O Software
 The basic function of the device-independent software is to perform the ***I/O functions that are common to all devices*** and to provide a uniform interface to the user-level software. 
+
 ![[Pasted image 20231227194540.png]]
+![[Pasted image 20231228144114.png]]
 ### Device Drivers
 Communications between drivers and device controllers goes over the bus; Logical position of device drivers is shown in the following figure.
+![[Pasted image 20231228144226.png]]
 ![[Pasted image 20231227175444.png|350]]
 ### Interrupt Handlers 
+
  Interrupt handlers are best hidden：have driver starting an I/O operation block until interrupt notifies of completion
  Interrupt procedure does its task，then unblocks driver that started it 
 
@@ -114,5 +119,5 @@ Set up MMU context for process to run next
 Load new process' registers
 Start running the new process
  
-
+![[Pasted image 20231228144545.png]]
 
