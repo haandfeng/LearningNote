@@ -73,11 +73,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5a22bf979ae2ada9",
@@ -189,6 +191,8 @@
   },
   "active": "126d8928444bcaa8",
   "lastOpenFiles": [
+    "attachment/Pasted image 20231228162331.png",
+    "attachment/Pasted image 20231228162225.png",
     "操作系统/Ch11.md",
     "操作系统/Ch10.md",
     "操作系统/Ch9.md",
@@ -202,7 +206,6 @@
     "attachment/Pasted image 20231228143443.png",
     "attachment/Pasted image 20231228143140.png",
     "attachment/Pasted image 20231228141348.png",
-    "attachment/Pasted image 20231228141120.png",
     "操作系统/Ch7.md",
     "算法笔记/zuoAlgorithm/000. 学习大纲/__算法数据结构体系学习班题目汇总.md",
     "Gre/阅读/GRE阅读题型.md",
@@ -227,7 +230,6 @@
     "Gre/阅读/推断题.md",
     "Gre/阅读/信息目的题.md",
     "Gre/阅读/句子作用题.md",
-    "Gre/阅读/态度题.md",
     "未命名.canvas",
     "Users/ha/Library/Containers/com.tencent.xinWeChat/Data/Library",
     "Users/ha/Library/Containers/com.tencent.xinWeChat/Data",
