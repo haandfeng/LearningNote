@@ -86,7 +86,7 @@ Printing a string using DMA
 ## I/O Software Layers
 ![[Pasted image 20231227175341.png]]
 中间三层再操作系统里面
-![[Pasted image 20231228143140.png]]
+![[Pasted image 20231228144853.png]]
 
 ![[Pasted image 20231227194202.png]]
    Layers of the I/O system and the main functions of each layer
@@ -119,5 +119,5 @@ Set up MMU context for process to run next
 Load new process' registers
 Start running the new process
  
-![[Pasted image 20231228144545.png]]
+![[Pasted image 20231228144800.png]]
 
