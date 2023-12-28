@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/Ch10.md",
+                "file": "操作系统/Ch12.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5a22bf979ae2ada9",
@@ -107,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/Ch11.md",
+                "file": "操作系统/Ch12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/Ch11.md",
+                "file": "操作系统/Ch12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/Ch11.md"
+                "file": "操作系统/Ch12.md"
               }
             }
           },
@@ -201,8 +199,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "126d8928444bcaa8",
+  "active": "a6daf90ee811b363",
   "lastOpenFiles": [
+    "操作系统/Ch10.md",
+    "操作系统/Ch12.md",
+    "操作系统/Ch11.md",
     "attachment/Pasted image 20231228214217.png",
     "attachment/Pasted image 20231228213420.png",
     "attachment/Pasted image 20231228213415.png",
@@ -213,9 +214,6 @@
     "attachment/Pasted image 20231228185919.png",
     "attachment/Pasted image 20231228184336.png",
     "attachment/Pasted image 20231228183623.png",
-    "attachment/Pasted image 20231228183620.png",
-    "操作系统/Ch10.md",
-    "操作系统/Ch11.md",
     "操作系统/Ch9.md",
     "操作系统/Ch8.md",
     "操作系统/Ch7.md",
