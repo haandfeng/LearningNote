@@ -42,7 +42,9 @@ I/O devices cover a huge range in speeds
 A device controller is a part of a computer system that makes sense of the signals going to, and coming from the CPU. 
 
 Each device controller has a local buffer and some registers. It communicates with the CPU by interrupts. A device's controller plays as a bridge between the device and the operating system.
-
+![[Pasted image 20231228134856.png]]
+控制过程
+![[Pasted image 20231228135639.png]]
 ## Memory-Mapped I/O
 Three approaches:
 1. Each control register is assigned an I/O port number.
@@ -54,6 +56,8 @@ Software running on the CPU uses instructions to perform data transfers to or fr
 见书p211
 ![[Pasted image 20231227164620.png]]
 ![[Pasted image 20231227165522.png]]
+![[Pasted image 20231228140025.png]]
+![[Pasted image 20231228140207.png|400]]
 
 ## Interrupt-Driven I/O
 Writing a string to the printer using interrupt-driven I/O
