@@ -5,6 +5,10 @@
       "path": "操作系统/Ch10.md"
     },
     {
+      "basename": "Ch11",
+      "path": "操作系统/Ch11.md"
+    },
+    {
       "basename": "Ch9",
       "path": "操作系统/Ch9.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2023-09-16",
       "path": "Daily/2023-09-16.md"
-    },
-    {
-      "basename": "2023-09-14",
-      "path": "Daily/2023-09-14.md"
     }
   ],
   "omittedPaths": [],
