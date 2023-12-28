@@ -85,6 +85,8 @@ Printing a string using DMA
 
 ## I/O Software Layers
 ![[Pasted image 20231227175341.png]]
+中间三层再操作系统里面
+![[Pasted image 20231228143140.png]]
 
 ![[Pasted image 20231227194202.png]]
    Layers of the I/O system and the main functions of each layer
