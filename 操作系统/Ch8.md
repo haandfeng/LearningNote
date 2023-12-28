@@ -37,10 +37,7 @@ I/O devices cover a huge range in speeds
 
 ## Components of I/O devices: 
 1. Mechanical component ;
-2. Electronic component：i.e., device controller
-
-
-
+2. Electronic component：i.e., device controller ![[截屏2023-12-28 12.39.12.png]]
 ## Device Controllers
 A device controller is a part of a computer system that makes sense of the signals going to, and coming from the CPU. 
 
