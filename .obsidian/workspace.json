@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "41ece24ba62b8efd",
+        "id": "5ab803429087b61a",
         "type": "tabs",
         "children": [
           {
-            "id": "126d8928444bcaa8",
+            "id": "15faaf8aab1c8bb1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/Ch12.md",
+                "file": "操作系统/Ch13.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Local",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/Ch12.md",
+                "file": "操作系统/Ch13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/Ch12.md",
+                "file": "操作系统/Ch13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/Ch12.md"
+                "file": "操作系统/Ch13.md"
               }
             }
           },
@@ -188,8 +189,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "126d8928444bcaa8",
+  "active": "15faaf8aab1c8bb1",
   "lastOpenFiles": [
+    "操作系统/Ch13.md",
+    "操作系统/Ch12.md",
+    "attachment/Pasted image 20231229113012.png",
+    "attachment/Pasted image 20231229112808.png",
     "attachment/Pasted image 20231229112244.png",
     "attachment/Pasted image 20231229112043.png",
     "attachment/Pasted image 20231229111744.png",
@@ -198,14 +203,10 @@
     "attachment/Pasted image 20231229111429.png",
     "attachment/Pasted image 20231229111409.png",
     "attachment/Pasted image 20231229110617.png",
-    "attachment/Pasted image 20231229110544.png",
-    "attachment/Pasted image 20231229110531.png",
-    "attachment/Pasted image 20231229104711.png",
     "操作系统/Ch11.md",
     "操作系统/Ch9.md",
     "操作系统/Ch8.md",
     "操作系统/Ch10.md",
-    "操作系统/Ch12.md",
     "操作系统/Ch7.md",
     "算法笔记/zuoAlgorithm/000. 学习大纲/__算法数据结构体系学习班题目汇总.md",
     "Gre/阅读/GRE阅读题型.md",

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Ch13",
+      "path": "操作系统/Ch13.md"
+    },
+    {
       "basename": "Ch12",
       "path": "操作系统/Ch12.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "指代重复",
       "path": "Gre/填空/指代重复.md"
-    },
-    {
-      "basename": "2023-09-19",
-      "path": "Daily/2023-09-19.md"
     }
   ],
   "omittedPaths": [],
