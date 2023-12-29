@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/Ch1.md",
+                "file": "操作系统/Ch2.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/Ch1.md",
+                "file": "操作系统/Ch2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/Ch1.md",
+                "file": "操作系统/Ch2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/Ch1.md"
+                "file": "操作系统/Ch2.md"
               }
             }
           },
@@ -189,11 +189,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "3391255f1f807940",
+  "active": "ab3df9bd0138c1ec",
   "lastOpenFiles": [
+    "操作系统/Ch1.md",
     "attachment/Pasted image 20231229223436.png",
     "操作系统/Ch2.md",
-    "操作系统/Ch1.md",
     "操作系统/Ch13.md",
     "attachment/Pasted image 20231229191715.png",
     "attachment/Pasted image 20231229191708.png",
@@ -205,7 +205,6 @@
     "attachment/Pasted image 20231229133639.png",
     "attachment/Pasted image 20231229133636.png",
     "操作系统/Ch12.md",
-    "attachment/Pasted image 20231229113012.png",
     "操作系统/Ch11.md",
     "操作系统/Ch9.md",
     "操作系统/Ch8.md",
