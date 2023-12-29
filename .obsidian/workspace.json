@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5ab803429087b61a",
+        "id": "ffb7050d8e52d63a",
         "type": "tabs",
         "children": [
           {
-            "id": "15faaf8aab1c8bb1",
+            "id": "3391255f1f807940",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "操作系统/Ch13.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -95,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/Ch13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +107,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/Ch13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "操作系统/Ch13.md"
-              }
+              "state": {}
             }
           },
           {
@@ -191,8 +183,9 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "15faaf8aab1c8bb1",
+  "active": "3391255f1f807940",
   "lastOpenFiles": [
+    "操作系统/Ch13.md",
     "attachment/Pasted image 20231229191715.png",
     "attachment/Pasted image 20231229191708.png",
     "attachment/Pasted image 20231229191640.png",
@@ -202,10 +195,8 @@
     "attachment/Pasted image 20231229133654.png",
     "attachment/Pasted image 20231229133639.png",
     "attachment/Pasted image 20231229133636.png",
-    "操作系统/Ch13.md",
     "操作系统/Ch12.md",
     "attachment/Pasted image 20231229113012.png",
-    "attachment/Pasted image 20231229112808.png",
     "操作系统/Ch11.md",
     "操作系统/Ch9.md",
     "操作系统/Ch8.md",
