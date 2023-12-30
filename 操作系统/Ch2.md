@@ -78,8 +78,6 @@ Some items are shared by all threads in a process, while some items are private 
 2. **Resource Sharing**: threads share the memory and the resources of the process.
 3. Economy: threads are easy to create and destroy.
 4. Utilization of MP (multiprocessor) Architectures: threads are useful on multiple CPU systems.
-
-
 ## Thread  vs. Process
 1. A thread – lightweight process, a basic unit of CPU utilization.
 2. It comprises a thread ID, a program counter, a register set, and a stack.
@@ -87,8 +85,6 @@ Some items are shared by all threads in a process, while some items are private 
 4. If the process has multiple threads of control, it can do more than one task at a time. This situation is called multithreading.
 5. Process：used to group resources together;
     Thread：the entity scheduled for execution on the CPU.
-
-
 ## POSIX Threads
 POSIX (Portable Operating System Interface) is a set of standard operating system interfaces based on the Unix operating system. 
 The need for standardization arose because enterprises using computers wanted to be able to develop programs that could be moved among different manufacturer's computer systems directly. 
