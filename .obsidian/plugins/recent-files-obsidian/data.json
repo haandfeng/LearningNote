@@ -5,6 +5,10 @@
       "path": "操作系统/Ch5.md"
     },
     {
+      "basename": "Ch7",
+      "path": "操作系统/Ch7.md"
+    },
+    {
       "basename": "Ch3",
       "path": "操作系统/Ch3.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "Ch10",
       "path": "操作系统/Ch10.md"
-    },
-    {
-      "basename": "Ch7",
-      "path": "操作系统/Ch7.md"
     },
     {
       "basename": "__算法数据结构体系学习班题目汇总",
