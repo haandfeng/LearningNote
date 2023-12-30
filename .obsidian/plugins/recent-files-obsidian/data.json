@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Ch4",
-      "path": "操作系统/Ch4.md"
+      "basename": "Ch5",
+      "path": "操作系统/Ch5.md"
     },
     {
       "basename": "Ch3",
       "path": "操作系统/Ch3.md"
+    },
+    {
+      "basename": "Ch4",
+      "path": "操作系统/Ch4.md"
     },
     {
       "basename": "Ch2",
@@ -67,10 +71,6 @@
     {
       "basename": "Ch6",
       "path": "Ch6.md"
-    },
-    {
-      "basename": "Ch5",
-      "path": "操作系统/Ch5.md"
     },
     {
       "basename": "Testing",
