@@ -32,13 +32,6 @@ Advantage?
 - easy to implement
 Disadvantage?
 - page in memory the longest (perhaps often used) may be evicted
-
-
-
-
-
-
-
 # Second Chance Page Replacement Algorithm
 ![[Pasted image 20231227095835.png]]
 Inspect R bit:
