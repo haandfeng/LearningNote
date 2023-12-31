@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ffb7050d8e52d63a",
+        "id": "faf77f0db22332b5",
         "type": "tabs",
         "children": [
           {
-            "id": "3391255f1f807940",
+            "id": "51f9226e40f679cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/Ch7.md",
+                "file": "操作系统/Ch9.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5a22bf979ae2ada9",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/Ch7.md",
+                "file": "操作系统/Ch9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/Ch7.md",
+                "file": "操作系统/Ch9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/Ch7.md"
+                "file": "操作系统/Ch9.md"
               }
             }
           },
@@ -190,10 +189,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "3391255f1f807940",
+  "active": "51f9226e40f679cd",
   "lastOpenFiles": [
-    "操作系统/Ch5.md",
     "操作系统/Ch7.md",
+    "操作系统/Ch5.md",
     "操作系统/Ch3.md",
     "操作系统/Ch4.md",
     "操作系统/Ch2.md",
