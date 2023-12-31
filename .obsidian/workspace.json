@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/Ch10.md",
+                "file": "操作系统/Ch11.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/Ch10.md",
+                "file": "操作系统/Ch11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/Ch10.md",
+                "file": "操作系统/Ch11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/Ch10.md"
+                "file": "操作系统/Ch11.md"
               }
             }
           },
@@ -191,6 +191,7 @@
   },
   "active": "51f9226e40f679cd",
   "lastOpenFiles": [
+    "操作系统/Ch10.md",
     "操作系统/Ch9.md",
     "操作系统/Ch7.md",
     "操作系统/Ch5.md",
@@ -212,7 +213,6 @@
     "操作系统/Ch12.md",
     "操作系统/Ch11.md",
     "操作系统/Ch8.md",
-    "操作系统/Ch10.md",
     "算法笔记/zuoAlgorithm/000. 学习大纲/__算法数据结构体系学习班题目汇总.md",
     "Gre/阅读/GRE阅读题型.md",
     "Ch6.md",
