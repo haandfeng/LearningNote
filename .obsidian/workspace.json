@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e459ce7caf8db22e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "单词默写.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4051a3cf1b3eb29a",
             "type": "leaf",
             "state": {
@@ -30,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "10c511d9304e8782",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "问题.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -227,7 +202,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "ab3df9bd0138c1ec",
+  "active": "4051a3cf1b3eb29a",
   "lastOpenFiles": [
     "单词默写.md",
     "精读方法.md",
