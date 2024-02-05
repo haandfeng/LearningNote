@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "问题",
-      "path": "问题.md"
+      "basename": "精读方法",
+      "path": "精读方法.md"
     },
     {
       "basename": "单词默写",
       "path": "单词默写.md"
+    },
+    {
+      "basename": "问题",
+      "path": "问题.md"
     },
     {
       "basename": "Ch11",
@@ -195,10 +199,6 @@
     {
       "basename": "截屏2023-10-03 21.56.25",
       "path": "attachment/截屏2023-10-03 21.56.25.png"
-    },
-    {
-      "basename": "截屏2023-10-03 21.57.22",
-      "path": "attachment/截屏2023-10-03 21.57.22.png"
     }
   ],
   "omittedPaths": [],
