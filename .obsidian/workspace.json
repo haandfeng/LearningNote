@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "托福写作.md",
+                "file": "写作句法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "托福写作.md",
+                "file": "写作句法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "托福写作.md"
+                "file": "写作句法.md"
               }
             }
           },
@@ -206,11 +207,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "b2db856998c68e73",
+  "active": "74143ee54332a643",
   "lastOpenFiles": [
+    "托福写作.md",
     "attachment/Pasted image 20240213135047.png",
     "精读方法.md",
-    "托福写作.md",
     "写作句法.md",
     "attachment/Pasted image 20240213133706.png",
     "attachment/Pasted image 20240213133038.png",
@@ -233,7 +234,6 @@
     "attachment/Pasted image 20231229191708.png",
     "attachment/Pasted image 20231229191640.png",
     "attachment/Pasted image 20231229191300.png",
-    "attachment/Pasted image 20231229133942.png",
     "操作系统/Ch12.md",
     "操作系统/Ch8.md",
     "算法笔记/zuoAlgorithm/000. 学习大纲/__算法数据结构体系学习班题目汇总.md",
