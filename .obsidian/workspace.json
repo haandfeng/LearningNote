@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "托福写作.md",
+                "file": "精读方法.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5a22bf979ae2ada9",
@@ -111,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "写作句法.md",
+                "file": "精读方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "写作句法.md",
+                "file": "精读方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "写作句法.md"
+                "file": "精读方法.md"
               }
             }
           },
@@ -207,7 +205,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "74143ee54332a643",
+  "active": "b2db856998c68e73",
   "lastOpenFiles": [
     "托福写作.md",
     "写作句法.md",
