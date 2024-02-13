@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "托福写作.md",
+                "file": "精读方法.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,6 +88,14 @@
               "type": "recent-files",
               "state": {}
             }
+          },
+          {
+            "id": "882d4af5d1d2771a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -110,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "写作句法.md",
+                "file": "精读方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "写作句法.md",
+                "file": "精读方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "写作句法.md"
+                "file": "精读方法.md"
               }
             }
           },
@@ -206,8 +213,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "74143ee54332a643",
+  "active": "b2db856998c68e73",
   "lastOpenFiles": [
+    "attachment/Screenshot 2024-02-13 at 23.22.44.png",
+    "操作系统.md",
     "托福写作.md",
     "写作句法.md",
     "精读方法.md",
@@ -244,7 +253,6 @@
     "软件工程/软件工程.md",
     "软件工程",
     "Java/Servlet.md",
-    "README.md",
     "Java",
     "未命名.canvas",
     "Users/ha/Library/Containers/com.tencent.xinWeChat/Data/Library",
