@@ -9,6 +9,10 @@
       "path": "精读方法.md"
     },
     {
+      "basename": "写作句法",
+      "path": "写作句法.md"
+    },
+    {
       "basename": "单词默写",
       "path": "单词默写.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20231004120251",
       "path": "attachment/Pasted image 20231004120251.png"
-    },
-    {
-      "basename": "截屏2023-10-03 21.55.25",
-      "path": "attachment/截屏2023-10-03 21.55.25.png"
     }
   ],
   "omittedPaths": [],
