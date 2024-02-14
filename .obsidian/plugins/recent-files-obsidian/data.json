@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "练习方法",
-      "path": "练习方法.md"
-    },
-    {
       "basename": "QA",
       "path": "QA.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Linux",
+      "path": "Linux.md"
+    },
+    {
+      "basename": "Ch6",
+      "path": "操作系统/Ch6.md"
+    },
+    {
+      "basename": "练习方法",
+      "path": "练习方法.md"
     },
     {
       "basename": "写作句法",
@@ -101,10 +113,6 @@
       "path": "attachment/Pasted image 20231227142636.png"
     },
     {
-      "basename": "Ch6",
-      "path": "Ch6.md"
-    },
-    {
       "basename": "Testing",
       "path": "软件工程/Testing.md"
     },
@@ -127,10 +135,6 @@
     {
       "basename": "截屏2023-11-13 21.57.57",
       "path": "attachment/截屏2023-11-13 21.57.57.png"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "GRE阅读刷题笔记",
@@ -171,10 +175,6 @@
     {
       "basename": "词汇题",
       "path": "Gre/阅读/词汇题.md"
-    },
-    {
-      "basename": "Linux",
-      "path": "Linux.md"
     },
     {
       "basename": "主旨题",
