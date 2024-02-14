@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b2db856998c68e73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "精读方法.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "74143ee54332a643",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "写作句法.md",
+                "file": "练习方法.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "精读方法.md",
+                "file": "练习方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "精读方法.md",
+                "file": "练习方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "精读方法.md"
+                "file": "练习方法.md"
               }
             }
           },
@@ -213,13 +201,14 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "b2db856998c68e73",
+  "active": "ab3df9bd0138c1ec",
   "lastOpenFiles": [
+    "写作句法.md",
+    "精读方法.md",
+    "练习方法.md",
     "attachment/Screenshot 2024-02-13 at 23.22.44.png",
     "操作系统.md",
     "托福写作.md",
-    "写作句法.md",
-    "精读方法.md",
     "attachment/Pasted image 20240213135047.png",
     "attachment/Pasted image 20240213133706.png",
     "attachment/Pasted image 20240213133038.png",
@@ -241,7 +230,6 @@
     "attachment/Pasted image 20231229191715.png",
     "attachment/Pasted image 20231229191708.png",
     "attachment/Pasted image 20231229191640.png",
-    "attachment/Pasted image 20231229191300.png",
     "操作系统/Ch12.md",
     "操作系统/Ch8.md",
     "算法笔记/zuoAlgorithm/000. 学习大纲/__算法数据结构体系学习班题目汇总.md",
