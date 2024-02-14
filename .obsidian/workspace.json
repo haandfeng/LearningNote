@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "QA.md",
+                "file": "精读方法.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "QA.md",
+                "file": "精读方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "QA.md",
+                "file": "精读方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "QA.md"
+                "file": "精读方法.md"
               }
             }
           },
@@ -201,24 +201,24 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "369f90f3f870eb45",
+  "active": "ab3df9bd0138c1ec",
   "lastOpenFiles": [
+    "托福写作.md",
+    "单词默写.md",
+    "写作句法.md",
+    "精读方法.md",
+    "练习方法.md",
+    "操作系统/操作系统.md",
+    "QA.md",
     "README.md",
     "Linux.md",
     "操作系统/Ch6.md",
-    "QA.md",
-    "练习方法.md",
-    "写作句法.md",
-    "精读方法.md",
     "attachment/Screenshot 2024-02-13 at 23.22.44.png",
-    "操作系统.md",
-    "托福写作.md",
     "attachment/Pasted image 20240213135047.png",
     "attachment/Pasted image 20240213133706.png",
     "attachment/Pasted image 20240213133038.png",
     "attachment/Pasted image 20240213132721.png",
     "attachment/Pasted image 20240210212352.png",
-    "单词默写.md",
     "问题.md",
     "操作系统/Ch11.md",
     "操作系统/Ch10.md",
