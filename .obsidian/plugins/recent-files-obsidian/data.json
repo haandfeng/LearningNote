@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "问题",
+      "path": "问题.md"
+    },
+    {
+      "basename": "练习方法",
+      "path": "练习方法.md"
+    },
+    {
+      "basename": "精读方法",
+      "path": "精读方法.md"
+    },
+    {
+      "basename": "Ch11",
+      "path": "操作系统/Ch11.md"
+    },
+    {
       "basename": "托福课堂笔记",
       "path": "托福课堂笔记.md"
     },
@@ -21,14 +37,6 @@
       "path": "托福写作.md"
     },
     {
-      "basename": "精读方法",
-      "path": "精读方法.md"
-    },
-    {
-      "basename": "练习方法",
-      "path": "练习方法.md"
-    },
-    {
       "basename": "写作句法",
       "path": "写作句法.md"
     },
@@ -43,14 +51,6 @@
     {
       "basename": "Ch6",
       "path": "操作系统/Ch6.md"
-    },
-    {
-      "basename": "问题",
-      "path": "问题.md"
-    },
-    {
-      "basename": "Ch11",
-      "path": "操作系统/Ch11.md"
     },
     {
       "basename": "Ch10",
