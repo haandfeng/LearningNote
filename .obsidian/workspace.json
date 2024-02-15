@@ -102,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5a22bf979ae2ada9",
@@ -216,6 +217,8 @@
   },
   "active": "43b9d0ae2db0121d",
   "lastOpenFiles": [
+    "attachment/Pasted image 20240215114631.png",
+    "attachment/Pasted image 20240215114627.png",
     "Linux.md",
     "托福课堂笔记.md",
     "QA.md",
@@ -247,11 +250,9 @@
     "操作系统/Ch13.md",
     "attachment/Pasted image 20231229191715.png",
     "attachment/Pasted image 20231229191708.png",
-    "attachment/Pasted image 20231229191640.png",
     "操作系统/Ch12.md",
     "操作系统/Ch8.md",
     "算法笔记/zuoAlgorithm/000. 学习大纲/__算法数据结构体系学习班题目汇总.md",
-    "Gre/阅读/GRE阅读题型.md",
     "操作系统",
     "软件工程",
     "Java",
