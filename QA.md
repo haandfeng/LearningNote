@@ -1,3 +1,3 @@
 # 听力
 
-ok， before
+ok， before culture diffusion,  the rommon 
