@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "QA.md",
+                "file": "托福写作.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.50390243530273
+    "width": 235.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "5a22bf979ae2ada9",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "QA.md",
+                "file": "托福写作.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "QA.md",
+                "file": "托福写作.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "QA.md"
+                "file": "托福写作.md"
               }
             }
           },
@@ -192,19 +193,19 @@
   },
   "active": "43b9d0ae2db0121d",
   "lastOpenFiles": [
-    "README.md",
-    "托福写作.md",
-    "写作句法.md",
-    "单词默写.md",
     "托福课堂笔记.md",
-    "问题.md",
+    "写作句法.md",
     "练习方法.md",
     "精读方法.md",
+    "托福写作.md",
+    "QA.md",
+    "README.md",
+    "单词默写.md",
+    "问题.md",
     "操作系统/Ch11.md",
     "attachment/Pasted image 20240215114631.png",
     "attachment/Pasted image 20240215114627.png",
     "Linux.md",
-    "QA.md",
     "操作系统/操作系统.md",
     "操作系统/Ch6.md",
     "attachment/Screenshot 2024-02-13 at 23.22.44.png",
