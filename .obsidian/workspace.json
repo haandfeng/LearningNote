@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.50390243530273,
-    "collapsed": true
+    "width": 235.50390243530273
   },
   "right": {
     "id": "5a22bf979ae2ada9",
@@ -194,14 +193,14 @@
   "active": "43b9d0ae2db0121d",
   "lastOpenFiles": [
     "练习方法.md",
-    "托福课堂笔记.md",
     "精读方法.md",
+    "问题.md",
+    "托福课堂笔记.md",
     "QA.md",
     "README.md",
     "托福写作.md",
     "写作句法.md",
     "单词默写.md",
-    "问题.md",
     "操作系统/Ch11.md",
     "attachment/Pasted image 20240215114631.png",
     "attachment/Pasted image 20240215114627.png",
