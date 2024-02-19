@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "问题.md",
+                "file": "练习方法.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "68a76eb5d86fce2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "口语大纲.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "问题.md",
+                "file": "练习方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "问题.md",
+                "file": "练习方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "问题.md"
+                "file": "练习方法.md"
               }
             }
           },
@@ -190,16 +202,17 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "43b9d0ae2db0121d",
+  "active": "ab3df9bd0138c1ec",
   "lastOpenFiles": [
-    "练习方法.md",
     "精读方法.md",
-    "问题.md",
+    "练习方法.md",
     "托福课堂笔记.md",
-    "QA.md",
-    "README.md",
     "托福写作.md",
     "写作句法.md",
+    "口语大纲.md",
+    "问题.md",
+    "QA.md",
+    "README.md",
     "单词默写.md",
     "操作系统/Ch11.md",
     "attachment/Pasted image 20240215114631.png",
