@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "不会的单词",
+      "path": "不会的单词.md"
+    },
+    {
       "basename": "口语写作 摘抄",
       "path": "口语写作 摘抄.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "长文章",
       "path": "Gre/阅读/长文章.md"
-    },
-    {
-      "basename": "类比题",
-      "path": "Gre/阅读/类比题.md"
     }
   ],
   "omittedPaths": [],
