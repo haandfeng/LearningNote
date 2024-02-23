@@ -5,6 +5,14 @@
       "path": "口语写作 摘抄.md"
     },
     {
+      "basename": "写作句法",
+      "path": "写作句法.md"
+    },
+    {
+      "basename": "不会的单词",
+      "path": "不会的单词.md"
+    },
+    {
       "basename": "练习方法",
       "path": "练习方法.md"
     },
@@ -19,14 +27,6 @@
     {
       "basename": "托福写作",
       "path": "托福写作.md"
-    },
-    {
-      "basename": "写作句法",
-      "path": "写作句法.md"
-    },
-    {
-      "basename": "不会的单词",
-      "path": "不会的单词.md"
     },
     {
       "basename": "README",
