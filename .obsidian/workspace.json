@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "ebcc5f1879e9ad8a",
+        "id": "699ab8383af5ec06",
         "type": "tabs",
         "children": [
           {
@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "问题.md",
+                "file": "QA.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.50390243530273
+    "width": 235.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "5a22bf979ae2ada9",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "问题.md",
+                "file": "QA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "问题.md",
+                "file": "QA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "问题.md"
+                "file": "QA.md"
               }
             }
           },
@@ -192,8 +193,8 @@
   },
   "active": "62a1490e5d18ca00",
   "lastOpenFiles": [
-    "写作句法.md",
     "问题.md",
+    "写作句法.md",
     "操作系统/Linux.md",
     "README.md",
     "QA.md",

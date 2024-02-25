@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "QA",
+      "path": "QA.md"
+    },
+    {
       "basename": "问题",
       "path": "问题.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "QA",
-      "path": "QA.md"
     },
     {
       "basename": "练习方法",
