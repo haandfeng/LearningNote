@@ -11,8 +11,12 @@
             "id": "62a1490e5d18ca00",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "练习方法.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -91,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "练习方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "练习方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "练习方法.md"
+              }
             }
           },
           {
@@ -185,6 +193,8 @@
   },
   "active": "62a1490e5d18ca00",
   "lastOpenFiles": [
+    "问题.md",
+    "托福写作.md",
     "口语写作 摘抄.md",
     "练习方法.md",
     "口语大纲.md",
@@ -194,8 +204,6 @@
     "Linux.md",
     "QA.md",
     "托福课堂笔记.md",
-    "托福写作.md",
-    "问题.md",
     "精读方法.md",
     "单词默写.md",
     "操作系统/Ch11.md",
