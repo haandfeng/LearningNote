@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "05e72298482bb5e1",
+        "id": "ebcc5f1879e9ad8a",
         "type": "tabs",
         "children": [
           {
-            "id": "d19b82e4eda99125",
+            "id": "62a1490e5d18ca00",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "口语写作 摘抄.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -95,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "口语写作 摘抄.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +107,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "口语写作 摘抄.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "口语写作 摘抄.md"
-              }
+              "state": {}
             }
           },
           {
@@ -191,8 +183,9 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "d19b82e4eda99125",
+  "active": "62a1490e5d18ca00",
   "lastOpenFiles": [
+    "口语写作 摘抄.md",
     "练习方法.md",
     "口语大纲.md",
     "不会的单词.md",
@@ -200,7 +193,6 @@
     "README.md",
     "Linux.md",
     "QA.md",
-    "口语写作 摘抄.md",
     "托福课堂笔记.md",
     "托福写作.md",
     "问题.md",
