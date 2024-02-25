@@ -5,12 +5,12 @@
       "path": "问题.md"
     },
     {
-      "basename": "Linux",
-      "path": "操作系统/Linux.md"
-    },
-    {
       "basename": "写作句法",
       "path": "写作句法.md"
+    },
+    {
+      "basename": "Linux",
+      "path": "操作系统/Linux.md"
     },
     {
       "basename": "README",
