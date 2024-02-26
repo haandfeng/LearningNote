@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "aedda571e05be1c6",
+        "id": "d10f622b79dc8eef",
         "type": "tabs",
         "children": [
           {
-            "id": "a741879a3cb428fb",
+            "id": "1c3a47d4705bf15a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "写作句法.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -95,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "写作句法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +107,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "写作句法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "写作句法.md"
-              }
+              "state": {}
             }
           },
           {
@@ -191,12 +183,12 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "a741879a3cb428fb",
+  "active": "1c3a47d4705bf15a",
   "lastOpenFiles": [
+    "写作句法.md",
     "README.md",
     "QA.md",
     "问题.md",
-    "写作句法.md",
     "操作系统/Linux.md",
     "练习方法.md",
     "托福写作.md",
