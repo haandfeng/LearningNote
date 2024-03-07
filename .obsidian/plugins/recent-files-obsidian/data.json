@@ -5,6 +5,10 @@
       "path": "QA.md"
     },
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "问题",
       "path": "问题.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "不会的单词",
       "path": "不会的单词.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "Linux",
