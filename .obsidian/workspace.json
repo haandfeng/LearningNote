@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "口语大纲.md",
+                "file": "QA.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5a22bf979ae2ada9",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "口语大纲.md",
+                "file": "QA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "口语大纲.md",
+                "file": "QA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "口语大纲.md"
+                "file": "QA.md"
               }
             }
           },
@@ -193,14 +192,14 @@
   },
   "active": "6c2a5688790e0e9d",
   "lastOpenFiles": [
-    "写作句法.md",
-    "托福写作.md",
     "问题.md",
-    "托福课堂笔记.md",
-    "练习方法.md",
+    "托福写作.md",
+    "写作句法.md",
     "口语写作 摘抄.md",
-    "不会的单词.md",
+    "练习方法.md",
     "口语大纲.md",
+    "托福课堂笔记.md",
+    "不会的单词.md",
     "QA.md",
     "README.md",
     "操作系统/Linux.md",
