@@ -11,8 +11,12 @@
             "id": "0730761911b8dae0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "QA.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "QA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "QA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "QA.md"
+              }
             }
           },
           {
@@ -184,11 +192,11 @@
   },
   "active": "0730761911b8dae0",
   "lastOpenFiles": [
-    "QA.md",
     "README.md",
+    "QA.md",
+    "写作句法.md",
     "问题.md",
     "托福写作.md",
-    "写作句法.md",
     "口语写作 摘抄.md",
     "练习方法.md",
     "口语大纲.md",
