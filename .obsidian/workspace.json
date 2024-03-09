@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "QA.md",
+                "file": "口语大纲.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5a22bf979ae2ada9",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "QA.md",
+                "file": "口语大纲.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "QA.md",
+                "file": "口语大纲.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "QA.md"
+                "file": "口语大纲.md"
               }
             }
           },
@@ -192,8 +193,8 @@
   },
   "active": "0730761911b8dae0",
   "lastOpenFiles": [
-    "README.md",
     "QA.md",
+    "README.md",
     "写作句法.md",
     "问题.md",
     "托福写作.md",
