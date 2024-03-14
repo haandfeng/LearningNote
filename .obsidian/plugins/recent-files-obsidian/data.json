@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "单词本",
+      "path": "单词本.md"
+    },
+    {
       "basename": "口语大纲",
       "path": "口语大纲.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "错误选项特征",
       "path": "Gre/阅读/错误选项特征.md"
-    },
-    {
-      "basename": "长文章",
-      "path": "Gre/阅读/长文章.md"
     }
   ],
   "omittedPaths": [],
