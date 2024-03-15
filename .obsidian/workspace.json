@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "7cef62ac19f4a5f2",
+        "id": "4ddde3ec15737f61",
         "type": "tabs",
         "children": [
           {
-            "id": "131f53389452df61",
+            "id": "63513fedd971aee3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "口语大纲.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -34,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"aliases\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,11 +73,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5a22bf979ae2ada9",
@@ -89,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "口语大纲.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "口语大纲.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "口语大纲.md"
+              }
             }
           },
           {
@@ -162,7 +172,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5
+    "width": 239.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,8 +191,9 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "131f53389452df61",
+  "active": "63513fedd971aee3",
   "lastOpenFiles": [
+    "算法笔记/zuoAlgorithm/000. 学习大纲/__算法数据结构体系学习班题目汇总.md",
     "单词本.md",
     "口语大纲.md",
     "写作句法.md",
@@ -216,7 +228,6 @@
     "操作系统/Ch2.md",
     "操作系统/Ch1.md",
     "attachment/Pasted image 20231229223436.png",
-    "操作系统/Ch13.md",
     "attachment/Pasted image 20231229191715.png",
     "操作系统",
     "软件工程",

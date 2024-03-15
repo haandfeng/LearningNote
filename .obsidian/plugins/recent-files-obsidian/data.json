@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "单词本",
-      "path": "单词本.md"
-    },
-    {
       "basename": "口语大纲",
       "path": "口语大纲.md"
+    },
+    {
+      "basename": "__算法数据结构体系学习班题目汇总",
+      "path": "算法笔记/zuoAlgorithm/000. 学习大纲/__算法数据结构体系学习班题目汇总.md"
+    },
+    {
+      "basename": "单词本",
+      "path": "单词本.md"
     },
     {
       "basename": "写作句法",
@@ -103,10 +107,6 @@
     {
       "basename": "Ch8",
       "path": "操作系统/Ch8.md"
-    },
-    {
-      "basename": "__算法数据结构体系学习班题目汇总",
-      "path": "算法笔记/zuoAlgorithm/000. 学习大纲/__算法数据结构体系学习班题目汇总.md"
     },
     {
       "basename": "GRE阅读题型",
