@@ -1,28 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "口语大纲",
-      "path": "口语大纲.md"
-    },
-    {
-      "basename": "__算法数据结构体系学习班题目汇总",
-      "path": "算法笔记/zuoAlgorithm/000. 学习大纲/__算法数据结构体系学习班题目汇总.md"
-    },
-    {
-      "basename": "单词本",
-      "path": "单词本.md"
-    },
-    {
       "basename": "写作句法",
       "path": "写作句法.md"
-    },
-    {
-      "basename": "QA",
-      "path": "QA.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "问题",
@@ -33,20 +13,40 @@
       "path": "托福写作.md"
     },
     {
-      "basename": "托福课堂笔记",
-      "path": "托福课堂笔记.md"
-    },
-    {
       "basename": "口语写作 摘抄",
       "path": "口语写作 摘抄.md"
+    },
+    {
+      "basename": "口语大纲",
+      "path": "口语大纲.md"
+    },
+    {
+      "basename": "单词本",
+      "path": "单词本.md"
+    },
+    {
+      "basename": "不会的单词",
+      "path": "不会的单词.md"
+    },
+    {
+      "basename": "托福课堂笔记",
+      "path": "托福课堂笔记.md"
     },
     {
       "basename": "练习方法",
       "path": "练习方法.md"
     },
     {
-      "basename": "不会的单词",
-      "path": "不会的单词.md"
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "QA",
+      "path": "QA.md"
+    },
+    {
+      "basename": "__算法数据结构体系学习班题目汇总",
+      "path": "算法笔记/zuoAlgorithm/000. 学习大纲/__算法数据结构体系学习班题目汇总.md"
     },
     {
       "basename": "Linux",
