@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c1c2ec403923bd89",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,7 +201,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "63513fedd971aee3",
+  "active": "c1c2ec403923bd89",
   "lastOpenFiles": [
     "问题.md",
     "写作句法.md",
