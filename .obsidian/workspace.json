@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5a22bf979ae2ada9",
@@ -190,7 +191,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "b11bae223c579f3e",
+  "active": "ab3df9bd0138c1ec",
   "lastOpenFiles": [
     "口语大纲.md",
     "总结.md",
