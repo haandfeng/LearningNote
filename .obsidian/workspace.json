@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "63513fedd971aee3",
+            "id": "b11bae223c579f3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "写作句法.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c1c2ec403923bd89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "口语大纲.md",
+                "file": "总结.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5a22bf979ae2ada9",
@@ -107,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "口语大纲.md",
+                "file": "总结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "口语大纲.md",
+                "file": "总结.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "口语大纲.md"
+                "file": "总结.md"
               }
             }
           },
@@ -203,10 +191,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "c1c2ec403923bd89",
+  "active": "b11bae223c579f3e",
   "lastOpenFiles": [
-    "口语写作 摘抄.md",
     "口语大纲.md",
+    "总结.md",
+    "口语写作 摘抄.md",
     "写作句法.md",
     "问题.md",
     "托福写作.md",

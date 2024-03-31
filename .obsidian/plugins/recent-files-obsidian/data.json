@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "总结",
+      "path": "总结.md"
+    },
+    {
       "basename": "口语大纲",
       "path": "口语大纲.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "GRE阅读正确率",
       "path": "Gre/阅读/GRE阅读正确率.md"
-    },
-    {
-      "basename": "错误选项特征",
-      "path": "Gre/阅读/错误选项特征.md"
     }
   ],
   "omittedPaths": [],
