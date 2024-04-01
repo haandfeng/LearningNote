@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "语法笔记",
+      "path": "C++学习/语法笔记.md"
+    },
+    {
+      "basename": "C++ Tiny WebServer 学习记录",
+      "path": "C++学习/C++ Tiny WebServer 学习记录.md"
+    },
+    {
       "basename": "总结",
       "path": "总结.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "词汇题",
       "path": "Gre/阅读/词汇题.md"
-    },
-    {
-      "basename": "主旨题",
-      "path": "Gre/阅读/主旨题.md"
-    },
-    {
-      "basename": "GRE阅读正确率",
-      "path": "Gre/阅读/GRE阅读正确率.md"
     }
   ],
   "omittedPaths": [],
