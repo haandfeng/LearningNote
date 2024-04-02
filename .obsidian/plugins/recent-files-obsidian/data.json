@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "口语大纲",
+      "path": "口语大纲.md"
+    },
+    {
+      "basename": "口语写作 摘抄",
+      "path": "口语写作 摘抄.md"
+    },
+    {
       "basename": "语法笔记",
       "path": "C++学习/语法笔记.md"
     },
@@ -11,14 +19,6 @@
     {
       "basename": "总结",
       "path": "总结.md"
-    },
-    {
-      "basename": "口语大纲",
-      "path": "口语大纲.md"
-    },
-    {
-      "basename": "口语写作 摘抄",
-      "path": "口语写作 摘抄.md"
     },
     {
       "basename": "写作句法",
