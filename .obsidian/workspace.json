@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b0fba723cd4dc2ab",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,7 +202,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "4325d96fade942ba",
+  "active": "b0fba723cd4dc2ab",
   "lastOpenFiles": [
     "口语大纲.md",
     "Diffusion Model.md",
