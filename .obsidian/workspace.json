@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e3a767154538fb39",
+            "id": "4325d96fade942ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "口语大纲.md",
+                "file": "Diffusion Model.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "口语大纲.md",
+                "file": "Diffusion Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "口语大纲.md",
+                "file": "Diffusion Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "口语大纲.md"
+                "file": "Diffusion Model.md"
               }
             }
           },
@@ -191,10 +191,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "e3a767154538fb39",
+  "active": "4325d96fade942ba",
   "lastOpenFiles": [
-    "口语写作 摘抄.md",
     "口语大纲.md",
+    "Diffusion Model.md",
+    "口语写作 摘抄.md",
     "C++学习/语法笔记.md",
     "C++学习/C++ Tiny WebServer 学习记录.md",
     "C++学习",
@@ -229,7 +230,6 @@
     "操作系统/Ch9.md",
     "操作系统/Ch7.md",
     "操作系统/Ch5.md",
-    "操作系统/Ch3.md",
     "操作系统",
     "软件工程",
     "Java",

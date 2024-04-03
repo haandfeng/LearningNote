@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Diffusion Model",
+      "path": "Diffusion Model.md"
+    },
+    {
       "basename": "口语大纲",
       "path": "口语大纲.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "否定事实信息题",
       "path": "Gre/阅读/否定事实信息题.md"
-    },
-    {
-      "basename": "词汇题",
-      "path": "Gre/阅读/词汇题.md"
     }
   ],
   "omittedPaths": [],
