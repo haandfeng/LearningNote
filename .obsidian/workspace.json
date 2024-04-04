@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diffusion Model.md",
+                "file": "口语大纲.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diffusion Model.md",
+                "file": "口语大纲.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diffusion Model.md",
+                "file": "口语大纲.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diffusion Model.md"
+                "file": "口语大纲.md"
               }
             }
           },
@@ -202,11 +201,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "b0fba723cd4dc2ab",
+  "active": "4325d96fade942ba",
   "lastOpenFiles": [
-    "口语大纲.md",
-    "Diffusion Model.md",
     "口语写作 摘抄.md",
+    "Diffusion Model.md",
+    "口语大纲.md",
     "C++学习/语法笔记.md",
     "C++学习/C++ Tiny WebServer 学习记录.md",
     "C++学习",
