@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "扩散模型",
+      "path": "扩散模型.md"
+    },
+    {
       "basename": "口语大纲",
       "path": "口语大纲.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "可多选题",
       "path": "Gre/阅读/可多选题.md"
-    },
-    {
-      "basename": "否定事实信息题",
-      "path": "Gre/阅读/否定事实信息题.md"
     }
   ],
   "omittedPaths": [],
