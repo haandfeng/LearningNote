@@ -25,19 +25,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "扩散模型.md",
+                "file": "C++学习/语法笔记.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "b0fba723cd4dc2ab",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
               }
             }
           }
@@ -118,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "扩散模型.md",
+                "file": "C++学习/语法笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "扩散模型.md",
+                "file": "C++学习/语法笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "扩散模型.md"
+                "file": "C++学习/语法笔记.md"
               }
             }
           },
@@ -216,12 +206,12 @@
   },
   "active": "9b14e1843e22084b",
   "lastOpenFiles": [
-    "口语大纲.md",
-    "扩散模型.md",
-    "口语写作 摘抄.md",
-    "Diffusion Model.md",
     "C++学习/语法笔记.md",
     "C++学习/C++ Tiny WebServer 学习记录.md",
+    "扩散模型.md",
+    "口语大纲.md",
+    "口语写作 摘抄.md",
+    "Diffusion Model.md",
     "C++学习",
     "总结.md",
     "写作句法.md",
