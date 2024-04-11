@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "语法笔记",
+      "path": "C++学习/语法笔记.md"
+    },
+    {
+      "basename": "口语大纲",
+      "path": "口语大纲.md"
+    },
+    {
       "basename": "4. Obsidian中的链接",
       "path": "Obidian使用教程/4. Obsidian中的链接.pdf"
     },
@@ -9,20 +17,12 @@
       "path": "Obidian使用教程/1. Obsidian简介.pdf"
     },
     {
-      "basename": "语法笔记",
-      "path": "C++学习/语法笔记.md"
-    },
-    {
       "basename": "C++ Tiny WebServer 学习记录",
       "path": "C++学习/C++ Tiny WebServer 学习记录.md"
     },
     {
       "basename": "扩散模型",
       "path": "扩散模型.md"
-    },
-    {
-      "basename": "口语大纲",
-      "path": "口语大纲.md"
     },
     {
       "basename": "口语写作 摘抄",
