@@ -23,12 +23,18 @@
             "id": "9b14e1843e22084b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "C++学习/语法笔记.md",
-                "mode": "source",
-                "source": false
+                "file": "Obidian使用教程/4. Obsidian中的链接.pdf"
               }
+            }
+          },
+          {
+            "id": "fbc2d2d2ac8fe2f4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -91,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5a22bf979ae2ada9",
@@ -108,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++学习/语法笔记.md",
+                "file": "Obidian使用教程/4. Obsidian中的链接.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++学习/语法笔记.md",
+                "file": "Obidian使用教程/4. Obsidian中的链接.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++学习/语法笔记.md"
+                "file": "Obidian使用教程/4. Obsidian中的链接.pdf"
               }
             }
           },
@@ -206,6 +211,7 @@
   },
   "active": "9b14e1843e22084b",
   "lastOpenFiles": [
+    "Obidian使用教程/1. Obsidian简介.pdf",
     "C++学习/语法笔记.md",
     "C++学习/C++ Tiny WebServer 学习记录.md",
     "扩散模型.md",
@@ -242,7 +248,6 @@
     "attachment/Pasted image 20240210212352.png",
     "操作系统/Ch10.md",
     "操作系统/Ch9.md",
-    "操作系统/Ch7.md",
     "操作系统",
     "软件工程",
     "Java",
