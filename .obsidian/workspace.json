@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "QA.md",
+                "file": "C++学习/语法笔记.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "QA.md",
+                "file": "C++学习/语法笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "QA.md",
+                "file": "C++学习/语法笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "QA.md"
+                "file": "C++学习/语法笔记.md"
               }
             }
           },
@@ -193,6 +193,7 @@
   },
   "active": "c07359e914bf6633",
   "lastOpenFiles": [
+    "QA.md",
     "C++学习/语法笔记.md",
     "口语大纲.md",
     "Obidian使用教程/4. Obsidian中的链接.pdf",
@@ -211,7 +212,6 @@
     "不会的单词.md",
     "托福课堂笔记.md",
     "README.md",
-    "QA.md",
     "attachment/Pasted image 20240315152544.png",
     "attachment/Pasted image 20240315152543.png",
     "算法笔记/zuoAlgorithm/000. 学习大纲/__算法数据结构体系学习班题目汇总.md",
