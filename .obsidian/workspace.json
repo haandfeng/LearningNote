@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a6493f70ef93f08e",
+        "id": "92c287287a99fb7d",
         "type": "tabs",
         "children": [
           {
-            "id": "33e79c418d99ff34",
+            "id": "c07359e914bf6633",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++学习/语法笔记.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -95,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++学习/语法笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +107,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++学习/语法笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "C++学习/语法笔记.md"
-              }
+              "state": {}
             }
           },
           {
@@ -191,12 +183,12 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "33e79c418d99ff34",
+  "active": "c07359e914bf6633",
   "lastOpenFiles": [
+    "C++学习/语法笔记.md",
     "口语大纲.md",
     "Obidian使用教程/4. Obsidian中的链接.pdf",
     "Obidian使用教程/1. Obsidian简介.pdf",
-    "C++学习/语法笔记.md",
     "C++学习/C++ Tiny WebServer 学习记录.md",
     "扩散模型.md",
     "口语写作 摘抄.md",
