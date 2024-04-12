@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "QA",
+      "path": "QA.md"
+    },
+    {
       "basename": "语法笔记",
       "path": "C++学习/语法笔记.md"
     },
@@ -67,10 +71,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "QA",
-      "path": "QA.md"
     },
     {
       "basename": "__算法数据结构体系学习班题目汇总",
