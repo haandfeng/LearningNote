@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "92c287287a99fb7d",
+        "id": "f676ef3883b8fcb5",
         "type": "tabs",
         "children": [
           {
-            "id": "c07359e914bf6633",
+            "id": "6af9276491babd51",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++学习/C++ Tiny WebServer 学习记录.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -95,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++学习/C++ Tiny WebServer 学习记录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +107,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++学习/C++ Tiny WebServer 学习记录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "C++学习/C++ Tiny WebServer 学习记录.md"
-              }
+              "state": {}
             }
           },
           {
@@ -191,10 +183,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "c07359e914bf6633",
+  "active": "6af9276491babd51",
   "lastOpenFiles": [
-    "C++学习/语法笔记.md",
     "C++学习/C++ Tiny WebServer 学习记录.md",
+    "C++学习/语法笔记.md",
     "写作句法.md",
     "托福课堂笔记.md",
     "练习方法.md",
