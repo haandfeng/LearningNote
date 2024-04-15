@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6af9276491babd51",
+            "id": "ae61ca529840304c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "托福写作语法.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -91,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "托福写作语法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "托福写作语法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "托福写作语法.md"
+              }
             }
           },
           {
@@ -183,16 +191,20 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "6af9276491babd51",
+  "active": "ae61ca529840304c",
   "lastOpenFiles": [
+    "托福写作.md",
+    "托福写作语法.md",
+    "托福课堂笔记.md",
+    "练习方法.md",
+    "扩散模型.md",
+    "口语写作 摘抄.md",
+    "口语大纲.md",
     "C++学习/C++ Tiny WebServer 学习记录.md",
     "C++学习/语法笔记.md",
     "写作句法.md",
-    "托福课堂笔记.md",
-    "练习方法.md",
     "单词本.md",
     "不会的单词.md",
-    "托福写作.md",
     "attachment/Pasted image 20240414232145.png",
     "attachment/Pasted image 20240414231954.png",
     "attachment/Pasted image 20240414194501.png",
@@ -200,11 +212,8 @@
     "attachment/截屏2024-04-14 19.41.07.png",
     "attachment/截屏2024-04-14 19.39.44.png",
     "QA.md",
-    "口语大纲.md",
     "Obidian使用教程/4. Obsidian中的链接.pdf",
     "Obidian使用教程/1. Obsidian简介.pdf",
-    "扩散模型.md",
-    "口语写作 摘抄.md",
     "Diffusion Model.md",
     "C++学习",
     "总结.md",
