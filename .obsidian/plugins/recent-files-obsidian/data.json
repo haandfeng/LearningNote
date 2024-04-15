@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "托福写作",
-      "path": "托福写作.md"
-    },
-    {
       "basename": "语法笔记",
       "path": "C++学习/语法笔记.md"
+    },
+    {
+      "basename": "C++ Tiny WebServer 学习记录",
+      "path": "C++学习/C++ Tiny WebServer 学习记录.md"
+    },
+    {
+      "basename": "写作句法",
+      "path": "写作句法.md"
+    },
+    {
+      "basename": "托福课堂笔记",
+      "path": "托福课堂笔记.md"
+    },
+    {
+      "basename": "练习方法",
+      "path": "练习方法.md"
+    },
+    {
+      "basename": "单词本",
+      "path": "单词本.md"
+    },
+    {
+      "basename": "不会的单词",
+      "path": "不会的单词.md"
+    },
+    {
+      "basename": "托福写作",
+      "path": "托福写作.md"
     },
     {
       "basename": "QA",
@@ -25,10 +49,6 @@
       "path": "Obidian使用教程/1. Obsidian简介.pdf"
     },
     {
-      "basename": "C++ Tiny WebServer 学习记录",
-      "path": "C++学习/C++ Tiny WebServer 学习记录.md"
-    },
-    {
       "basename": "扩散模型",
       "path": "扩散模型.md"
     },
@@ -45,28 +65,8 @@
       "path": "总结.md"
     },
     {
-      "basename": "写作句法",
-      "path": "写作句法.md"
-    },
-    {
       "basename": "问题",
       "path": "问题.md"
-    },
-    {
-      "basename": "单词本",
-      "path": "单词本.md"
-    },
-    {
-      "basename": "练习方法",
-      "path": "练习方法.md"
-    },
-    {
-      "basename": "不会的单词",
-      "path": "不会的单词.md"
-    },
-    {
-      "basename": "托福课堂笔记",
-      "path": "托福课堂笔记.md"
     },
     {
       "basename": "README",
