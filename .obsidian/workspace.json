@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5a22bf979ae2ada9",
@@ -193,8 +194,13 @@
   },
   "active": "443061b537a583fc",
   "lastOpenFiles": [
-    "C++学习/C++ Tiny WebServer 学习记录.md",
+    "attachment/2023AI期中答案 3.pdf",
+    "attachment/2023AI期中答案 2.pdf",
+    "attachment/2023AI期中答案 1.pdf",
+    "attachment/2023AI期中答案.pdf",
+    "<[](<第一，预编译指令.md",
     "C++学习/语法笔记.md",
+    "C++学习/C++ Tiny WebServer 学习记录.md",
     "口语大纲.md",
     "未命名.canvas",
     "Daily/2024-04-17.md",
@@ -228,7 +234,6 @@
     "C++学习",
     "总结.md",
     "问题.md",
-    "README.md",
     "attachment/Pasted image 20240315152544.png",
     "attachment/Pasted image 20240315152543.png",
     "attachment/Pasted image 20240215114631.png",
@@ -236,9 +241,6 @@
     "操作系统",
     "软件工程",
     "Java",
-    "Users/ha/Library/Containers/com.tencent.xinWeChat/Data/Library",
-    "Users/ha/Library/Containers/com.tencent.xinWeChat/Data",
-    "Users/ha/Library/Containers/com.tencent.xinWeChat",
     "未命名 1.canvas",
     "未命名 3.canvas",
     "未命名 2.canvas"
