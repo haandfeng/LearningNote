@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "口语大纲",
+      "path": "口语大纲.md"
+    },
+    {
       "basename": "C++ Tiny WebServer 学习记录",
       "path": "C++学习/C++ Tiny WebServer 学习记录.md"
+    },
+    {
+      "basename": "2024-04-17",
+      "path": "Daily/2024-04-17.md"
+    },
+    {
+      "basename": "Drawing 2024-04-17 18.12.55.excalidraw",
+      "path": "Excalidraw/Drawing 2024-04-17 18.12.55.excalidraw.md"
     },
     {
       "basename": "数组都变成一种数的最小次数",
@@ -55,10 +67,6 @@
     {
       "basename": "口语写作 摘抄",
       "path": "口语写作 摘抄.md"
-    },
-    {
-      "basename": "口语大纲",
-      "path": "口语大纲.md"
     },
     {
       "basename": "写作句法",
@@ -187,18 +195,6 @@
     {
       "basename": "软件工程",
       "path": "软件工程/软件工程.md"
-    },
-    {
-      "basename": "Servlet",
-      "path": "Java/Servlet.md"
-    },
-    {
-      "basename": "截屏2023-10-04 16.17.52",
-      "path": "attachment/截屏2023-10-04 16.17.52.png"
-    },
-    {
-      "basename": "截屏2023-10-04 16.09.26",
-      "path": "attachment/截屏2023-10-04 16.09.26.png"
     }
   ],
   "omittedPaths": [
