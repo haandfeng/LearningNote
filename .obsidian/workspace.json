@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d5e7c6d2ab1fc527",
+        "id": "54eba65c6029dd43",
         "type": "tabs",
         "children": [
           {
-            "id": "443061b537a583fc",
+            "id": "bc6a253369699b08",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++学习/语法笔记.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -78,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5a22bf979ae2ada9",
@@ -95,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++学习/语法笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++学习/语法笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "C++学习/语法笔记.md"
-              }
+              "state": {}
             }
           },
           {
@@ -192,8 +183,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "443061b537a583fc",
+  "active": "bc6a253369699b08",
   "lastOpenFiles": [
+    "C++学习/书评.md",
+    "C++学习/学习资料.md",
+    "C++学习/语法笔记.md",
+    "问题.md",
     "attachment/Pasted image 20240419212509.png",
     "attachment/Pasted image 20240419212432.png",
     "attachment/Pasted image 20240419142145.png",
@@ -204,7 +199,6 @@
     "attachment/2023AI期中答案 1.pdf",
     "attachment/2023AI期中答案.pdf",
     "<[](<第一，预编译指令.md",
-    "C++学习/语法笔记.md",
     "C++学习/C++ Tiny WebServer 学习记录.md",
     "口语大纲.md",
     "未命名.canvas",
@@ -231,14 +225,11 @@
     "attachment/Pasted image 20240414194501.png",
     "attachment/截屏2024-04-14 19.42.43.png",
     "attachment/截屏2024-04-14 19.41.07.png",
-    "attachment/截屏2024-04-14 19.39.44.png",
     "QA.md",
     "Obidian使用教程/4. Obsidian中的链接.pdf",
     "Obidian使用教程/1. Obsidian简介.pdf",
     "Diffusion Model.md",
     "C++学习",
-    "总结.md",
-    "问题.md",
     "操作系统",
     "软件工程",
     "未命名 1.canvas",

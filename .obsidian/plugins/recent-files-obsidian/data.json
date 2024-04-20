@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "书评",
+      "path": "C++学习/书评.md"
+    },
+    {
+      "basename": "学习资料",
+      "path": "C++学习/学习资料.md"
+    },
+    {
       "basename": "语法笔记",
       "path": "C++学习/语法笔记.md"
+    },
+    {
+      "basename": "问题",
+      "path": "问题.md"
     },
     {
       "basename": "C++ Tiny WebServer 学习记录",
@@ -101,10 +113,6 @@
       "path": "总结.md"
     },
     {
-      "basename": "问题",
-      "path": "问题.md"
-    },
-    {
       "basename": "README",
       "path": "README.md"
     },
@@ -191,10 +199,6 @@
     {
       "basename": "Testing",
       "path": "软件工程/Testing.md"
-    },
-    {
-      "basename": "软件工程",
-      "path": "软件工程/软件工程.md"
     }
   ],
   "omittedPaths": [
