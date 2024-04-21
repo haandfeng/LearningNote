@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "入门笔记",
-      "path": "C++算法/入门笔记.md"
-    },
-    {
       "basename": "算法笔记新手班",
       "path": "算法笔记/算法笔记新手班.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "未命名.md"
+    },
+    {
+      "basename": "入门笔记",
+      "path": "C++算法/入门笔记.md"
     },
     {
       "basename": "www.itheima.com?bz",
@@ -195,10 +199,6 @@
     {
       "basename": "学习资料",
       "path": "C++学习/学习资料.md"
-    },
-    {
-      "basename": "书评",
-      "path": "C++学习/书评.md"
     }
   ],
   "omittedPaths": [

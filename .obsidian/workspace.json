@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -130,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++算法/入门笔记.md",
+                "file": "算法笔记/算法笔记新手班.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++算法/入门笔记.md",
+                "file": "算法笔记/算法笔记新手班.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++算法/入门笔记.md"
+                "file": "算法笔记/算法笔记新手班.md"
               }
             }
           },
@@ -264,13 +265,14 @@
       }
     ]
   },
-  "active": "f7683971c59eb29b",
+  "active": "7dd6cc21473ca262",
   "lastOpenFiles": [
+    "未命名.md",
+    "C++算法/入门笔记.md",
     "算法笔记/算法笔记新手班.md",
     "www.itheima.com?bz.md",
     "C++学习/语法笔记.md",
     "算法笔记/zuoAlgorithm/100. 算法课程/10. 基础课/01 认识复杂度、对数器、二分法与异或运算.md",
-    "C++算法/入门笔记.md",
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/局部最小值问题.md",
     "算法笔记/zuoAlgorithm/000. 学习大纲/基础班课程.md",
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/在一个有序数组中，找某个数是否存在.md",
@@ -291,7 +293,6 @@
     "算法笔记/zuoAlgorithm/010. 代码模板/比较器.md",
     "算法笔记/zuoAlgorithm/100. 算法课程/00. 新手班/06 比较器、优先级队列和二叉树.md",
     "算法笔记/zuoAlgorithm/100. 算法课程/00. 新手班/04 单链表跟双链表.md",
-    "算法笔记/zuoAlgorithm/100. 算法课程/00. 新手班/03 二分、复杂度、动态数组、哈希表和有序表.md",
     "attachment/截屏2024-04-14 19.41.07.png",
     "attachment/Pasted image 20231226164159.png",
     "attachment/Pasted image 20240414231954.png",
