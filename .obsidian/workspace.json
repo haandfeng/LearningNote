@@ -217,12 +217,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 239.5,
-    "collapsed": true
+    "width": 239.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,43 +239,6 @@
       "obsidian-memos:Thino": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
-  },
-  "floating": {
-    "id": "08921c11966d0d68",
-    "type": "floating",
-    "children": [
-      {
-        "id": "430ba09b6c44fad4",
-        "type": "window",
-        "children": [
-          {
-            "id": "eb168f2ab6fd3a0d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "904699eff49707ae",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "算法笔记/zuoAlgorithm/100. 算法课程/10. 基础课/01 认识复杂度、对数器、二分法与异或运算.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 155,
-        "y": 58,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0.5
-      }
-    ]
   },
   "active": "9de991f23eab80e3",
   "lastOpenFiles": [
