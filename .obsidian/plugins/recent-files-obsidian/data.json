@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "入门笔记",
+      "path": "C++算法/入门笔记.md"
+    },
+    {
+      "basename": "04 单链表跟双链表",
+      "path": "算法笔记/zuoAlgorithm/100. 算法课程/00. 新手班/04 单链表跟双链表.md"
+    },
+    {
+      "basename": "两个有序链表的合并",
+      "path": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/两个有序链表的合并.md"
+    },
+    {
+      "basename": "___算法数据结构新手班",
+      "path": "算法笔记/zuoAlgorithm/000. 学习大纲/___算法数据结构新手班.md"
+    },
+    {
+      "basename": "单链表和双链表如何反转",
+      "path": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/单链表和双链表如何反转.md"
+    },
+    {
+      "basename": "单链表跟双链表",
+      "path": "单链表跟双链表.md"
+    },
+    {
+      "basename": "反转链表",
+      "path": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/反转链表.md"
+    },
+    {
+      "basename": "__算法数据结构体系学习班题目汇总",
+      "path": "算法笔记/zuoAlgorithm/000. 学习大纲/__算法数据结构体系学习班题目汇总.md"
+    },
+    {
+      "basename": "算法笔记新手班",
+      "path": "算法笔记/算法笔记新手班.md"
+    },
+    {
       "basename": "语法笔记",
       "path": "C++学习/语法笔记.md"
     },
@@ -9,16 +45,12 @@
       "path": "算法笔记/zuoAlgorithm/100. 算法课程/10. 基础课/01 认识复杂度、对数器、二分法与异或运算.md"
     },
     {
-      "basename": "算法笔记新手班",
-      "path": "算法笔记/算法笔记新手班.md"
+      "basename": "06 链表相关面试题",
+      "path": "算法笔记/zuoAlgorithm/100. 算法课程/10. 基础课/06 链表相关面试题.md"
     },
     {
       "basename": "基础班课程",
       "path": "算法笔记/zuoAlgorithm/000. 学习大纲/基础班课程.md"
-    },
-    {
-      "basename": "入门笔记",
-      "path": "C++算法/入门笔记.md"
     },
     {
       "basename": "考试回忆",
@@ -53,20 +85,12 @@
       "path": "算法笔记/zuoAlgorithm/100. 算法课程/00. 新手班/01 位运算、算法是什么、简单排序.md"
     },
     {
-      "basename": "___算法数据结构新手班",
-      "path": "算法笔记/zuoAlgorithm/000. 学习大纲/___算法数据结构新手班.md"
-    },
-    {
       "basename": "__算法数据结构体系学习班",
       "path": "算法笔记/zuoAlgorithm/000. 学习大纲/__算法数据结构体系学习班.md"
     },
     {
       "basename": "基础班课程题目汇总",
       "path": "算法笔记/zuoAlgorithm/000. 学习大纲/基础班课程题目汇总.md"
-    },
-    {
-      "basename": "__算法数据结构体系学习班题目汇总",
-      "path": "算法笔记/zuoAlgorithm/000. 学习大纲/__算法数据结构体系学习班题目汇总.md"
     },
     {
       "basename": "_大厂刷题班课程",
@@ -107,10 +131,6 @@
     {
       "basename": "06 比较器、优先级队列和二叉树",
       "path": "算法笔记/zuoAlgorithm/100. 算法课程/00. 新手班/06 比较器、优先级队列和二叉树.md"
-    },
-    {
-      "basename": "04 单链表跟双链表",
-      "path": "算法笔记/zuoAlgorithm/100. 算法课程/00. 新手班/04 单链表跟双链表.md"
     },
     {
       "basename": "03 二分、复杂度、动态数组、哈希表和有序表",
@@ -179,22 +199,6 @@
     {
       "basename": "2023-07-31",
       "path": "Daily/2023-07-31.md"
-    },
-    {
-      "basename": "Drawing 2024-04-17 18.12.55.excalidraw",
-      "path": "Excalidraw/Drawing 2024-04-17 18.12.55.excalidraw.md"
-    },
-    {
-      "basename": "截屏2024-04-14 19.41.07",
-      "path": "attachment/截屏2024-04-14 19.41.07.png"
-    },
-    {
-      "basename": "Pasted image 20231226164159",
-      "path": "attachment/Pasted image 20231226164159.png"
-    },
-    {
-      "basename": "Pasted image 20240414231954",
-      "path": "attachment/Pasted image 20240414231954.png"
     }
   ],
   "omittedPaths": [

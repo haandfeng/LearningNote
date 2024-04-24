@@ -4,59 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "b681958a317e2623",
+        "id": "ca0e1d388faea30e",
         "type": "tabs",
         "children": [
           {
-            "id": "47f1cdde475e47de",
+            "id": "e9a9308a42b131f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "算法笔记/zuoAlgorithm/100. 算法课程/10. 基础课/01 认识复杂度、对数器、二分法与异或运算.md",
+                "file": "算法笔记/zuoAlgorithm/100. 算法课程/00. 新手班/04 单链表跟双链表.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "37ce65c530964d39",
+            "id": "ad07b570a1966bcd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "算法笔记/zuoAlgorithm/000. 学习大纲/基础班课程.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7dd6cc21473ca262",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "算法笔记/算法笔记新手班.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9de991f23eab80e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++学习/语法笔记.md",
+                "file": "C++算法/入门笔记.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#腾讯",
+                "query": "链表",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++学习/语法笔记.md",
+                "file": "C++算法/入门笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++学习/语法笔记.md",
+                "file": "C++算法/入门笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++学习/语法笔记.md"
+                "file": "C++算法/入门笔记.md"
               }
             }
           },
@@ -228,13 +204,21 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "9de991f23eab80e3",
+  "active": "ad07b570a1966bcd",
   "lastOpenFiles": [
-    "算法笔记/zuoAlgorithm/100. 算法课程/10. 基础课/01 认识复杂度、对数器、二分法与异或运算.md",
-    "C++学习/语法笔记.md",
-    "算法笔记/算法笔记新手班.md",
-    "算法笔记/zuoAlgorithm/000. 学习大纲/基础班课程.md",
+    "算法笔记/zuoAlgorithm/100. 算法课程/00. 新手班/04 单链表跟双链表.md",
+    "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/两个有序链表的合并.md",
+    "算法笔记/zuoAlgorithm/000. 学习大纲/___算法数据结构新手班.md",
     "C++算法/入门笔记.md",
+    "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/单链表和双链表如何反转.md",
+    "单链表跟双链表.md",
+    "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/反转链表.md",
+    "算法笔记/zuoAlgorithm/000. 学习大纲/__算法数据结构体系学习班题目汇总.md",
+    "算法笔记/算法笔记新手班.md",
+    "C++学习/语法笔记.md",
+    "算法笔记/zuoAlgorithm/100. 算法课程/10. 基础课/01 认识复杂度、对数器、二分法与异或运算.md",
+    "算法笔记/zuoAlgorithm/100. 算法课程/10. 基础课/06 链表相关面试题.md",
+    "算法笔记/zuoAlgorithm/000. 学习大纲/基础班课程.md",
     "考试回忆.md",
     "www.itheima.com?bz.md",
     "托福写作语法.md",
@@ -244,18 +228,10 @@
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/在一个有序数组中，找某个数是否存在.md",
     "算法笔记/zuoAlgorithm/010. 代码模板/冒泡排序.md",
     "算法笔记/zuoAlgorithm/100. 算法课程/00. 新手班/01 位运算、算法是什么、简单排序.md",
-    "算法笔记/zuoAlgorithm/000. 学习大纲/___算法数据结构新手班.md",
     "算法笔记/zuoAlgorithm/000. 学习大纲/__算法数据结构体系学习班.md",
     "算法笔记/zuoAlgorithm/000. 学习大纲/基础班课程题目汇总.md",
-    "算法笔记/zuoAlgorithm/000. 学习大纲/__算法数据结构体系学习班题目汇总.md",
     "算法笔记/zuoAlgorithm/000. 学习大纲/_大厂刷题班课程.md",
     "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/01 认识复杂度、对数器、二分法.md",
-    "算法笔记/zuoAlgorithm/000. 学习大纲/__每周算法营养课.md",
-    "算法笔记/zuoAlgorithm/000. 学习大纲/___算法数据结构新手班题目汇总.md",
-    "算法笔记/zuoAlgorithm/1000.Misc/Links.md",
-    "算法笔记/zuoAlgorithm/100. 算法课程/03. 算法营养课/2022年10月第1周.md",
-    "算法笔记/zuoAlgorithm/100. 算法课程/03. 算法营养课/2022年9月第4周.md",
-    "算法笔记/zuoAlgorithm/100. 算法课程/03. 算法营养课/2022年9月第2周.md",
     "attachment/截屏2024-04-14 19.41.07.png",
     "attachment/Pasted image 20231226164159.png",
     "attachment/Pasted image 20240414231954.png",
