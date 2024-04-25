@@ -86,13 +86,11 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 350.50390243530273,
-    "collapsed": true
+    "width": 350.50390243530273
   },
   "right": {
     "id": "5a22bf979ae2ada9",
@@ -185,7 +183,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5
+    "width": 239.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,11 +205,13 @@
   },
   "active": "ad07b570a1966bcd",
   "lastOpenFiles": [
-    "算法笔记/zuoAlgorithm/100. 算法课程/00. 新手班/04 单链表跟双链表.md",
-    "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/两个有序链表的合并.md",
-    "算法笔记/zuoAlgorithm/000. 学习大纲/___算法数据结构新手班.md",
+    "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/两个链表相加.md",
     "C++算法/入门笔记.md",
+    "算法笔记/zuoAlgorithm/100. 算法课程/00. 新手班/04 单链表跟双链表.md",
+    "算法笔记/zuoAlgorithm/000. 学习大纲/___算法数据结构新手班题目汇总.md",
+    "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/两个有序链表的合并.md",
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/单链表和双链表如何反转.md",
+    "算法笔记/zuoAlgorithm/000. 学习大纲/___算法数据结构新手班.md",
     "单链表跟双链表.md",
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/反转链表.md",
     "算法笔记/zuoAlgorithm/000. 学习大纲/__算法数据结构体系学习班题目汇总.md",
@@ -230,8 +231,6 @@
     "算法笔记/zuoAlgorithm/100. 算法课程/00. 新手班/01 位运算、算法是什么、简单排序.md",
     "算法笔记/zuoAlgorithm/000. 学习大纲/__算法数据结构体系学习班.md",
     "算法笔记/zuoAlgorithm/000. 学习大纲/基础班课程题目汇总.md",
-    "算法笔记/zuoAlgorithm/000. 学习大纲/_大厂刷题班课程.md",
-    "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/01 认识复杂度、对数器、二分法.md",
     "attachment/截屏2024-04-14 19.41.07.png",
     "attachment/Pasted image 20231226164159.png",
     "attachment/Pasted image 20240414231954.png",
