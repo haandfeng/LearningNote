@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "算法笔记/zuoAlgorithm/000. 学习大纲/__算法数据结构体系学习班题目汇总.md",
+                "file": "托福写作语法.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -50,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "栈",
+                "query": "虚拟语气",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "算法笔记/zuoAlgorithm/010. 代码模板/数组实现栈和队列.md",
+                "file": "托福写作语法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "算法笔记/zuoAlgorithm/010. 代码模板/数组实现栈和队列.md",
+                "file": "托福写作语法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "算法笔记/zuoAlgorithm/010. 代码模板/数组实现栈和队列.md"
+                "file": "托福写作语法.md"
               }
             }
           },
@@ -202,14 +203,21 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "568bdf8d1fe596eb",
+  "active": "6444590f667322f9",
   "lastOpenFiles": [
-    "C++算法/入门笔记.md",
+    "练习方法.md",
+    "入门笔记的关系图.md",
+    "托福课堂笔记.md",
+    "托福写作语法.md",
     "算法笔记/zuoAlgorithm/000. 学习大纲/__算法数据结构体系学习班题目汇总.md",
+    "未命名.md",
+    "未命名.canvas",
+    "Daily/2024-04-28.md",
+    "算法笔记/zuoAlgorithm/010. 代码模板/数组实现栈和队列.md",
+    "C++算法/入门笔记.md",
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/如何用栈结构实现队列结构.md",
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/实现最小栈.md",
     "算法笔记/zuoAlgorithm/004. 刷题经验总结/数据结构的设计题目.md",
-    "算法笔记/zuoAlgorithm/010. 代码模板/数组实现栈和队列.md",
     "算法笔记/zuoAlgorithm/003. 编程基础技巧及工具/数组替代系统自有结构.md",
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/双向链表实现栈和队列.md",
     "算法笔记/算法笔记新手班.md",
@@ -224,12 +232,6 @@
     "算法笔记/zuoAlgorithm/000. 学习大纲/基础班课程.md",
     "算法笔记/zuoAlgorithm/000. 学习大纲/基础班课程题目汇总.md",
     "算法笔记/zuoAlgorithm/000. 学习大纲/进阶班课程.md",
-    "算法笔记/zuoAlgorithm/000. 学习大纲/_大厂刷题班题目汇总.md",
-    "算法笔记/zuoAlgorithm/000. 学习大纲/_大厂刷题班之LeetCodeTop100题汇总.md",
-    "算法笔记/zuoAlgorithm/000. 学习大纲/_大厂刷题班之LeetCode高频题汇总.md",
-    "算法笔记/zuoAlgorithm/000. 学习大纲/_大厂刷题班课程.md",
-    "算法笔记/zuoAlgorithm/000. 学习大纲/_每周算法营养课题目汇总.md",
-    "C++算法/Drawing 2024-04-25 15.59.19.excalidraw.md",
     "attachment/截屏2024-04-14 19.41.07.png",
     "attachment/Pasted image 20231226164159.png",
     "attachment/Pasted image 20240414231954.png",
@@ -244,7 +246,6 @@
     "attachment/Pasted image 20240419212432.png",
     "attachment/Pasted image 20240419142145.png",
     "attachment/Pasted image 20240419141233.png",
-    "未命名.canvas",
     "Excalidraw",
     "attachment/Pasted image 20240414232145.png",
     "attachment/Pasted image 20240414194501.png",
