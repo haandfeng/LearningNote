@@ -30,21 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "503a9d820e513eab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++学习/语法笔记.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "队列",
+                "query": "循环队列",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,8 +85,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -119,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++学习/语法笔记.md",
+                "file": "C++算法/入门笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++学习/语法笔记.md",
+                "file": "C++算法/入门笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++学习/语法笔记.md"
+                "file": "C++算法/入门笔记.md"
               }
             }
           },
@@ -216,11 +202,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "503a9d820e513eab",
+  "active": "568bdf8d1fe596eb",
   "lastOpenFiles": [
-    "算法笔记/zuoAlgorithm/000. 学习大纲/__算法数据结构体系学习班题目汇总.md",
-    "C++算法/入门笔记.md",
     "算法笔记/zuoAlgorithm/010. 代码模板/数组实现栈和队列.md",
+    "C++算法/入门笔记.md",
+    "算法笔记/zuoAlgorithm/000. 学习大纲/__算法数据结构体系学习班题目汇总.md",
+    "C++学习/语法笔记.md",
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/如何用队列结构实现栈结构.md",
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/如何用栈结构实现队列结构.md",
     "托福写作语法.md",
@@ -244,7 +231,6 @@
     "算法笔记/zuoAlgorithm/000. 学习大纲/经典面试题课程.md",
     "算法笔记/zuoAlgorithm/100. 算法课程/10. 基础课/06 链表相关面试题.md",
     "算法笔记/zuoAlgorithm/000. 学习大纲/基础班课程.md",
-    "算法笔记/zuoAlgorithm/000. 学习大纲/基础班课程题目汇总.md",
     "attachment/截屏2024-04-14 19.41.07.png",
     "attachment/Pasted image 20231226164159.png",
     "attachment/Pasted image 20240414231954.png",
