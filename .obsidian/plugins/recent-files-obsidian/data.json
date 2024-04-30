@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Mit S.0681",
+      "path": "Mit S.0681.md"
+    },
+    {
       "basename": "入门笔记",
       "path": "C++算法/入门笔记.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "__每周算法营养课",
       "path": "算法笔记/zuoAlgorithm/000. 学习大纲/__每周算法营养课.md"
-    },
-    {
-      "basename": "2022年10月第1周",
-      "path": "算法笔记/zuoAlgorithm/100. 算法课程/03. 算法营养课/2022年10月第1周.md"
     }
   ],
   "omittedPaths": [
