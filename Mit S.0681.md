@@ -5,4 +5,8 @@
 窗口1：
 make qemu-gdb
 窗口2:
-riscv64-unknown-elf-gdb
+
+brew install riscv64-elf-gdb
+riscv64-elf-gdb
+target remote localhost:25501
+file kernel/kernel
