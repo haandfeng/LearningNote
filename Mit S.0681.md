@@ -10,3 +10,6 @@ brew install riscv64-elf-gdb
 riscv64-elf-gdb
 target remote localhost:25501
 file kernel/kernel
+
+
+[参考链接](https://www.cnblogs.com/KatyuMarisaBlog/p/13727565.html)
