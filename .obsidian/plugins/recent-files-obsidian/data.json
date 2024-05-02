@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Data Mining",
+      "path": "Data Mining.md"
+    },
+    {
       "basename": "Mit S.0681",
       "path": "Mit S.0681.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "01 认识复杂度、对数器、二分法",
       "path": "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/01 认识复杂度、对数器、二分法.md"
-    },
-    {
-      "basename": "__每周算法营养课",
-      "path": "算法笔记/zuoAlgorithm/000. 学习大纲/__每周算法营养课.md"
     }
   ],
   "omittedPaths": [

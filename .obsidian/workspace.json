@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bef4f74d89637144",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Mining.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -120,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mit S.0681.md",
+                "file": "Data Mining.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mit S.0681.md",
+                "file": "Data Mining.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mit S.0681.md"
+                "file": "Data Mining.md"
               }
             }
           },
@@ -217,10 +229,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "3d609e169ead162b",
+  "active": "bef4f74d89637144",
   "lastOpenFiles": [
-    "算法笔记/zuoAlgorithm/000. 学习大纲/__算法数据结构体系学习班题目汇总.md",
+    "Data Mining.md",
     "Mit S.0681.md",
+    "算法笔记/zuoAlgorithm/000. 学习大纲/__算法数据结构体系学习班题目汇总.md",
     "C++算法/入门笔记.md",
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/实现最小栈.md",
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/如何用栈结构实现队列结构.md",
@@ -245,7 +258,6 @@
     "算法笔记/zuoAlgorithm/000. 学习大纲/进阶班课程题目汇总.md",
     "算法笔记/zuoAlgorithm/000. 学习大纲/经典面试题课程.md",
     "算法笔记/zuoAlgorithm/100. 算法课程/10. 基础课/06 链表相关面试题.md",
-    "算法笔记/zuoAlgorithm/000. 学习大纲/基础班课程.md",
     "attachment/截屏2024-04-14 19.41.07.png",
     "attachment/Pasted image 20231226164159.png",
     "attachment/Pasted image 20240414231954.png",
