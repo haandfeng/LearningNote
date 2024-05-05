@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Git",
+      "path": "Git.md"
+    },
+    {
       "basename": "入门笔记",
       "path": "C++算法/入门笔记.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "01 位运算、算法是什么、简单排序",
       "path": "算法笔记/zuoAlgorithm/100. 算法课程/00. 新手班/01 位运算、算法是什么、简单排序.md"
-    },
-    {
-      "basename": "01 认识复杂度、对数器、二分法",
-      "path": "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/01 认识复杂度、对数器、二分法.md"
     }
   ],
   "omittedPaths": [

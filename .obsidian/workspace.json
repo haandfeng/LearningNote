@@ -30,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f35386b0ed2d0a4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++算法/入门笔记.md",
+                "file": "Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++算法/入门笔记.md",
+                "file": "Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++算法/入门笔记.md"
+                "file": "Git.md"
               }
             }
           },
@@ -204,12 +217,13 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "568bdf8d1fe596eb",
+  "active": "f35386b0ed2d0a4d",
   "lastOpenFiles": [
+    "Git.md",
+    "C++算法/入门笔记.md",
     "算法笔记/zuoAlgorithm/000. 学习大纲/__算法数据结构体系学习班题目汇总.md",
     "Mit S.0681.md",
     "Data Mining.md",
-    "C++算法/入门笔记.md",
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/实现最小栈.md",
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/如何用栈结构实现队列结构.md",
     "算法笔记/zuoAlgorithm/010. 代码模板/数组实现栈和队列.md",
@@ -232,7 +246,6 @@
     "算法笔记/zuoAlgorithm/000. 学习大纲/___算法数据结构新手班题目汇总.md",
     "算法笔记/zuoAlgorithm/000. 学习大纲/进阶班课程题目汇总.md",
     "算法笔记/zuoAlgorithm/000. 学习大纲/经典面试题课程.md",
-    "算法笔记/zuoAlgorithm/100. 算法课程/10. 基础课/06 链表相关面试题.md",
     "attachment/截屏2024-04-14 19.41.07.png",
     "attachment/Pasted image 20231226164159.png",
     "attachment/Pasted image 20240414231954.png",
