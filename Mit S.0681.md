@@ -11,5 +11,9 @@ riscv64-elf-gdb
 target remote localhost:25501
 file kernel/kernel
 
-
+在vscode上调试
 [参考链接](https://www.cnblogs.com/KatyuMarisaBlog/p/13727565.html)
+参考上面链接后半部分，配置好自己的gdb和对应的端口
+然后在终端 make qemu gdb
+然后在vscode 上debg
+
