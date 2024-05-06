@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "网站修改方法.md",
+                "file": "Mit S.0681.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d373977bc34f1c3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -120,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "网站修改方法.md",
+                "file": "Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "网站修改方法.md",
+                "file": "Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "网站修改方法.md"
+                "file": "Git.md"
               }
             }
           },
@@ -217,8 +229,13 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "f35386b0ed2d0a4d",
+  "active": "d373977bc34f1c3f",
   "lastOpenFiles": [
+    "attachment/Pasted image 20240506165447.png",
+    "attachment/截屏2024-05-06 16.54.12.png",
+    "Mit S.0681.md",
+    "Git.md",
+    "网站修改方法.md",
     "attachment/Pasted image 20240505190509.png",
     "attachment/Pasted image 20240505190107.png",
     "attachment/Pasted image 20240505185947.png",
@@ -228,12 +245,8 @@
     "attachment/Pasted image 20240505184434.png",
     "attachment/Pasted image 20240505184143.png",
     "attachment/Pasted image 20240505184114.png",
-    "attachment/Pasted image 20240505184018.png",
-    "attachment/Pasted image 20240505183858.png",
-    "网站修改方法.md",
     "C++算法/入门笔记.md",
     "算法笔记/zuoAlgorithm/000. 学习大纲/__算法数据结构体系学习班题目汇总.md",
-    "Mit S.0681.md",
     "Data Mining.md",
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/实现最小栈.md",
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/如何用栈结构实现队列结构.md",
@@ -255,7 +268,6 @@
     "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/03 链表结构、栈、队列、递归行为、哈希表和有序表.md",
     "算法笔记/zuoAlgorithm/000. 学习大纲/__算法数据结构体系学习班.md",
     "算法笔记/zuoAlgorithm/000. 学习大纲/___算法数据结构新手班题目汇总.md",
-    "算法笔记/zuoAlgorithm/000. 学习大纲/进阶班课程题目汇总.md",
     "attachment/2023AI期中答案 3.pdf",
     "attachment/2023AI期中答案 2.pdf",
     "attachment/2023AI期中答案 1.pdf",

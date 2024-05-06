@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Git",
+      "path": "Git.md"
+    },
+    {
+      "basename": "Mit S.0681",
+      "path": "Mit S.0681.md"
+    },
+    {
       "basename": "网站修改方法",
       "path": "网站修改方法.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "__算法数据结构体系学习班题目汇总",
       "path": "算法笔记/zuoAlgorithm/000. 学习大纲/__算法数据结构体系学习班题目汇总.md"
-    },
-    {
-      "basename": "Mit S.0681",
-      "path": "Mit S.0681.md"
     },
     {
       "basename": "Data Mining",
@@ -195,10 +199,6 @@
     {
       "basename": "冒泡排序",
       "path": "算法笔记/zuoAlgorithm/010. 代码模板/冒泡排序.md"
-    },
-    {
-      "basename": "01 位运算、算法是什么、简单排序",
-      "path": "算法笔记/zuoAlgorithm/100. 算法课程/00. 新手班/01 位运算、算法是什么、简单排序.md"
     }
   ],
   "omittedPaths": [
