@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Data Mining",
+      "path": "Data Mining.md"
+    },
+    {
+      "basename": "Diffusion Model",
+      "path": "学校学习/Diffusion Model.md"
+    },
+    {
+      "basename": "FER",
+      "path": "FER.md"
+    },
+    {
       "basename": "Mit S.0681",
       "path": "Mit S.0681.md"
     },
@@ -19,10 +31,6 @@
     {
       "basename": "__算法数据结构体系学习班题目汇总",
       "path": "算法笔记/zuoAlgorithm/000. 学习大纲/__算法数据结构体系学习班题目汇总.md"
-    },
-    {
-      "basename": "Data Mining",
-      "path": "Data Mining.md"
     },
     {
       "basename": "实现最小栈",
@@ -191,14 +199,6 @@
     {
       "basename": "局部最小值问题",
       "path": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/局部最小值问题.md"
-    },
-    {
-      "basename": "在一个有序数组中，找某个数是否存在",
-      "path": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/在一个有序数组中，找某个数是否存在.md"
-    },
-    {
-      "basename": "冒泡排序",
-      "path": "算法笔记/zuoAlgorithm/010. 代码模板/冒泡排序.md"
     }
   ],
   "omittedPaths": [
