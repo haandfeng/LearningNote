@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "网站修改方法",
+      "path": "网站修改方法.md"
+    },
+    {
       "basename": "Mit S.0681",
       "path": "Mit S.0681.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "Git",
       "path": "Git.md"
-    },
-    {
-      "basename": "网站修改方法",
-      "path": "网站修改方法.md"
     },
     {
       "basename": "实现最小栈",

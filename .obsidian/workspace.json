@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mit S.0681.md",
+                "file": "网站修改方法.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mit S.0681.md",
+                "file": "网站修改方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mit S.0681.md",
+                "file": "网站修改方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mit S.0681.md"
+                "file": "网站修改方法.md"
               }
             }
           },
@@ -194,11 +194,11 @@
   },
   "active": "6444590f667322f9",
   "lastOpenFiles": [
+    "Mit S.0681.md",
     "算法笔记/zuoAlgorithm/000. 学习大纲/__算法数据结构体系学习班题目汇总.md",
     "C++算法/入门笔记.md",
     "Data Mining.md",
     "FER.md",
-    "Mit S.0681.md",
     "学校学习/Diffusion Model.md",
     "Git.md",
     "attachment/Pasted image 20240506165447.png",

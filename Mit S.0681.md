@@ -17,5 +17,5 @@ file kernel/kernel
 参考上面链接后半部分，配置好自己的gdb和对应的端口
 然后在终端 make qemu gdb
 然后在vscode 上debg
-
+__attribute__((noreturn))
 -exec file /user/_ sleep
