@@ -7,7 +7,7 @@ make qemu-gdb
 窗口2:
 
 brew install riscv64-elf-gdb
-要先到代码目录启动才可以执行file kernel/kernel
+要先到那个目录启动才可以执行file kernel/kernel
 riscv64-elf-gdb
 target remote localhost:25501
 file kernel/kernel
