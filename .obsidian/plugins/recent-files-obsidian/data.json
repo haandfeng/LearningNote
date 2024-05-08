@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "__算法数据结构体系学习班题目汇总",
+      "path": "算法笔记/zuoAlgorithm/000. 学习大纲/__算法数据结构体系学习班题目汇总.md"
+    },
+    {
+      "basename": "入门笔记",
+      "path": "C++算法/入门笔记.md"
+    },
+    {
       "basename": "Data Mining",
       "path": "Data Mining.md"
     },
     {
-      "basename": "Diffusion Model",
-      "path": "学校学习/Diffusion Model.md"
-    },
-    {
-      "basename": "FER",
-      "path": "FER.md"
-    },
-    {
       "basename": "Mit S.0681",
       "path": "Mit S.0681.md"
+    },
+    {
+      "basename": "Diffusion Model",
+      "path": "学校学习/Diffusion Model.md"
     },
     {
       "basename": "Git",
@@ -23,14 +27,6 @@
     {
       "basename": "网站修改方法",
       "path": "网站修改方法.md"
-    },
-    {
-      "basename": "入门笔记",
-      "path": "C++算法/入门笔记.md"
-    },
-    {
-      "basename": "__算法数据结构体系学习班题目汇总",
-      "path": "算法笔记/zuoAlgorithm/000. 学习大纲/__算法数据结构体系学习班题目汇总.md"
     },
     {
       "basename": "实现最小栈",

@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "568bdf8d1fe596eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++算法/入门笔记.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d85799f9e9bdb62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Mining.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6444590f667322f9",
             "type": "leaf",
             "state": {
@@ -42,33 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f35386b0ed2d0a4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mit S.0681.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d373977bc34f1c3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mit S.0681.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,11 +73,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 350.50390243530273,
+    "width": 200,
     "collapsed": true
   },
   "right": {
@@ -143,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Mining.md",
+                "file": "算法笔记/zuoAlgorithm/000. 学习大纲/__算法数据结构体系学习班题目汇总.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Mining.md",
+                "file": "算法笔记/zuoAlgorithm/000. 学习大纲/__算法数据结构体系学习班题目汇总.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Mining.md"
+                "file": "算法笔记/zuoAlgorithm/000. 学习大纲/__算法数据结构体系学习班题目汇总.md"
               }
             }
           },
@@ -240,11 +192,14 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "1d85799f9e9bdb62",
+  "active": "6444590f667322f9",
   "lastOpenFiles": [
-    "学校学习/Diffusion Model.md",
+    "C++算法/入门笔记.md",
+    "Data Mining.md",
+    "算法笔记/zuoAlgorithm/000. 学习大纲/__算法数据结构体系学习班题目汇总.md",
     "FER.md",
     "Mit S.0681.md",
+    "学校学习/Diffusion Model.md",
     "Git.md",
     "attachment/Pasted image 20240506165447.png",
     "attachment/截屏2024-05-06 16.54.12.png",
@@ -257,9 +212,6 @@
     "attachment/Pasted image 20240505184637.png",
     "attachment/Pasted image 20240505184434.png",
     "attachment/Pasted image 20240505184143.png",
-    "C++算法/入门笔记.md",
-    "算法笔记/zuoAlgorithm/000. 学习大纲/__算法数据结构体系学习班题目汇总.md",
-    "Data Mining.md",
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/实现最小栈.md",
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/如何用栈结构实现队列结构.md",
     "算法笔记/zuoAlgorithm/010. 代码模板/数组实现栈和队列.md",
