@@ -7,6 +7,7 @@ make qemu-gdb
 窗口2:
 
 brew install riscv64-elf-gdb
+要先到代码目录启动才可以执行file kernel/kernel
 riscv64-elf-gdb
 target remote localhost:25501
 file kernel/kernel
@@ -17,3 +18,4 @@ file kernel/kernel
 然后在终端 make qemu gdb
 然后在vscode 上debg
 
+-exec file /user/_ sleep
