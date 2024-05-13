@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "aa771ae472f8869d",
+        "id": "54bd738e898d140e",
         "type": "tabs",
         "children": [
           {
-            "id": "6444590f667322f9",
+            "id": "3473b0bcc6910562",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "网站修改方法.md",
+                "file": "C++算法/入门笔记.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "DDPM",
+                "query": "双端",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,12 +73,11 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 415.50390243530273,
     "collapsed": true
   },
   "right": {
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "网站修改方法.md",
+                "file": "C++算法/入门笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "网站修改方法.md",
+                "file": "C++算法/入门笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "网站修改方法.md"
+                "file": "C++算法/入门笔记.md"
               }
             }
           },
@@ -192,18 +191,22 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "6444590f667322f9",
+  "active": "3473b0bcc6910562",
   "lastOpenFiles": [
+    "算法笔记/zuoAlgorithm/002. 知识点总结/00. 编程语言相关/Java中的常见数据结构.md",
+    "算法笔记/zuoAlgorithm/002. 知识点总结/00. 编程语言相关/Java中的容器, 队列, 堆栈.md",
+    "C++算法/入门笔记.md",
+    "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/用双链表实现双端队列.md",
+    "算法笔记/zuoAlgorithm/000. 学习大纲/___算法数据结构新手班题目汇总.md",
+    "网站修改方法.md",
     "Mit S.0681.md",
     "算法笔记/zuoAlgorithm/000. 学习大纲/__算法数据结构体系学习班题目汇总.md",
-    "C++算法/入门笔记.md",
     "Data Mining.md",
     "FER.md",
     "学校学习/Diffusion Model.md",
     "Git.md",
     "attachment/Pasted image 20240506165447.png",
     "attachment/截屏2024-05-06 16.54.12.png",
-    "网站修改方法.md",
     "attachment/Pasted image 20240505190509.png",
     "attachment/Pasted image 20240505190107.png",
     "attachment/Pasted image 20240505185947.png",
@@ -227,10 +230,6 @@
     "算法笔记/zuoAlgorithm/003. 编程基础技巧及工具/数组替代系统自有结构.md",
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/双向链表实现栈和队列.md",
     "算法笔记/算法笔记新手班.md",
-    "算法笔记/zuoAlgorithm/1000.Misc/Links.md",
-    "算法笔记/zuoAlgorithm/100. 算法课程/10. 基础课/02 链表结构、栈、队列、递归行为、哈希表和有序表.md",
-    "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/03 链表结构、栈、队列、递归行为、哈希表和有序表.md",
-    "算法笔记/zuoAlgorithm/000. 学习大纲/__算法数据结构体系学习班.md",
     "attachment/2023AI期中答案 3.pdf",
     "attachment/2023AI期中答案 2.pdf",
     "attachment/2023AI期中答案 1.pdf",

@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "入门笔记",
+      "path": "C++算法/入门笔记.md"
+    },
+    {
+      "basename": "Java中的常见数据结构",
+      "path": "算法笔记/zuoAlgorithm/002. 知识点总结/00. 编程语言相关/Java中的常见数据结构.md"
+    },
+    {
+      "basename": "Java中的容器, 队列, 堆栈",
+      "path": "算法笔记/zuoAlgorithm/002. 知识点总结/00. 编程语言相关/Java中的容器, 队列, 堆栈.md"
+    },
+    {
+      "basename": "用双链表实现双端队列",
+      "path": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/用双链表实现双端队列.md"
+    },
+    {
+      "basename": "___算法数据结构新手班题目汇总",
+      "path": "算法笔记/zuoAlgorithm/000. 学习大纲/___算法数据结构新手班题目汇总.md"
+    },
+    {
       "basename": "网站修改方法",
       "path": "网站修改方法.md"
     },
@@ -11,10 +31,6 @@
     {
       "basename": "__算法数据结构体系学习班题目汇总",
       "path": "算法笔记/zuoAlgorithm/000. 学习大纲/__算法数据结构体系学习班题目汇总.md"
-    },
-    {
-      "basename": "入门笔记",
-      "path": "C++算法/入门笔记.md"
     },
     {
       "basename": "Data Mining",
@@ -95,10 +111,6 @@
     {
       "basename": "__算法数据结构体系学习班",
       "path": "算法笔记/zuoAlgorithm/000. 学习大纲/__算法数据结构体系学习班.md"
-    },
-    {
-      "basename": "___算法数据结构新手班题目汇总",
-      "path": "算法笔记/zuoAlgorithm/000. 学习大纲/___算法数据结构新手班题目汇总.md"
     },
     {
       "basename": "进阶班课程题目汇总",
@@ -187,14 +199,6 @@
     {
       "basename": "考试回忆",
       "path": "考试回忆.md"
-    },
-    {
-      "basename": "学习资料",
-      "path": "C++学习/学习资料.md"
-    },
-    {
-      "basename": "局部最小值问题",
-      "path": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/局部最小值问题.md"
     }
   ],
   "omittedPaths": [
