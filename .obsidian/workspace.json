@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++算法/入门笔记.md",
+                "file": "C++学习/语法笔记.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,8 +38,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "双端",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -73,7 +73,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++算法/入门笔记.md",
+                "file": "C++学习/语法笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++算法/入门笔记.md",
+                "file": "C++学习/语法笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++算法/入门笔记.md"
+                "file": "C++学习/语法笔记.md"
               }
             }
           },
@@ -193,9 +194,9 @@
   },
   "active": "3473b0bcc6910562",
   "lastOpenFiles": [
+    "C++算法/入门笔记.md",
     "算法笔记/zuoAlgorithm/002. 知识点总结/00. 编程语言相关/Java中的常见数据结构.md",
     "算法笔记/zuoAlgorithm/002. 知识点总结/00. 编程语言相关/Java中的容器, 队列, 堆栈.md",
-    "C++算法/入门笔记.md",
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/用双链表实现双端队列.md",
     "算法笔记/zuoAlgorithm/000. 学习大纲/___算法数据结构新手班题目汇总.md",
     "网站修改方法.md",
