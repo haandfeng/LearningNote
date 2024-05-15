@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "语法笔记",
-      "path": "C++学习/语法笔记.md"
-    },
-    {
       "basename": "入门笔记",
       "path": "C++算法/入门笔记.md"
+    },
+    {
+      "basename": "递归方式实现二叉树的三序遍历",
+      "path": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/递归方式实现二叉树的三序遍历.md"
+    },
+    {
+      "basename": "非递归方式实现二叉树的三序遍历",
+      "path": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/非递归方式实现二叉树的三序遍历.md"
+    },
+    {
+      "basename": "07 二叉树的基本算法",
+      "path": "算法笔记/zuoAlgorithm/100. 算法课程/10. 基础课/07 二叉树的基本算法.md"
+    },
+    {
+      "basename": "__算法数据结构体系学习班题目汇总",
+      "path": "算法笔记/zuoAlgorithm/000. 学习大纲/__算法数据结构体系学习班题目汇总.md"
+    },
+    {
+      "basename": "基础班课程题目汇总",
+      "path": "算法笔记/zuoAlgorithm/000. 学习大纲/基础班课程题目汇总.md"
+    },
+    {
+      "basename": "语法笔记",
+      "path": "C++学习/语法笔记.md"
     },
     {
       "basename": "Java中的常见数据结构",
@@ -31,10 +51,6 @@
     {
       "basename": "Mit S.0681",
       "path": "Mit S.0681.md"
-    },
-    {
-      "basename": "__算法数据结构体系学习班题目汇总",
-      "path": "算法笔记/zuoAlgorithm/000. 学习大纲/__算法数据结构体系学习班题目汇总.md"
     },
     {
       "basename": "Data Mining",
@@ -129,10 +145,6 @@
       "path": "算法笔记/zuoAlgorithm/000. 学习大纲/基础班课程.md"
     },
     {
-      "basename": "基础班课程题目汇总",
-      "path": "算法笔记/zuoAlgorithm/000. 学习大纲/基础班课程题目汇总.md"
-    },
-    {
       "basename": "进阶班课程",
       "path": "算法笔记/zuoAlgorithm/000. 学习大纲/进阶班课程.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "单链表跟双链表",
       "path": "单链表跟双链表.md"
-    },
-    {
-      "basename": "反转链表",
-      "path": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/反转链表.md"
-    },
-    {
-      "basename": "01 认识复杂度、对数器、二分法与异或运算",
-      "path": "算法笔记/zuoAlgorithm/100. 算法课程/10. 基础课/01 认识复杂度、对数器、二分法与异或运算.md"
-    },
-    {
-      "basename": "考试回忆",
-      "path": "考试回忆.md"
     }
   ],
   "omittedPaths": [

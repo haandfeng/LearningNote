@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++学习/语法笔记.md",
+                "file": "C++算法/入门笔记.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "732cdf3d904f5eee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/非递归方式实现二叉树的三序遍历.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "三序",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,12 +85,11 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 415.50390243530273,
+    "width": 457.51103591918945,
     "collapsed": true
   },
   "right": {
@@ -95,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++学习/语法笔记.md",
+                "file": "C++算法/入门笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++学习/语法笔记.md",
+                "file": "C++算法/入门笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++学习/语法笔记.md"
+                "file": "C++算法/入门笔记.md"
               }
             }
           },
@@ -194,14 +205,19 @@
   },
   "active": "3473b0bcc6910562",
   "lastOpenFiles": [
+    "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/递归方式实现二叉树的三序遍历.md",
+    "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/非递归方式实现二叉树的三序遍历.md",
     "C++算法/入门笔记.md",
+    "算法笔记/zuoAlgorithm/100. 算法课程/10. 基础课/07 二叉树的基本算法.md",
+    "算法笔记/zuoAlgorithm/000. 学习大纲/__算法数据结构体系学习班题目汇总.md",
+    "算法笔记/zuoAlgorithm/000. 学习大纲/基础班课程题目汇总.md",
+    "C++学习/语法笔记.md",
     "算法笔记/zuoAlgorithm/002. 知识点总结/00. 编程语言相关/Java中的常见数据结构.md",
     "算法笔记/zuoAlgorithm/002. 知识点总结/00. 编程语言相关/Java中的容器, 队列, 堆栈.md",
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/用双链表实现双端队列.md",
     "算法笔记/zuoAlgorithm/000. 学习大纲/___算法数据结构新手班题目汇总.md",
     "网站修改方法.md",
     "Mit S.0681.md",
-    "算法笔记/zuoAlgorithm/000. 学习大纲/__算法数据结构体系学习班题目汇总.md",
     "Data Mining.md",
     "FER.md",
     "学校学习/Diffusion Model.md",
@@ -219,7 +235,6 @@
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/实现最小栈.md",
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/如何用栈结构实现队列结构.md",
     "算法笔记/zuoAlgorithm/010. 代码模板/数组实现栈和队列.md",
-    "C++学习/语法笔记.md",
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/如何用队列结构实现栈结构.md",
     "托福写作语法.md",
     "托福课堂笔记.md",
@@ -227,10 +242,6 @@
     "入门笔记的关系图.md",
     "未命名.canvas",
     "Daily/2024-04-28.md",
-    "算法笔记/zuoAlgorithm/004. 刷题经验总结/数据结构的设计题目.md",
-    "算法笔记/zuoAlgorithm/003. 编程基础技巧及工具/数组替代系统自有结构.md",
-    "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/双向链表实现栈和队列.md",
-    "算法笔记/算法笔记新手班.md",
     "attachment/2023AI期中答案 3.pdf",
     "attachment/2023AI期中答案 2.pdf",
     "attachment/2023AI期中答案 1.pdf",
