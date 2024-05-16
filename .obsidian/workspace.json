@@ -11,8 +11,12 @@
             "id": "2bd16ede0b225331",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Mit S.0681.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -69,7 +73,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mit S.0681.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Mit S.0681.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Mit S.0681.md"
+              }
             }
           },
           {
@@ -185,6 +194,7 @@
   },
   "active": "2bd16ede0b225331",
   "lastOpenFiles": [
+    "attachment/Pasted image 20240516163026.png",
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/非递归方式实现二叉树的三序遍历.md",
     "C++算法/入门笔记.md",
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/递归方式实现二叉树的三序遍历.md",
@@ -221,7 +231,6 @@
     "练习方法.md",
     "入门笔记的关系图.md",
     "未命名.canvas",
-    "Daily/2024-04-28.md",
     "attachment/2023AI期中答案 3.pdf",
     "attachment/2023AI期中答案 2.pdf",
     "attachment/2023AI期中答案 1.pdf",

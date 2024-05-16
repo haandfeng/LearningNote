@@ -19,3 +19,5 @@ file kernel/kernel
 然后在vscode 上debg
 __attribute__((noreturn))
 -exec file /user/_ sleep
+
+![[Pasted image 20240516163026.png]]
