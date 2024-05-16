@@ -10,6 +10,7 @@ brew install riscv64-elf-gdb
 要先到那个目录启动才可以执行file kernel/kernel
 riscv64-elf-gdb
 target remote localhost:25501
+b sys_sleep
 c
 file kernel/kernel
 p $fp
