@@ -23,3 +23,8 @@ __attribute__((noreturn))
 -exec file /user/_ sleep
 
 ![[Pasted image 20240516163026.png]]
+
+
+
+
+![[Pasted image 20240516230615.png]]
