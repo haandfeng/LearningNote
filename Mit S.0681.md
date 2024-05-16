@@ -10,8 +10,9 @@ brew install riscv64-elf-gdb
 要先到那个目录启动才可以执行file kernel/kernel
 riscv64-elf-gdb
 target remote localhost:25501
+c
 file kernel/kernel
-
+p $fp
 在vscode上调试
 [参考链接](https://www.cnblogs.com/KatyuMarisaBlog/p/13727565.html)
 参考上面链接后半部分，配置好自己的gdb和对应的端口
