@@ -13,6 +13,7 @@ target remote localhost:25501
 b sys_sleep
 c
 file kernel/kernel
+layout split
 p $fp
 在vscode上调试
 [参考链接](https://www.cnblogs.com/KatyuMarisaBlog/p/13727565.html)
