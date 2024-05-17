@@ -10,6 +10,7 @@ brew install riscv64-elf-gdb
 要先到那个目录启动才可以执行file kernel/kernel
 riscv64-elf-gdb
 target remote localhost:25501
+b cowtest.c:30
 b sys_sleep
 c
 file kernel/kernel
@@ -21,7 +22,7 @@ p $fp
 然后在终端 make qemu gdb
 然后在vscode 上debg
 __attribute__((noreturn))
--exec file /user/_ sleep
+-exec file user/_ sleep
 
 ![[Pasted image 20240516163026.png]]
 
@@ -34,3 +35,5 @@ __attribute__((noreturn))
 
 
 ![[Pasted image 20240517103147.png]]
+
+![[Pasted image 20240517151159.png]]
