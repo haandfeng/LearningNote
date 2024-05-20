@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mit S.0681.md",
+                "file": "面试/笔试/柠檬微趣.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 457.51103591918945,
+    "width": 307.51103591918945,
     "collapsed": true
   },
   "right": {
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mit S.0681.md",
+                "file": "面试/笔试/柠檬微趣.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mit S.0681.md",
+                "file": "面试/笔试/柠檬微趣.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mit S.0681.md"
+                "file": "面试/笔试/柠檬微趣.md"
               }
             }
           },
@@ -194,6 +194,13 @@
   },
   "active": "2bd16ede0b225331",
   "lastOpenFiles": [
+    "Mit S.0681.md",
+    "面试/笔试/柠檬微趣.md",
+    "未命名.md",
+    "未命名 1.md",
+    "面试/笔试",
+    "未命名",
+    "面试",
     "attachment/Pasted image 20240517182832.png",
     "attachment/Pasted image 20240517151159.png",
     "attachment/Pasted image 20240517103147.png",
@@ -212,7 +219,6 @@
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/用双链表实现双端队列.md",
     "算法笔记/zuoAlgorithm/000. 学习大纲/___算法数据结构新手班题目汇总.md",
     "网站修改方法.md",
-    "Mit S.0681.md",
     "Data Mining.md",
     "FER.md",
     "学校学习/Diffusion Model.md",
@@ -221,15 +227,12 @@
     "attachment/截屏2024-05-06 16.54.12.png",
     "attachment/Pasted image 20240505190509.png",
     "attachment/Pasted image 20240505190107.png",
-    "attachment/Pasted image 20240505185947.png",
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/实现最小栈.md",
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/如何用栈结构实现队列结构.md",
     "算法笔记/zuoAlgorithm/010. 代码模板/数组实现栈和队列.md",
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/如何用队列结构实现栈结构.md",
     "托福写作语法.md",
     "托福课堂笔记.md",
-    "练习方法.md",
-    "入门笔记的关系图.md",
     "未命名.canvas",
     "attachment/2023AI期中答案 3.pdf",
     "attachment/2023AI期中答案 2.pdf",
@@ -238,9 +241,6 @@
     "学校学习",
     "C++算法",
     "Excalidraw",
-    "Obidian使用教程/4. Obsidian中的链接.pdf",
-    "Obidian使用教程/1. Obsidian简介.pdf",
-    "C++学习",
     "未命名 1.canvas",
     "未命名 3.canvas",
     "未命名 2.canvas"
