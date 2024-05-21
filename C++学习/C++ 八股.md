@@ -47,3 +47,6 @@ ET（edge - triggered）是高速工作方式，只支持 no-block socket。在�
 
 ET 模式在很大程度上减少了 epoll 事件被重复触发的次数，因此效率要比LT 模式高。epoll
 工作在 ET 模式的时候，必须使用非阻塞套接口，以避免由于一个文件句柄的阻塞读/阻塞写操作把处理多个文件描述符的任务饿死
+
+# 智能指针
+[参考链接](https://blog.csdn.net/cpp_learner/article/details/118912592)
