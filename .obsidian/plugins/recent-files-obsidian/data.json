@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "C++ 八股",
+      "path": "C++学习/C++ 八股.md"
+    },
+    {
+      "basename": "语法笔记",
+      "path": "C++学习/语法笔记.md"
+    },
+    {
+      "basename": "C++ Tiny WebServer 学习记录",
+      "path": "C++学习/C++ Tiny WebServer 学习记录.md"
+    },
+    {
+      "basename": "学习资料",
+      "path": "C++学习/学习资料.md"
+    },
+    {
+      "basename": "书评",
+      "path": "C++学习/书评.md"
+    },
+    {
       "basename": "入门笔记",
       "path": "C++算法/入门笔记.md"
     },
@@ -43,10 +63,6 @@
     {
       "basename": "基础班课程题目汇总",
       "path": "算法笔记/zuoAlgorithm/000. 学习大纲/基础班课程题目汇总.md"
-    },
-    {
-      "basename": "语法笔记",
-      "path": "C++学习/语法笔记.md"
     },
     {
       "basename": "Java中的常见数据结构",
@@ -183,22 +199,6 @@
     {
       "basename": "_每周算法营养课题目汇总",
       "path": "算法笔记/zuoAlgorithm/000. 学习大纲/_每周算法营养课题目汇总.md"
-    },
-    {
-      "basename": "04 单链表跟双链表",
-      "path": "算法笔记/zuoAlgorithm/100. 算法课程/00. 新手班/04 单链表跟双链表.md"
-    },
-    {
-      "basename": "将单向链表按某值划分成左边小、中间相等、右边大的形式",
-      "path": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/将单向链表按某值划分成左边小、中间相等、右边大的形式.md"
-    },
-    {
-      "basename": "链表相关问题",
-      "path": "算法笔记/zuoAlgorithm/001. 难点重点照顾/链表相关问题.md"
-    },
-    {
-      "basename": "两个链表相加",
-      "path": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/两个链表相加.md"
     }
   ],
   "omittedPaths": [
