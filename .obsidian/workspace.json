@@ -11,8 +11,12 @@
             "id": "b632a5215a69cfb2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "考试回忆.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -91,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "考试回忆.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "考试回忆.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "考试回忆.md"
+              }
             }
           },
           {
@@ -184,7 +192,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "b632a5215a69cfb2",
+  "active": "ab3df9bd0138c1ec",
   "lastOpenFiles": [
     "C++学习/C++ 八股.md",
     "C++学习/语法笔记.md",

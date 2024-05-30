@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "考试回忆",
+      "path": "考试回忆.md"
+    },
+    {
       "basename": "C++ 八股",
       "path": "C++学习/C++ 八股.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_大厂刷题班课程",
       "path": "算法笔记/zuoAlgorithm/000. 学习大纲/_大厂刷题班课程.md"
-    },
-    {
-      "basename": "_每周算法营养课题目汇总",
-      "path": "算法笔记/zuoAlgorithm/000. 学习大纲/_每周算法营养课题目汇总.md"
     }
   ],
   "omittedPaths": [
