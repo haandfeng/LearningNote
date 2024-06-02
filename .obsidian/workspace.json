@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考试回忆.md",
+                "file": "C++学习/语法笔记.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "三序",
+                "query": "lambda",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +73,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "考试回忆.md",
+                "file": "C++学习/语法笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "考试回忆.md",
+                "file": "C++学习/语法笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考试回忆.md"
+                "file": "C++学习/语法笔记.md"
               }
             }
           },
@@ -192,8 +191,9 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "ab3df9bd0138c1ec",
+  "active": "b632a5215a69cfb2",
   "lastOpenFiles": [
+    "考试回忆.md",
     "C++学习/C++ 八股.md",
     "C++学习/语法笔记.md",
     "C++学习/C++ Tiny WebServer 学习记录.md",
@@ -233,7 +233,6 @@
     "attachment/Pasted image 20240505190509.png",
     "attachment/Pasted image 20240505190107.png",
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/实现最小栈.md",
-    "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/如何用栈结构实现队列结构.md",
     "attachment/2023AI期中答案 3.pdf",
     "attachment/2023AI期中答案 2.pdf",
     "attachment/2023AI期中答案 1.pdf",
