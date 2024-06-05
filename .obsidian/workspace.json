@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++学习/语法笔记.md",
+                "file": "C++学习/C++ 八股.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lambda",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++学习/语法笔记.md",
+                "file": "C++学习/C++ 八股.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++学习/语法笔记.md",
+                "file": "C++学习/C++ 八股.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++学习/语法笔记.md"
+                "file": "C++学习/C++ 八股.md"
               }
             }
           },
@@ -193,9 +193,9 @@
   },
   "active": "b632a5215a69cfb2",
   "lastOpenFiles": [
+    "C++学习/语法笔记.md",
     "考试回忆.md",
     "C++学习/C++ 八股.md",
-    "C++学习/语法笔记.md",
     "C++学习/C++ Tiny WebServer 学习记录.md",
     "C++学习/学习资料.md",
     "C++学习/书评.md",
