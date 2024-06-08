@@ -1,16 +1,88 @@
 {
   "recentFiles": [
     {
+      "basename": "口语写作 摘抄",
+      "path": "口语写作 摘抄.md"
+    },
+    {
+      "basename": "口语大纲",
+      "path": "口语大纲.md"
+    },
+    {
+      "basename": "考试回忆",
+      "path": "考试回忆.md"
+    },
+    {
+      "basename": "练习方法",
+      "path": "练习方法.md"
+    },
+    {
+      "basename": "写作句法",
+      "path": "写作句法.md"
+    },
+    {
+      "basename": "问题",
+      "path": "问题.md"
+    },
+    {
+      "basename": "未命名 1",
+      "path": "未命名 1.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "QA",
+      "path": "QA.md"
+    },
+    {
+      "basename": "Mit S.0681",
+      "path": "Mit S.0681.md"
+    },
+    {
+      "basename": "Git",
+      "path": "Git.md"
+    },
+    {
+      "basename": "Data Mining",
+      "path": "Data Mining.md"
+    },
+    {
+      "basename": "总结",
+      "path": "总结.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "未命名.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "未命名.canvas"
+    },
+    {
+      "basename": "网站修改方法",
+      "path": "网站修改方法.md"
+    },
+    {
+      "basename": "托福写作语法",
+      "path": "托福写作语法.md"
+    },
+    {
+      "basename": "托福写作",
+      "path": "托福写作.md"
+    },
+    {
+      "basename": "托福课堂笔记",
+      "path": "托福课堂笔记.md"
+    },
+    {
       "basename": "C++ 八股",
       "path": "C++学习/C++ 八股.md"
     },
     {
       "basename": "语法笔记",
       "path": "C++学习/语法笔记.md"
-    },
-    {
-      "basename": "考试回忆",
-      "path": "考试回忆.md"
     },
     {
       "basename": "C++ Tiny WebServer 学习记录",
@@ -29,28 +101,12 @@
       "path": "C++算法/入门笔记.md"
     },
     {
-      "basename": "未命名",
-      "path": "未命名.canvas"
-    },
-    {
       "basename": "非递归方式实现二叉树的三序遍历",
       "path": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/非递归方式实现二叉树的三序遍历.md"
     },
     {
       "basename": "柠檬微趣",
       "path": "面试/笔试/柠檬微趣.md"
-    },
-    {
-      "basename": "Mit S.0681",
-      "path": "Mit S.0681.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "未命名.md"
-    },
-    {
-      "basename": "未命名 1",
-      "path": "未命名 1.md"
     },
     {
       "basename": "递归方式实现二叉树的三序遍历",
@@ -85,20 +141,8 @@
       "path": "算法笔记/zuoAlgorithm/000. 学习大纲/___算法数据结构新手班题目汇总.md"
     },
     {
-      "basename": "网站修改方法",
-      "path": "网站修改方法.md"
-    },
-    {
-      "basename": "Data Mining",
-      "path": "Data Mining.md"
-    },
-    {
       "basename": "Diffusion Model",
       "path": "学校学习/Diffusion Model.md"
-    },
-    {
-      "basename": "Git",
-      "path": "Git.md"
     },
     {
       "basename": "实现最小栈",
@@ -115,18 +159,6 @@
     {
       "basename": "如何用队列结构实现栈结构",
       "path": "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/如何用队列结构实现栈结构.md"
-    },
-    {
-      "basename": "托福写作语法",
-      "path": "托福写作语法.md"
-    },
-    {
-      "basename": "托福课堂笔记",
-      "path": "托福课堂笔记.md"
-    },
-    {
-      "basename": "练习方法",
-      "path": "练习方法.md"
     },
     {
       "basename": "2024-04-28",
@@ -167,38 +199,6 @@
     {
       "basename": "进阶班课程题目汇总",
       "path": "算法笔记/zuoAlgorithm/000. 学习大纲/进阶班课程题目汇总.md"
-    },
-    {
-      "basename": "经典面试题课程",
-      "path": "算法笔记/zuoAlgorithm/000. 学习大纲/经典面试题课程.md"
-    },
-    {
-      "basename": "06 链表相关面试题",
-      "path": "算法笔记/zuoAlgorithm/100. 算法课程/10. 基础课/06 链表相关面试题.md"
-    },
-    {
-      "basename": "基础班课程",
-      "path": "算法笔记/zuoAlgorithm/000. 学习大纲/基础班课程.md"
-    },
-    {
-      "basename": "进阶班课程",
-      "path": "算法笔记/zuoAlgorithm/000. 学习大纲/进阶班课程.md"
-    },
-    {
-      "basename": "_大厂刷题班题目汇总",
-      "path": "算法笔记/zuoAlgorithm/000. 学习大纲/_大厂刷题班题目汇总.md"
-    },
-    {
-      "basename": "_大厂刷题班之LeetCodeTop100题汇总",
-      "path": "算法笔记/zuoAlgorithm/000. 学习大纲/_大厂刷题班之LeetCodeTop100题汇总.md"
-    },
-    {
-      "basename": "_大厂刷题班之LeetCode高频题汇总",
-      "path": "算法笔记/zuoAlgorithm/000. 学习大纲/_大厂刷题班之LeetCode高频题汇总.md"
-    },
-    {
-      "basename": "_大厂刷题班课程",
-      "path": "算法笔记/zuoAlgorithm/000. 学习大纲/_大厂刷题班课程.md"
     }
   ],
   "omittedPaths": [

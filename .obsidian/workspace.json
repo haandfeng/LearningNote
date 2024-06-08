@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++学习/C++ 八股.md",
+                "file": "口语写作 摘抄.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++学习/C++ 八股.md",
+                "file": "口语写作 摘抄.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++学习/C++ 八股.md",
+                "file": "口语写作 摘抄.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++学习/C++ 八股.md"
+                "file": "口语写作 摘抄.md"
               }
             }
           },
@@ -191,21 +192,35 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "b632a5215a69cfb2",
+  "active": "ab3df9bd0138c1ec",
   "lastOpenFiles": [
-    "C++学习/语法笔记.md",
+    "口语大纲.md",
     "考试回忆.md",
+    "口语写作 摘抄.md",
+    "练习方法.md",
+    "写作句法.md",
+    "问题.md",
+    "未命名 1.md",
+    "README.md",
+    "QA.md",
+    "Mit S.0681.md",
+    "Git.md",
+    "Data Mining.md",
+    "总结.md",
+    "未命名.md",
+    "未命名.canvas",
+    "网站修改方法.md",
+    "托福写作语法.md",
+    "托福写作.md",
+    "托福课堂笔记.md",
     "C++学习/C++ 八股.md",
+    "C++学习/语法笔记.md",
     "C++学习/C++ Tiny WebServer 学习记录.md",
     "C++学习/学习资料.md",
     "C++学习/书评.md",
     "C++算法/入门笔记.md",
-    "未命名.canvas",
     "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/非递归方式实现二叉树的三序遍历.md",
     "面试/笔试/柠檬微趣.md",
-    "Mit S.0681.md",
-    "未命名.md",
-    "未命名 1.md",
     "面试/笔试",
     "未命名",
     "面试",
@@ -215,24 +230,10 @@
     "attachment/Pasted image 20240516230615.png",
     "attachment/Pasted image 20240516230607.png",
     "attachment/Pasted image 20240516163026.png",
-    "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/递归方式实现二叉树的三序遍历.md",
-    "算法笔记/zuoAlgorithm/100. 算法课程/10. 基础课/07 二叉树的基本算法.md",
-    "算法笔记/zuoAlgorithm/000. 学习大纲/__算法数据结构体系学习班题目汇总.md",
-    "算法笔记/zuoAlgorithm/000. 学习大纲/基础班课程题目汇总.md",
-    "算法笔记/zuoAlgorithm/002. 知识点总结/00. 编程语言相关/Java中的常见数据结构.md",
-    "算法笔记/zuoAlgorithm/002. 知识点总结/00. 编程语言相关/Java中的容器, 队列, 堆栈.md",
-    "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/用双链表实现双端队列.md",
-    "算法笔记/zuoAlgorithm/000. 学习大纲/___算法数据结构新手班题目汇总.md",
-    "网站修改方法.md",
-    "Data Mining.md",
-    "FER.md",
-    "学校学习/Diffusion Model.md",
-    "Git.md",
     "attachment/Pasted image 20240506165447.png",
     "attachment/截屏2024-05-06 16.54.12.png",
     "attachment/Pasted image 20240505190509.png",
     "attachment/Pasted image 20240505190107.png",
-    "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/实现最小栈.md",
     "attachment/2023AI期中答案 3.pdf",
     "attachment/2023AI期中答案 2.pdf",
     "attachment/2023AI期中答案 1.pdf",
