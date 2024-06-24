@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "好的八股解析",
+      "path": "C++学习/好的八股解析.md"
+    },
+    {
       "basename": "八股",
       "path": "C++学习/八股.md"
     },
     {
+      "basename": "书评",
+      "path": "C++学习/书评.md"
+    },
+    {
+      "basename": "语法笔记",
+      "path": "C++学习/语法笔记.md"
+    },
+    {
       "basename": "C++ Tiny WebServer 学习记录",
       "path": "C++学习/C++ Tiny WebServer 学习记录.md"
+    },
+    {
+      "basename": "学习资料",
+      "path": "C++学习/学习资料.md"
     },
     {
       "basename": "口语写作 摘抄",
@@ -83,18 +99,6 @@
     {
       "basename": "托福课堂笔记",
       "path": "托福课堂笔记.md"
-    },
-    {
-      "basename": "语法笔记",
-      "path": "C++学习/语法笔记.md"
-    },
-    {
-      "basename": "学习资料",
-      "path": "C++学习/学习资料.md"
-    },
-    {
-      "basename": "书评",
-      "path": "C++学习/书评.md"
     },
     {
       "basename": "入门笔记",
@@ -195,10 +199,6 @@
     {
       "basename": "__算法数据结构体系学习班",
       "path": "算法笔记/zuoAlgorithm/000. 学习大纲/__算法数据结构体系学习班.md"
-    },
-    {
-      "basename": "进阶班课程题目汇总",
-      "path": "算法笔记/zuoAlgorithm/000. 学习大纲/进阶班课程题目汇总.md"
     }
   ],
   "omittedPaths": [
