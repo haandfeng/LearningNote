@@ -22,3 +22,8 @@ autojump 帮助cd
 
 -d option doesn't exist on macOS for xargs
 This doesn't work on macOS as it is a GNU extension. Had to figure this out. The alternative is using `-print0` option on `find` and `-0` option on `xargs`.
+
+
+
+
+bc 命令的使用
