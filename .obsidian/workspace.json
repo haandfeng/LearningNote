@@ -73,13 +73,11 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 307.51103591918945,
-    "collapsed": true
+    "width": 307.51103591918945
   },
   "right": {
     "id": "5a22bf979ae2ada9",
@@ -194,12 +192,13 @@
   },
   "active": "b632a5215a69cfb2",
   "lastOpenFiles": [
+    "Missing Course MIT.md",
+    "C++学习/好的八股解析.md",
     "C++学习/八股.md",
     "C++学习/书评.md",
     "C++学习/语法笔记.md",
     "C++学习/C++ Tiny WebServer 学习记录.md",
     "C++学习/学习资料.md",
-    "C++学习/好的八股解析.md",
     "口语写作 摘抄.md",
     "口语大纲.md",
     "考试回忆.md",
@@ -220,7 +219,6 @@
     "托福写作.md",
     "托福课堂笔记.md",
     "C++算法/入门笔记.md",
-    "算法笔记/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/非递归方式实现二叉树的三序遍历.md",
     "面试/笔试",
     "未命名",
     "面试",

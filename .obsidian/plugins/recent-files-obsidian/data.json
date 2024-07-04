@@ -5,6 +5,10 @@
       "path": "C++学习/好的八股解析.md"
     },
     {
+      "basename": "Missing Course MIT",
+      "path": "Missing Course MIT.md"
+    },
+    {
       "basename": "八股",
       "path": "C++学习/八股.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "03 链表结构、栈、队列、递归行为、哈希表和有序表",
       "path": "算法笔记/zuoAlgorithm/100. 算法课程/01. 体系学习班/03 链表结构、栈、队列、递归行为、哈希表和有序表.md"
-    },
-    {
-      "basename": "__算法数据结构体系学习班",
-      "path": "算法笔记/zuoAlgorithm/000. 学习大纲/__算法数据结构体系学习班.md"
     }
   ],
   "omittedPaths": [
