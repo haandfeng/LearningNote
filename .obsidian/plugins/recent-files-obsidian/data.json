@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Missing Course MIT",
-      "path": "Missing Course MIT.md"
+      "basename": "语法笔记",
+      "path": "C++学习/语法笔记.md"
+    },
+    {
+      "basename": "学习资料",
+      "path": "C++学习/学习资料.md"
+    },
+    {
+      "basename": "入门笔记",
+      "path": "C++算法/入门笔记.md"
     },
     {
       "basename": "好的八股解析",
@@ -13,20 +21,16 @@
       "path": "C++学习/八股.md"
     },
     {
+      "basename": "Missing Course MIT",
+      "path": "Missing Course MIT.md"
+    },
+    {
       "basename": "书评",
       "path": "C++学习/书评.md"
     },
     {
-      "basename": "语法笔记",
-      "path": "C++学习/语法笔记.md"
-    },
-    {
       "basename": "C++ Tiny WebServer 学习记录",
       "path": "C++学习/C++ Tiny WebServer 学习记录.md"
-    },
-    {
-      "basename": "学习资料",
-      "path": "C++学习/学习资料.md"
     },
     {
       "basename": "口语写作 摘抄",
@@ -103,10 +107,6 @@
     {
       "basename": "托福课堂笔记",
       "path": "托福课堂笔记.md"
-    },
-    {
-      "basename": "入门笔记",
-      "path": "C++算法/入门笔记.md"
     },
     {
       "basename": "非递归方式实现二叉树的三序遍历",

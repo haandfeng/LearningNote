@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Missing Course MIT.md",
+                "file": "C++学习/语法笔记.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.51103591918945
+    "width": 307.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "5a22bf979ae2ada9",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Missing Course MIT.md",
+                "file": "C++学习/语法笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Missing Course MIT.md",
+                "file": "C++学习/语法笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Missing Course MIT.md"
+                "file": "C++学习/语法笔记.md"
               }
             }
           },
@@ -191,15 +192,16 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "b632a5215a69cfb2",
+  "active": "ab3df9bd0138c1ec",
   "lastOpenFiles": [
+    "C++学习/学习资料.md",
+    "C++算法/入门笔记.md",
     "C++学习/好的八股解析.md",
-    "Missing Course MIT.md",
     "C++学习/八股.md",
+    "Missing Course MIT.md",
     "C++学习/书评.md",
     "C++学习/语法笔记.md",
     "C++学习/C++ Tiny WebServer 学习记录.md",
-    "C++学习/学习资料.md",
     "口语写作 摘抄.md",
     "口语大纲.md",
     "考试回忆.md",
@@ -219,7 +221,6 @@
     "托福写作语法.md",
     "托福写作.md",
     "托福课堂笔记.md",
-    "C++算法/入门笔记.md",
     "面试/笔试",
     "未命名",
     "面试",
