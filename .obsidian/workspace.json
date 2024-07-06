@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "beb029797cf569d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "网课学习笔记/Missing Course MIT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f8a1b605ae5bace",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.51103591918945,
-    "collapsed": true
+    "width": 307.51103591918945
   },
   "right": {
     "id": "5a22bf979ae2ada9",
@@ -95,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++学习/语法笔记.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++学习/语法笔记.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++学习/语法笔记.md"
+                "file": "README.md"
               }
             }
           },
@@ -192,37 +216,41 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "06595d7fbb8ac373",
+  "active": "3f8a1b605ae5bace",
   "lastOpenFiles": [
-    "C++学习/语法笔记.md",
-    "C++学习/学习资料.md",
-    "C++算法/入门笔记.md",
-    "C++学习/好的八股解析.md",
-    "C++学习/八股.md",
-    "Missing Course MIT.md",
-    "C++学习/书评.md",
-    "C++学习/C++ Tiny WebServer 学习记录.md",
-    "口语写作 摘抄.md",
-    "口语大纲.md",
-    "考试回忆.md",
-    "练习方法.md",
-    "写作句法.md",
-    "问题.md",
-    "未命名 1.md",
-    "README.md",
-    "QA.md",
-    "Mit S.0681.md",
-    "Git.md",
-    "Data Mining.md",
-    "总结.md",
-    "未命名.md",
-    "未命名.canvas",
     "网站修改方法.md",
-    "托福写作语法.md",
-    "托福写作.md",
-    "托福课堂笔记.md",
+    "工具学习/Git/GitCheatSheet_byGeekHour_v1.0.0.pdf",
+    "工具学习/Git/Git-Cheet-Sheet-ByGeekHour.png",
+    "工具学习/Git",
+    "工具学习",
+    "README.md",
+    "Git.md",
+    "托福学习/问题.md",
+    "总结.md",
+    "托福学习/托福写作语法.md",
+    "托福学习/写作句法.md",
+    "学校学习/Data Mining.md",
+    "未命名.md",
+    "网课学习笔记",
+    "网课学习笔记/Missing Course MIT.md",
+    "网课学习笔记/Mit S.0681.md",
+    "托福学习/QA.md",
+    "托福学习/托福写作.md",
+    "托福学习/托福课堂笔记.md",
+    "托福学习/练习方法.md",
+    "学校学习/考试回忆.md",
+    "托福学习/口语大纲.md",
+    "托福学习/口语写作 摘抄.md",
+    "面试/笔试/柠檬微趣.md",
+    "单链表跟双链表.md",
+    "单词本.md",
+    "不会的单词.md",
+    "托福学习",
+    "Excalidraw/Drawing 2024-04-17 18.12.55.excalidraw.md",
+    "plugins/未命名.md",
+    "C++学习/语法笔记.md",
+    "未命名.canvas",
     "面试/笔试",
-    "未命名",
     "面试",
     "attachment/Pasted image 20240517182832.png",
     "attachment/Pasted image 20240517151159.png",
@@ -233,14 +261,9 @@
     "attachment/Pasted image 20240506165447.png",
     "attachment/截屏2024-05-06 16.54.12.png",
     "attachment/Pasted image 20240505190509.png",
-    "attachment/Pasted image 20240505190107.png",
     "attachment/2023AI期中答案 3.pdf",
     "attachment/2023AI期中答案 2.pdf",
     "attachment/2023AI期中答案 1.pdf",
-    "attachment/2023AI期中答案.pdf",
-    "学校学习",
-    "C++算法",
-    "Excalidraw",
     "未命名 1.canvas",
     "未命名 3.canvas",
     "未命名 2.canvas"
