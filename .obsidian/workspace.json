@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2d48c0c2796b121e",
+        "id": "7375045d05c06e44",
         "type": "tabs",
         "children": [
           {
-            "id": "d1086a438013cf16",
+            "id": "c860b9e996501a1d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024-07-15.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-07-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-07-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daily/2024-07-15.md"
-              }
+              "state": {}
             }
           },
           {
@@ -191,15 +183,15 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "d1086a438013cf16",
+  "active": "c860b9e996501a1d",
   "lastOpenFiles": [
+    "Daily/2024-07-15.md",
     "C++学习/mysql八股.md",
     "托福学习/托福写作模版.md",
     "托福学习/托福写作语法.md",
     "托福学习/问题.md",
     "托福学习/写作句法.md",
     "托福学习/QA.md",
-    "Daily/2024-07-15.md",
     "Daily/2024-07-14.md",
     "托福学习/口语写作 摘抄.md",
     "托福学习/托福写作.md",
