@@ -11,8 +11,12 @@
             "id": "17f17119e3cc972d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024-07-17.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -91,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily/2024-07-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily/2024-07-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Daily/2024-07-17.md"
+              }
             }
           },
           {
@@ -164,8 +172,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5,
-    "collapsed": true
+    "width": 239.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,6 +194,7 @@
   "active": "17f17119e3cc972d",
   "lastOpenFiles": [
     "Daily/2024-07-16.md",
+    "Daily/2024-07-17.md",
     "Daily/2024-07-15.md",
     "C++学习/mysql八股.md",
     "托福学习/托福写作模版.md",
@@ -216,7 +224,6 @@
     "总结.md",
     "学校学习/Data Mining.md",
     "网课学习笔记",
-    "网课学习笔记/Mit S.0681.md",
     "托福学习",
     "未命名.canvas",
     "面试/笔试",
