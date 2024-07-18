@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f5d573c665ae4d3b",
+        "id": "46393ff5e00b36f0",
         "type": "tabs",
         "children": [
           {
-            "id": "17f17119e3cc972d",
+            "id": "5a8fd2fe9a271554",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024-07-18.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -95,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-07-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +107,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-07-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daily/2024-07-18.md"
-              }
+              "state": {}
             }
           },
           {
@@ -191,10 +183,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "17f17119e3cc972d",
+  "active": "5a8fd2fe9a271554",
   "lastOpenFiles": [
-    "Daily/2024-07-17.md",
     "Daily/2024-07-18.md",
+    "Daily/2024-07-17.md",
     "Daily/2024-07-16.md",
     "托福学习/托福写作模版.md",
     "托福学习/托福课堂笔记.md",
