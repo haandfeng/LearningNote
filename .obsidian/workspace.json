@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-07-18.md",
+                "file": "Daily/2024-07-19.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-07-18.md",
+                "file": "Daily/2024-07-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-07-18.md",
+                "file": "Daily/2024-07-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-07-18.md"
+                "file": "Daily/2024-07-19.md"
               }
             }
           },
@@ -193,12 +193,13 @@
   },
   "active": "5a8fd2fe9a271554",
   "lastOpenFiles": [
+    "Daily/2024-07-18.md",
+    "Daily/2024-07-19.md",
     "托福学习/托福写作模版.md",
     "托福学习/托福写作语法.md",
     "托福学习/托福写作.md",
     "托福学习/练习方法.md",
     "托福学习/口语大纲.md",
-    "Daily/2024-07-18.md",
     "Daily/2024-07-17.md",
     "Daily/2024-07-16.md",
     "托福学习/托福课堂笔记.md",
@@ -222,7 +223,6 @@
     "工具学习/Git",
     "工具学习",
     "Git.md",
-    "总结.md",
     "网课学习笔记",
     "托福学习",
     "未命名.canvas",
