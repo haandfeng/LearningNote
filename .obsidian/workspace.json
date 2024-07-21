@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "46393ff5e00b36f0",
+        "id": "22d63c9a54d780db",
         "type": "tabs",
         "children": [
           {
-            "id": "5a8fd2fe9a271554",
+            "id": "d5d003c7ff23035f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-07-19.md",
+                "file": "托福学习/托福写作模版.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.51103591918945
+    "width": 307.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "5a22bf979ae2ada9",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-07-19.md",
+                "file": "托福学习/托福写作模版.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-07-19.md",
+                "file": "托福学习/托福写作模版.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-07-19.md"
+                "file": "托福学习/托福写作模版.md"
               }
             }
           },
@@ -167,11 +168,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 239.5
+    "width": 239.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,38 +192,42 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "5a8fd2fe9a271554",
+  "active": "d5d003c7ff23035f",
   "lastOpenFiles": [
-    "Daily/2024-07-18.md",
-    "Daily/2024-07-19.md",
-    "托福学习/托福写作模版.md",
+    "Gre/阅读/GRE阅读题型.md",
+    "Excalidraw/Drawing 2024-07-16 17.49.56.excalidraw.md",
+    "attachment/截屏2023-08-26 11.41.13.png",
+    "attachment/截屏2023-08-26 11.24.32.png",
+    "attachment/截屏2023-08-19 16.35.51.png",
+    "attachment/截屏2023-08-18 15.33.30.png",
     "托福学习/托福写作语法.md",
+    "托福学习/问题.md",
+    "托福学习/写作句法.md",
+    "托福学习/QA.md",
+    "C++学习/语法笔记.md",
+    "C++学习/C++ Tiny WebServer 学习记录.md",
+    "C++学习/mysql八股.md",
+    "Daily/2024-07-19.md",
+    "Daily/2024-07-18.md",
+    "托福学习/托福写作模版.md",
     "托福学习/托福写作.md",
     "托福学习/练习方法.md",
     "托福学习/口语大纲.md",
     "Daily/2024-07-17.md",
     "Daily/2024-07-16.md",
     "托福学习/托福课堂笔记.md",
-    "托福学习/写作句法.md",
     "Daily/2024-07-15.md",
-    "C++学习/mysql八股.md",
-    "托福学习/问题.md",
-    "托福学习/QA.md",
     "Daily/2024-07-14.md",
     "托福学习/口语写作 摘抄.md",
-    "C++学习/语法笔记.md",
     "C++学习/八股.md",
     "C++学习/书评.md",
     "C++学习/好的八股解析.md",
     "C++学习/学习资料.md",
     "网课学习笔记/Missing Course MIT.md",
-    "README.md",
-    "网站修改方法.md",
     "工具学习/Git/GitCheatSheet_byGeekHour_v1.0.0.pdf",
     "工具学习/Git/Git-Cheet-Sheet-ByGeekHour.png",
     "工具学习/Git",
     "工具学习",
-    "Git.md",
     "网课学习笔记",
     "托福学习",
     "未命名.canvas",
@@ -232,10 +238,6 @@
     "attachment/Pasted image 20240517103147.png",
     "attachment/Pasted image 20240516230615.png",
     "attachment/Pasted image 20240516230607.png",
-    "attachment/Pasted image 20240516163026.png",
-    "attachment/Pasted image 20240506165447.png",
-    "attachment/截屏2024-05-06 16.54.12.png",
-    "attachment/Pasted image 20240505190509.png",
     "attachment/2023AI期中答案 3.pdf",
     "attachment/2023AI期中答案 2.pdf",
     "attachment/2023AI期中答案 1.pdf",
