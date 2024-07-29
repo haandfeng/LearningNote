@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="90312ef5-911c-4865-bbfc-67da013f81e3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.obsidian/plugins/recent-files-obsidian/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/plugins/recent-files-obsidian/data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
-    </list>
+    <list default="true" id="90312ef5-911c-4865-bbfc-67da013f81e3" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +35,7 @@
       <updated>1721713588044</updated>
       <workItem from="1721713590863" duration="3000" />
       <workItem from="1721741745859" duration="154000" />
+      <workItem from="1722235488243" duration="11000" />
     </task>
     <servers />
   </component>
