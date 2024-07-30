@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "557e345ad539898f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "托福学习/口语大纲.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "26c23ee4127cbff2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "托福学习/虎哥口语素材.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "托福学习/托福写作模版.md",
+                "file": "托福学习/虎哥口语素材.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "托福学习/托福写作模版.md",
+                "file": "托福学习/虎哥口语素材.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "托福学习/托福写作模版.md"
+                "file": "托福学习/虎哥口语素材.md"
               }
             }
           },
@@ -192,11 +217,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "d5d003c7ff23035f",
+  "active": "26c23ee4127cbff2",
   "lastOpenFiles": [
-    "托福学习/托福写作.md",
-    "托福学习/口语大纲.md",
     "托福学习/托福写作模版.md",
+    "托福学习/口语大纲.md",
+    "托福学习/虎哥口语素材.md",
+    "托福学习/托福写作.md",
     "托福学习/托福写作语法.md",
     "Daily/2024-07-24.md",
     "Daily/2024-07-23.md",
@@ -223,7 +249,6 @@
     "Daily/2024-07-16.md",
     "托福学习/托福课堂笔记.md",
     "Daily/2024-07-15.md",
-    "Daily/2024-07-14.md",
     "工具学习/Git/GitCheatSheet_byGeekHour_v1.0.0.pdf",
     "工具学习/Git/Git-Cheet-Sheet-ByGeekHour.png",
     "工具学习/Git",
