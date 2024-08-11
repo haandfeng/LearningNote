@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -131,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "托福学习/托福写作模版.md",
+                "file": "托福学习/虎哥口语素材.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "托福学习/托福写作模版.md",
+                "file": "托福学习/虎哥口语素材.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "托福学习/托福写作模版.md"
+                "file": "托福学习/虎哥口语素材.md"
               }
             }
           },
@@ -227,12 +228,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "d5d003c7ff23035f",
+  "active": "3dfe0f3fd02777c3",
   "lastOpenFiles": [
-    "托福学习/口语大纲.md",
-    "托福学习/虎哥口语素材.md",
     "托福学习/写作笔记.md",
     "托福学习/托福写作模版.md",
+    "托福学习/口语大纲.md",
+    "托福学习/虎哥口语素材.md",
     "托福学习/写作句法.md",
     "托福学习/QA.md",
     "托福学习/问题.md",
