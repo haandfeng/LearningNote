@@ -4,59 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "22d63c9a54d780db",
+        "id": "7c68c152873a5aa8",
         "type": "tabs",
         "children": [
           {
-            "id": "d5d003c7ff23035f",
+            "id": "411ec4089745389d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "托福学习/口语大纲.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e919fe212c4132c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "托福学习/托福写作模版.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d69c72b70529431c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "托福学习/写作笔记.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8d97d07bac9bc1ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "托福学习/虎哥口语素材.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.51103591918945,
-    "collapsed": true
+    "width": 307.51103591918945
   },
   "right": {
     "id": "5a22bf979ae2ada9",
@@ -132,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "托福学习/托福写作模版.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "托福学习/托福写作模版.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "托福学习/托福写作模版.md"
-              }
+              "state": {}
             }
           },
           {
@@ -228,12 +182,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "4e919fe212c4132c",
+  "active": "411ec4089745389d",
   "lastOpenFiles": [
+    "托福学习/虎哥口语素材.md",
+    "托福学习/写作笔记.md",
     "托福学习/口语大纲.md",
     "托福学习/托福写作模版.md",
-    "托福学习/写作笔记.md",
-    "托福学习/虎哥口语素材.md",
     "托福学习/写作句法.md",
     "托福学习/QA.md",
     "托福学习/练习方法.md",
