@@ -11,8 +11,12 @@
             "id": "411ec4089745389d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Gre/填空/GRE填空题.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.51103591918945
+    "width": 307.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "5a22bf979ae2ada9",
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Gre/填空/GRE填空题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Gre/填空/GRE填空题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Gre/填空/GRE填空题.md"
+              }
             }
           },
           {
@@ -182,8 +191,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "ab3df9bd0138c1ec",
+  "active": "411ec4089745389d",
   "lastOpenFiles": [
+    "Gre/填空/指代重复.md",
+    "Gre/填空/GRE填空题.md",
     "托福学习/虎哥口语素材.md",
     "托福学习/写作笔记.md",
     "托福学习/口语大纲.md",
@@ -213,8 +224,6 @@
     "attachment/截屏2023-08-19 16.35.51.png",
     "attachment/截屏2023-08-18 15.33.30.png",
     "C++学习/语法笔记.md",
-    "C++学习/C++ Tiny WebServer 学习记录.md",
-    "C++学习/mysql八股.md",
     "工具学习/Git/GitCheatSheet_byGeekHour_v1.0.0.pdf",
     "工具学习/Git/Git-Cheet-Sheet-ByGeekHour.png",
     "工具学习/Git",
