@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gre/填空/GRE填空题.md",
+                "file": "Daily/2024-09-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gre/填空/GRE填空题.md",
+                "file": "Daily/2024-09-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gre/填空/GRE填空题.md",
+                "file": "Daily/2024-09-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gre/填空/GRE填空题.md"
+                "file": "Daily/2024-09-08.md"
               }
             }
           },
@@ -167,12 +167,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 239.5,
-    "collapsed": true
+    "width": 239.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,15 +186,16 @@
       "workspaces:管理工作区布局": false,
       "audio-recorder:开始/结束录音": false,
       "publish:发布更改": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-memos:Thino": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
   "active": "411ec4089745389d",
   "lastOpenFiles": [
-    "Gre/填空/指代重复.md",
     "Gre/填空/GRE填空题.md",
+    "Daily/2024-09-08.md",
+    "Gre/填空/指代重复.md",
     "托福学习/虎哥口语素材.md",
     "托福学习/写作笔记.md",
     "托福学习/口语大纲.md",
@@ -223,7 +224,6 @@
     "attachment/截屏2023-08-26 11.24.32.png",
     "attachment/截屏2023-08-19 16.35.51.png",
     "attachment/截屏2023-08-18 15.33.30.png",
-    "C++学习/语法笔记.md",
     "工具学习/Git/GitCheatSheet_byGeekHour_v1.0.0.pdf",
     "工具学习/Git/Git-Cheet-Sheet-ByGeekHour.png",
     "工具学习/Git",
