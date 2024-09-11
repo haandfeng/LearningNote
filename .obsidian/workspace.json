@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7c68c152873a5aa8",
+        "id": "79ff704fa2fb87e3",
         "type": "tabs",
         "children": [
           {
-            "id": "411ec4089745389d",
+            "id": "7325e6e5d0900291",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024-09-11.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -95,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-09-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +107,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-09-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daily/2024-09-11.md"
-              }
+              "state": {}
             }
           },
           {
@@ -191,11 +183,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "411ec4089745389d",
+  "active": "7325e6e5d0900291",
   "lastOpenFiles": [
+    "Daily/2024-09-11.md",
     "Daily/2024-09-10.md",
     "Daily/2024-09-09.md",
-    "Daily/2024-09-11.md",
     "Daily/2024-09-08.md",
     "Gre/填空/GRE填空题.md",
     "Gre/填空/指代重复.md",
