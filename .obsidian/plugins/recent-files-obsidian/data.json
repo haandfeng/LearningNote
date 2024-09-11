@@ -9,6 +9,10 @@
       "path": "Daily/2024-09-09.md"
     },
     {
+      "basename": "2024-09-11",
+      "path": "Daily/2024-09-11.md"
+    },
+    {
       "basename": "2024-09-08",
       "path": "Daily/2024-09-08.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Diffusion Model",
       "path": "学校学习/Diffusion Model.md"
-    },
-    {
-      "basename": "2024-04-28",
-      "path": "Daily/2024-04-28.md"
     }
   ],
   "omittedPaths": [
