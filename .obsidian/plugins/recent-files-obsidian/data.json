@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-09-12",
+      "path": "Daily/2024-09-12.md"
+    },
+    {
       "basename": "2024-09-11",
       "path": "Daily/2024-09-11.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "柠檬微趣",
       "path": "面试/笔试/柠檬微趣.md"
-    },
-    {
-      "basename": "Diffusion Model",
-      "path": "学校学习/Diffusion Model.md"
     }
   ],
   "omittedPaths": [
