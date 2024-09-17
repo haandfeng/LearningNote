@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-09-16",
+      "path": "Daily/2024-09-16.md"
+    },
+    {
       "basename": "2024-09-15",
       "path": "Daily/2024-09-15.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "Data Mining",
-      "path": "学校学习/Data Mining.md"
     }
   ],
   "omittedPaths": [
