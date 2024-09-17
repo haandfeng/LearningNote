@@ -5,6 +5,10 @@
       "path": "Daily/2024-09-16.md"
     },
     {
+      "basename": "2024-09-17",
+      "path": "Daily/2024-09-17.md"
+    },
+    {
       "basename": "2024-09-15",
       "path": "Daily/2024-09-15.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "学习资料",
       "path": "C++学习/学习资料.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     }
   ],
   "omittedPaths": [
