@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Ollama",
+      "path": "毕设命令/Ollama.md"
+    },
+    {
       "basename": "2024-09-18",
       "path": "Daily/2024-09-18.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "书评",
       "path": "C++学习/书评.md"
-    },
-    {
-      "basename": "好的八股解析",
-      "path": "C++学习/好的八股解析.md"
     }
   ],
   "omittedPaths": [
