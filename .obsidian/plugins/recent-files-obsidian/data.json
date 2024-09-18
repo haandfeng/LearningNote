@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-09-16",
-      "path": "Daily/2024-09-16.md"
+      "basename": "2024-09-18",
+      "path": "Daily/2024-09-18.md"
     },
     {
       "basename": "2024-09-17",
       "path": "Daily/2024-09-17.md"
+    },
+    {
+      "basename": "2024-09-16",
+      "path": "Daily/2024-09-16.md"
     },
     {
       "basename": "2024-09-15",
@@ -195,10 +199,6 @@
     {
       "basename": "好的八股解析",
       "path": "C++学习/好的八股解析.md"
-    },
-    {
-      "basename": "学习资料",
-      "path": "C++学习/学习资料.md"
     }
   ],
   "omittedPaths": [
