@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ba8b18e8fad91e41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "439a571da17b6a64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pegasus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.51103591918945
+    "width": 307.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "5a22bf979ae2ada9",
@@ -94,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-09-21.md",
+                "file": "Pegasus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-09-21.md",
+                "file": "Pegasus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-09-21.md"
+                "file": "Pegasus.md"
               }
             }
           },
@@ -190,10 +216,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "90f47b81332b42bc",
+  "active": "439a571da17b6a64",
   "lastOpenFiles": [
-    "毕设命令/Ollama.md",
+    "未命名.md",
+    "Pegasus.md",
     "Daily/2024-09-21.md",
+    "毕设命令/Ollama.md",
     "Daily/2024-09-19.md",
     "Daily/2024-09-18.md",
     "毕设命令",
@@ -217,8 +245,6 @@
     "托福学习/QA.md",
     "托福学习/练习方法.md",
     "托福学习/托福写作语法.md",
-    "托福学习/问题.md",
-    "托福学习/托福写作.md",
     "attachment/Pasted image 20240803211829.png",
     "attachment/截屏2023-08-26 11.41.13.png",
     "attachment/截屏2023-08-26 11.24.32.png",

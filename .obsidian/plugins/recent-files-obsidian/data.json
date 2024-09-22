@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Pegasus",
+      "path": "Pegasus.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "未命名.md"
+    },
+    {
       "basename": "2024-09-21",
       "path": "Daily/2024-09-21.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "2024-07-16",
       "path": "Daily/2024-07-16.md"
-    },
-    {
-      "basename": "2024-07-15",
-      "path": "Daily/2024-07-15.md"
-    },
-    {
-      "basename": "2024-07-14",
-      "path": "Daily/2024-07-14.md"
     }
   ],
   "omittedPaths": [
