@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9721a8895a39684f",
+        "id": "9ca56ae1d3b9dbf8",
         "type": "tabs",
         "children": [
           {
-            "id": "90f47b81332b42bc",
+            "id": "204954e966579ecb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-09-21.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ba8b18e8fad91e41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "439a571da17b6a64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024-09-24.md",
+                "file": "RL-Cloudsim Plus.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.51103591918945,
-    "collapsed": true
+    "width": 307.51103591918945
   },
   "right": {
     "id": "5a22bf979ae2ada9",
@@ -120,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-09-24.md",
+                "file": "RL-Cloudsim Plus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-09-24.md",
+                "file": "RL-Cloudsim Plus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-09-24.md"
+                "file": "RL-Cloudsim Plus.md"
               }
             }
           },
@@ -216,12 +190,14 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "439a571da17b6a64",
+  "active": "204954e966579ecb",
   "lastOpenFiles": [
     "Pegasus.md",
-    "Daily/2024-09-24.md",
-    "未命名.md",
+    "RL-Cloudsim Plus.md",
+    "未命名",
     "Daily/2024-09-21.md",
+    "未命名.md",
+    "Daily/2024-09-24.md",
     "毕设命令/Ollama.md",
     "Daily/2024-09-19.md",
     "Daily/2024-09-18.md",
@@ -244,7 +220,6 @@
     "托福学习/托福写作模版.md",
     "托福学习/写作句法.md",
     "托福学习/QA.md",
-    "托福学习/练习方法.md",
     "attachment/Pasted image 20240803211829.png",
     "attachment/截屏2023-08-26 11.41.13.png",
     "attachment/截屏2023-08-26 11.24.32.png",
@@ -264,7 +239,6 @@
     "attachment/Pasted image 20240517103147.png",
     "attachment/Pasted image 20240516230615.png",
     "attachment/2023AI期中答案 3.pdf",
-    "attachment/2023AI期中答案 2.pdf",
     "未命名 1.canvas",
     "未命名 3.canvas",
     "未命名 2.canvas"
