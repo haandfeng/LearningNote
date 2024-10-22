@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "9ca56ae1d3b9dbf8",
+        "id": "dcb0a2a8247ac7e3",
         "type": "tabs",
         "children": [
           {
-            "id": "204954e966579ecb",
+            "id": "10bb89844c646473",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          },
+          {
+            "id": "c32f34eb2003e22b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gre/阅读/主旨题.md",
+                "file": "文书.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "文书"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -38,13 +51,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Roosevelt",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -52,7 +67,9 @@
             "type": "leaf",
             "state": {
               "type": "recent-files",
-              "state": {}
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
             }
           },
           {
@@ -60,7 +77,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           },
           {
@@ -70,10 +89,13 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -93,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gre/阅读/主旨题.md",
+                "file": "文书.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +123,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "文书 的反向链接列表"
             }
           },
           {
@@ -110,10 +134,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gre/阅读/主旨题.md",
+                "file": "文书.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "文书 的出链列表"
             }
           },
           {
@@ -124,7 +150,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -133,8 +161,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gre/阅读/主旨题.md"
-              }
+                "file": "文书.md"
+              },
+              "icon": "lucide-list",
+              "title": "文书 的大纲"
             }
           },
           {
@@ -142,7 +172,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -154,7 +186,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
             }
           },
           {
@@ -162,7 +196,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
@@ -190,8 +226,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "aa677b3dd1721ac9",
+  "active": "c32f34eb2003e22b",
   "lastOpenFiles": [
+    "文书.md",
+    "Gre/阅读/主旨题.md",
     "Gre/阅读/信息目的题.md",
     "RL-Cloudsim Plus.md",
     "Pegasus.md",
@@ -218,8 +256,6 @@
     "托福学习/虎哥口语素材.md",
     "托福学习/写作笔记.md",
     "托福学习/口语大纲.md",
-    "托福学习/托福写作模版.md",
-    "托福学习/写作句法.md",
     "attachment/Pasted image 20240803211829.png",
     "attachment/截屏2023-08-26 11.41.13.png",
     "attachment/截屏2023-08-26 11.24.32.png",
