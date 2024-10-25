@@ -5,6 +5,10 @@
       "path": "文书.md"
     },
     {
+      "basename": "旅游规划",
+      "path": "旅游规划.md"
+    },
+    {
       "basename": "主旨题",
       "path": "Gre/阅读/主旨题.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "截屏2023-08-19 16.35.51",
       "path": "attachment/截屏2023-08-19 16.35.51.png"
-    },
-    {
-      "basename": "截屏2023-08-18 15.33.30",
-      "path": "attachment/截屏2023-08-18 15.33.30.png"
     }
   ],
   "omittedPaths": [
