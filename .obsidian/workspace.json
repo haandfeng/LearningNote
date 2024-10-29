@@ -46,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -241,10 +241,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "ba6b4f22edd19ea3",
+  "active": "c32f34eb2003e22b",
   "lastOpenFiles": [
-    "文书.md",
     "文书2.md",
+    "文书.md",
     "旅游规划.md",
     "attachment/6221729866088_.pic.jpg",
     "Gre/阅读/主旨题.md",
