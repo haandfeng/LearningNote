@@ -24,3 +24,5 @@ Hong Kong Great Plan Co., Ltd
    2. 在CloudsimPlus框架下，负责运用蚁群算法和遗传算法进行单云调度优化，提高调度任务的QoS。同时，探索和改进算法，使其适用于多云环境。
    3. 在单云环境下CloudsimPlus框架下，==使用Py4J，结合基于Java的CloudsimPlus框架和基于Python的Ollama和Gymnasiumm框架==（可能要改），集成强化学习算法和LLM生成的调度建议对调度问题进行进一步优化，
    4. 把代码从单云环扩展到到多云环境，集合LLM和强化学习进行调度优化
+   5. ==大模型fine tune==
+   
