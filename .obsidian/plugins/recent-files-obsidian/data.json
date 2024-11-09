@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "文书感想",
+      "path": "文书感想.md"
+    },
+    {
+      "basename": "SOP",
+      "path": "SOP.md"
+    },
+    {
       "basename": "CV",
       "path": "CV.md"
     },
     {
       "basename": "文书2",
       "path": "文书2.md"
-    },
-    {
-      "basename": "SOP",
-      "path": "SOP.md"
     },
     {
       "basename": "文书",
@@ -195,10 +199,6 @@
     {
       "basename": "GRE阅读题型",
       "path": "Gre/阅读/GRE阅读题型.md"
-    },
-    {
-      "basename": "Drawing 2024-07-16 17.49.56.excalidraw",
-      "path": "Excalidraw/Drawing 2024-07-16 17.49.56.excalidraw.md"
     }
   ],
   "omittedPaths": [
