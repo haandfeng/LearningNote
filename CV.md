@@ -13,17 +13,18 @@ Hong Kong Great Plan Co., Ltd
 
 **Implementation and Research of Federated Learning Systems**
 
+- 提出差分隐私算法flip(通过随机化标签数据，达到保护差分隐私的效果) 与flipback算法（随机化上一轮模型中预测值与真实值偏差较大的数据的标签，消减flip 操作对模型精度的影响，并且起到正则项的作用）并使用Paillier算法对梯度加密，使用logistic 回归模型对breast cancer数据集进行纵向联邦学习
 - 基于Flower框架，拆分出服务端和客户端，使用GRPC进行通讯，使用同态加密Paillier算法加密梯度信息，使用CNN，ResNet18，LetNet分别对MNIST和CIFAR-10进行横向联邦学习实验
-- 使用针对隐私数据列的差分隐私随机响应算法flip 与flipback（有效地保护隐私数据的安全
-性，同时保持模型精度和泛化性能在较高水平）和基于Paillier算法的同态加密算法对梯度加密，使用logistic 回归模型对breast cancer数据集进行纵向联邦学习==（看论文，改）==
-- 基于PyQt-5和QT designer，运用了PyQt-Fluent-Widgets库，设计联邦学习系统的GUI
+- 基于PyQt-5和QT designer，运用了PyQt-Fluent-Widgets库，设计包含纵向联邦学习和横向联邦学习的系统的GUI
 
 **High-Performance Computing Model and Scheduling Optimization in Cloud Computing**
- -  使用py4j，gymnasiumm，stable_baselines3，ClousimPlus , Ollama等框架构造出支持多云环境下使用强化学习（DQN，PPO）和LLM（Gemma模型）参与调度优化QOS系统，
+- 
+ -  在单云环境下，使用py4j，gymnasiumm，stable_baselines3，ClousimPlus , Ollama等框架构造出支持多云环境下使用强化学习（DQN，PPO）和LLM（gemma2模型）参与调度优化QOS系统
+ - 优化reward计算方式，action space和observation space表示方式把系统从单云环境拓展到多云环境
+ - 使用Pegasus框架生成符合项目需求的工作流，确保工作流的结构合理，将Pegasus生成的工作流导入到多云环境的代码中生成Jobs。
 
-  1. 使用Pegasus生成工作流：负责使用Pegasus生成符合项目需求的工作流，确保工作流的结构合理，适应多云环境的调度优化需求。
-   2. 在CloudsimPlus框架下，负责运用蚁群算法和遗传算法进行单云调度优化，提高调度任务的QoS。同时，探索和改进算法，使其适用于多云环境。
-   3. 在单云环境下CloudsimPlus框架下，==使用Py4J，结合基于Java的CloudsimPlus框架和基于Python的Ollama和Gymnasiumm框架==（可能要改），集成强化学习算法和LLM生成的调度建议对调度问题进行进一步优化，
+  1. 
+   3. 在单云环境下CloudsimPlus框架下，==使用Py4J，结合基于Java的CloudsimPlus框架和基于Python的Ollama和Gymnasiumm框架==，集成强化学习算法和LLM生成的调度建议对调度问题进行进一步优化，
    4. 把代码从单云环扩展到到多云环境，集合LLM和强化学习进行调度优化
    5. ==大模型fine tune==
    
