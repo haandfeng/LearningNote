@@ -1,18 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "文书感想",
-      "path": "文书感想.md"
-    },
-    {
-      "basename": "SOP",
-      "path": "SOP.md"
-    },
-    {
-      "basename": "CV",
-      "path": "CV.md"
-    },
-    {
       "basename": "文书2",
       "path": "文书2.md"
     },
@@ -21,8 +9,36 @@
       "path": "文书.md"
     },
     {
+      "basename": "文书感想",
+      "path": "文书感想.md"
+    },
+    {
+      "basename": "SOP",
+      "path": "SOP.md"
+    },
+    {
+      "basename": "RL-Cloudsim Plus",
+      "path": "RL-Cloudsim Plus.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Pegasus",
+      "path": "Pegasus.md"
+    },
+    {
+      "basename": "CV",
+      "path": "CV.md"
+    },
+    {
       "basename": "旅游规划",
       "path": "旅游规划.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "未命名.md"
     },
     {
       "basename": "主旨题",
@@ -33,20 +49,8 @@
       "path": "Gre/阅读/信息目的题.md"
     },
     {
-      "basename": "RL-Cloudsim Plus",
-      "path": "RL-Cloudsim Plus.md"
-    },
-    {
-      "basename": "Pegasus",
-      "path": "Pegasus.md"
-    },
-    {
       "basename": "2024-09-21",
       "path": "Daily/2024-09-21.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "未命名.md"
     },
     {
       "basename": "2024-09-24",
@@ -195,10 +199,6 @@
     {
       "basename": "Missing Course MIT",
       "path": "网课学习笔记/Missing Course MIT.md"
-    },
-    {
-      "basename": "GRE阅读题型",
-      "path": "Gre/阅读/GRE阅读题型.md"
     }
   ],
   "omittedPaths": [
