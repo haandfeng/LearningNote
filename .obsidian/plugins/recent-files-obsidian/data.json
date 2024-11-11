@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Why School",
+      "path": "Why School.md"
+    },
+    {
       "basename": "文书",
       "path": "文书.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2024-07-22",
       "path": "Daily/2024-07-22.md"
-    },
-    {
-      "basename": "Missing Course MIT",
-      "path": "网课学习笔记/Missing Course MIT.md"
     }
   ],
   "omittedPaths": [

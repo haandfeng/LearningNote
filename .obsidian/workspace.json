@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "dcb0a2a8247ac7e3",
+        "id": "43ed608c862e3a77",
         "type": "tabs",
         "children": [
           {
-            "id": "c32f34eb2003e22b",
+            "id": "809b751da529976d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文书.md",
+                "file": "Why School.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "文书"
+              "title": "Why School"
             }
           }
         ]
@@ -215,11 +215,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "c32f34eb2003e22b",
+  "active": "809b751da529976d",
   "lastOpenFiles": [
+    "Why School.md",
+    "文书.md",
     "文书2.md",
     "文书感想.md",
-    "文书.md",
     "SOP.md",
     "RL-Cloudsim Plus.md",
     "README.md",
@@ -245,7 +246,6 @@
     "Daily/2024-09-12.md",
     "Daily/2024-09-11.md",
     "Daily/2024-09-10.md",
-    "Daily/2024-09-09.md",
     "attachment/Pasted image 20240803211829.png",
     "attachment/截屏2023-08-26 11.41.13.png",
     "attachment/截屏2023-08-26 11.24.32.png",
