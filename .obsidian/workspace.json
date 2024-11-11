@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文书2.md",
+                "file": "文书.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "文书2"
+              "title": "文书"
             }
           }
         ]
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.51103591918945,
-    "collapsed": true
+    "width": 307.51103591918945
   },
   "right": {
     "id": "5a22bf979ae2ada9",
@@ -218,8 +217,9 @@
   },
   "active": "c32f34eb2003e22b",
   "lastOpenFiles": [
-    "文书.md",
+    "文书2.md",
     "文书感想.md",
+    "文书.md",
     "SOP.md",
     "RL-Cloudsim Plus.md",
     "README.md",
@@ -227,7 +227,6 @@
     "CV.md",
     "旅游规划.md",
     "未命名.md",
-    "文书2.md",
     "attachment/6221729866088_.pic.jpg",
     "Gre/阅读/主旨题.md",
     "Gre/阅读/信息目的题.md",
