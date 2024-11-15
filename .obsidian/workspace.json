@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "文书"
             }
+          },
+          {
+            "id": "e6444ac069d14e11",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.6"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.6"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -231,7 +243,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "a670d80c097ca668",
+  "active": "ba6b4f22edd19ea3",
   "lastOpenFiles": [
     "Why School.md",
     "文书.md",
