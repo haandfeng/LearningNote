@@ -60,6 +60,16 @@
               "icon": "lucide-file",
               "title": "推荐信"
             }
+          },
+          {
+            "id": "608be406c910f956",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
         ],
         "currentTab": 3
