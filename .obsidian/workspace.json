@@ -36,18 +36,6 @@
             }
           },
           {
-            "id": "e6444ac069d14e11",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.6"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.6"
-            }
-          },
-          {
             "id": "937e9e88fab8e789",
             "type": "leaf",
             "state": {
@@ -59,16 +47,6 @@
               },
               "icon": "lucide-file",
               "title": "推荐信"
-            }
-          },
-          {
-            "id": "608be406c910f956",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
             }
           }
         ],
@@ -269,8 +247,8 @@
   },
   "active": "a670d80c097ca668",
   "lastOpenFiles": [
-    "Why School.md",
     "文书.md",
+    "Why School.md",
     "推荐信.md",
     "SOP.md",
     "RL-Cloudsim Plus.md",
